@@ -1,0 +1,9 @@
+COREF,start_token,end_token,prop,cat,text
+1,58,58,PROP,GPE,America
+2,119,119,PROP,GPE,Arkansaw
+3,2008,2008,PROP,GPE,Land
+4,2271,2271,PROP,GPE,Louisiana
+7,2305,2306,PROP,GPE,St. Louis
+8,2667,2667,PROP,GPE,Elexandria
+9,2672,2672,PROP,GPE,Iowa
+28,3244,3245,PROP,GPE,Jubiter Dunlap

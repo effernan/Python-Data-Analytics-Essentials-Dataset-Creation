@@ -1,0 +1,959 @@
+,Location,Latitude,Longitude,Titles
+0,Montmartre,48.8854619,2.3391535,A Son at the Front
+1,America,39.7837304,-100.445882,A Son at the Front
+2,England,52.5310214,-1.2649062,A Son at the Front
+3,London,51.5074456,-0.1277653,A Son at the Front
+4,Paris,48.8588897,2.320041,A Son at the Front
+5,Deauville,49.3595018,0.0746638,A Son at the Front
+6,Aix,50.4912838,3.2907097,A Son at the Front
+7,Berlin,52.5173885,13.3951309,A Son at the Front
+8,St. Moritz,46.4978958,9.8392428,A Son at the Front
+9,Sicily,37.587794,14.155048,A Son at the Front
+10,North Africa,41.362599,2.159665,A Son at the Front
+11,Lille,50.6365654,3.0635282,A Son at the Front
+12,French,46.603354,1.8883335,A Son at the Front
+13,Africa,11.5024338,17.7578122,A Son at the Front
+14,France,46.603354,1.8883335,A Son at the Front
+15,Sedan,49.7033759,4.9433409,A Son at the Front
+16,Palermo,38.1112268,13.3524434,A Son at the Front
+17,New York,40.7127281,-74.0060152,A Son at the Front
+18,China,35.000074,104.999927,A Son at the Front
+19,1870,14.6003268,121.1640697,A Son at the Front
+20,Madrid,40.416782,-3.703507,A Son at the Front
+21,Lavengro,50.6542887,-1.2005045,A Son at the Front
+22,Harvard,42.3657432,-71.1222139,A Son at the Front
+23,Brant,43.1010804,-80.4288217,A Son at the Front
+24,Utica,43.1009031,-75.2326641,A Son at the Front
+25,The Hague,52.0749456,4.2696802,A Son at the Front
+26,Luxembourg,49.8158683,6.1296751,A Son at the Front
+27,Europe,51.0,10.0,A Son at the Front
+28,Spain,39.3260685,-4.8379791,A Son at the Front
+29,Cordova,37.8845813,-4.7760138,A Son at the Front
+30,Reuters,50.674148,9.3506547,A Son at the Front
+31,Sargent,46.1101793,-97.6291809,A Son at the Front
+32,Lyons,41.811108,-87.8232695,A Son at the Front
+33,Frankfort,50.1106444,8.6820917,A Son at the Front
+34,Vienna,48.2083537,16.3725042,A Son at the Front
+35,Belgrade,44.8178131,20.4568974,A Son at the Front
+36,Alsace - Lorraine,48.8718053,2.5737252,A Son at the Front
+37,Germany,51.1638175,10.4478313,A Son at the Front
+38,Russia,64.6863136,97.7453061,A Son at the Front
+39,Nuremberg,49.453872,11.077298,A Son at the Front
+40,Wesel,51.6576909,6.617087,A Son at the Front
+41,Belgium,50.6402809,4.6667145,A Son at the Front
+42,Fortin - Lescluze,,,A Son at the Front
+43,CompiÃ¨gne,,,A Son at the Front
+44,Biarritz,43.4711438,-1.5527266,A Son at the Front
+45,Campton,37.7342526,-83.547409,A Son at the Front
+46,Saverne,48.7419909,7.3625953,A Son at the Front
+47,Calais,50.9524769,1.8538446,A Son at the Front
+48,Annette,35.6507997,-120.1790348,A Son at the Front
+49,Alsace,33.98279,-118.4123635,A Son at the Front
+50,Nancy,48.6937223,6.1834097,A Son at the Front
+51,Chalons,45.4458331,4.9310763,A Son at the Front
+52,Louvain,50.879202,4.7011675,A Son at the Front
+53,Rheims,42.4009049,-77.2538665,A Son at the Front
+54,Havre,48.5536972,-109.677802,A Son at the Front
+55,Cherbourg,49.5127198,-1.5755441,A Son at the Front
+56,Mexico,23.6585116,-102.0077097,A Son at the Front
+57,Dixmude,51.0333408,2.8647185,A Son at the Front
+58,Ypres,50.8521947,2.8846047,A Son at the Front
+59,ArmentiÃ¨res,-37.3198575,-59.1662484,A Son at the Front
+60,Arras,50.291048,2.7772211,A Son at the Front
+61,Vailly,48.3696201,4.1224104,A Son at the Front
+62,Aisne,49.4532855,3.606899,A Son at the Front
+63,Maucourt,49.6363226,3.0738049,A Son at the Front
+64,Mogeville,49.242751,5.5305574,A Son at the Front
+65,Verdun,49.1589278,5.3867277,A Son at the Front
+66,Vermelles,50.4884634,2.746528,A Son at the Front
+67,Pas - de - Calais,50.5144061,2.2580078,A Son at the Front
+68,Aix Noulette,50.4256645,2.7128999,A Son at the Front
+69,the Hauts - de - Meuse,,,A Son at the Front
+70,Saint - Mihiel,48.891207,5.5423046,A Son at the Front
+71,Poland,52.215933,19.134422,A Son at the Front
+72,Kielce - Sandomir,50.6805234,21.7493362,A Son at the Front
+73,San,7.0000085,-73.2500086,A Son at the Front
+74,Galicia,42.61946,-7.863112,A Son at the Front
+75,Mlawa,53.1116182,20.3831732,A Son at the Front
+76,Suippes,49.1308493,4.531783,A Son at the Front
+77,St. Cloud,45.5616075,-94.1642004,A Son at the Front
+78,Washington,38.8950368,-77.0365427,A Son at the Front
+79,Rotterdam,51.9244424,4.47775,A Son at the Front
+80,Murray Bay,-36.7329277,174.7528516,A Son at the Front
+81,Boulogne,46.7947224,-1.3210389,A Son at the Front
+82,Camptons,-41.3646672,146.9266728,A Son at the Front
+83,Parisian,39.3033851,-84.5189385,A Son at the Front
+84,Villejuif,48.7921098,2.3633048,A Son at the Front
+85,Headquarters,43.704726,-110.7354041,A Son at the Front
+86,Vauquois,49.2034043,5.0728902,A Son at the Front
+87,Sainte Menehould,49.0904192,4.8967637,A Son at the Front
+88,Atrocities,38.3555813,125.4880613,A Son at the Front
+89,Neuve Chapelle,50.583883,2.7799149,A Son at the Front
+90,Connecticut,41.6500201,-72.7342163,A Son at the Front
+91,the Argonne,39.7992431,-104.7670906,A Son at the Front
+92,Bohemia,40.770609,-73.1200703,A Son at the Front
+93,Italy,42.6384261,12.674297,A Son at the Front
+94,Austria,47.59397,14.12456,A Son at the Front
+95,Anzac,56.4525903,-111.0482383,A Son at the Front
+96,Suvla,40.3032553,26.2344187,A Son at the Front
+97,St. Denis,48.935773,2.3580232,A Son at the Front
+98,George,30.857421,-88.6537118,A Son at the Front
+99,Luzarches,49.1124996,2.4223849,A Son at the Front
+100,Doullens,50.1572085,2.3410532,A Son at the Front
+101,ChÃ¢lons,46.774992,6.0376801,A Son at the Front
+102,Amiens,49.8941708,2.2956951,A Son at the Front
+103,Boylston,42.353279,-71.7343582,A Son at the Front
+104,Plattsburg,39.5663941,-94.4521341,A Son at the Front
+105,Georgia,32.3293809,-83.1137366,A Son at the Front
+106,Illinois,40.0796606,-89.4337288,A Son at the Front
+107,California,36.7014631,-118.755997,A Son at the Front
+108,Parisâ€”â€œwith,,,A Son at the Front
+109,Beausite,48.9653436,5.2111728,A Son at the Front
+110,Silesia,45.5564801,-108.8413108,A Son at the Front
+111,Benny,46.7816237,-81.629589,A Son at the Front
+112,Bernstorff,55.7584315,12.5523479,A Son at the Front
+113,Springfield,39.7990175,-89.6439575,Summer
+114,Hepburn,40.8481448,-95.0165524,Summer
+115,Nettleton,34.089803,-88.6223964,Summer
+116,North Dormer,53.1261632,-0.2815871,Summer
+117,Eagle Range,39.8809563,-75.1731321,Summer
+118,Italy,42.6384261,12.674297,Summer
+119,England,52.5310214,-1.2649062,Summer
+120,Plymouth,50.3714122,-4.1424451,Summer
+121,Salem,44.9391565,-123.033121,Summer
+122,Eagle County,39.6161124,-106.7172844,Summer
+123,Dormer,52.854588,-8.9789574,Summer
+124,Hamblin,36.3296724,-119.6098499,Summer
+125,Creston,41.0585878,-94.361397,Summer
+126,Nettletons,-35.3781117,150.0130083,Summer
+127,New Hampshire,43.4849133,-71.6553992,Summer
+128,New York,40.7127281,-74.0060152,Summer
+129,Verena,-25.4807404,29.0168219,Summer
+130,Boston,42.3554334,-71.060511,Summer
+131,France,46.603354,1.8883335,Summer
+132,Creston River,41.0116704,-94.3881316,Summer
+133,August,37.979919,-121.2621572,Summer
+134,Providence,41.8239891,-71.4128343,Summer
+135,Creston Falls,47.7373463,-117.4984365,Summer
+136,Worcester,42.2625621,-71.8018877,Summer
+137,Portland,45.5202471,-122.674194,Summer
+138,Victory,44.5092023,-71.8453264,Summer
+139,New York,40.7127281,-74.0060152,The Age of Innocence
+140,Paris,48.8534951,2.3483915,The Age of Innocence
+141,Vienna,48.2083537,16.3725042,The Age of Innocence
+142,Newland,36.0873484,-81.9273363,The Age of Innocence
+143,South Carolina,33.6874388,-80.4363743,The Age of Innocence
+144,Philadelphia Thorleys,,,The Age of Innocence
+145,Albany,41.000028,19.9999619,The Age of Innocence
+146,University Place,47.2258172,-122.5371325,The Age of Innocence
+147,Leffertses,,,The Age of Innocence
+148,Cuba,23.0131338,-80.8328748,The Age of Innocence
+149,Europe,51.0,10.0,The Age of Innocence
+150,Staten Island,40.5834557,-74.1496048,The Age of Innocence
+151,Louis Napoleon,43.3535235,4.8681862,The Age of Innocence
+152,Nice,43.7009358,7.2683912,The Age of Innocence
+153,Venice,45.4371908,12.3345898,The Age of Innocence
+154,Beaufort,50.2144406,3.9615305,The Age of Innocence
+155,America,39.7837304,-100.445882,The Age of Innocence
+156,Kew,51.4771443,-0.2855658,The Age of Innocence
+157,England,52.5310214,-1.2649062,The Age of Innocence
+158,Philadelphia,39.9527237,-75.1635262,The Age of Innocence
+159,York,53.9656579,-1.0743052,The Age of Innocence
+160,Rome,41.8933203,12.4829321,The Age of Innocence
+161,Madison Square,-26.0731268,27.9637919,The Age of Innocence
+162,New England,44.2057083,-70.7537839,The Age of Innocence
+163,Newlands,-33.9742832,18.4572951,The Age of Innocence
+164,Lausanne,46.5218269,6.6327025,The Age of Innocence
+165,Luyden,,,The Age of Innocence
+166,Saratoga,43.0833231,-73.8712155,The Age of Innocence
+167,Washington Square,39.9470379,-75.1523257,The Age of Innocence
+168,Manhattan,40.7896239,-73.9598939,The Age of Innocence
+169,Chippendale,-33.8863291,151.1998211,The Age of Innocence
+170,Baltimore,39.2908816,-76.610759,The Age of Innocence
+171,Maryland,39.5162401,-76.9382069,The Age of Innocence
+172,St. Austrey,52.6566941,-1.5644977,The Age of Innocence
+173,Trevenna,-25.7491891,28.2010395,The Age of Innocence
+174,Cornwall,50.416667,-4.75,The Age of Innocence
+175,Gloucestershire,51.7643786,-2.1880662,The Age of Innocence
+176,Skuytercliff,,,The Age of Innocence
+177,Patroon,31.6229546,-93.9810245,The Age of Innocence
+178,Russia,64.6863136,97.7453061,The Age of Innocence
+179,Italy,42.6384261,12.674297,The Age of Innocence
+180,Manzoni,41.8901796,12.5068166,The Age of Innocence
+181,Florence,43.7697955,11.2556404,The Age of Innocence
+182,Cowes,50.7633176,-1.2985186,The Age of Innocence
+183,Transylvania,35.1982216,-82.7724889,The Age of Innocence
+184,Debrett,-36.8467769,174.7670123,The Age of Innocence
+185,Medora,39.1744908,-90.1431654,The Age of Innocence
+186,Egypt,26.2540493,29.2675469,The Age of Innocence
+187,New,51.1785153,6.4416347,The Age of Innocence
+188,Samarkand,39.6550017,66.9756954,The Age of Innocence
+189,London,51.5074456,-0.1277653,The Age of Innocence
+190,San Francisco,37.7792588,-122.4193286,The Age of Innocence
+191,Kendal,54.3289795,-2.747183,The Age of Innocence
+192,St. Augustine,40.7183728,-90.4109616,The Age of Innocence
+193,Florida,27.7567667,-81.4639835,The Age of Innocence
+194,Highbank,54.959807,-7.5975717,The Age of Innocence
+195,Rhinebeck,41.9267604,-73.912763,The Age of Innocence
+196,Aix,50.4912838,3.2907097,The Age of Innocence
+197,Granada,37.1734995,-3.5995337,The Age of Innocence
+198,Seville,37.3886303,-5.9953403,The Age of Innocence
+199,Lent,46.1199017,5.194702,The Age of Innocence
+200,Newport,41.4899827,-71.3137707,The Age of Innocence
+201,California,36.7014631,-118.755997,The Age of Innocence
+202,Providence,41.8239891,-71.4128343,The Age of Innocence
+203,Dagonets,,,The Age of Innocence
+204,Washington,38.8950368,-77.0365427,The Age of Innocence
+205,Botzen,47.5794726,8.6136303,The Age of Innocence
+206,Interlaken,46.6855231,7.8585139,The Age of Innocence
+207,Grindelwald,46.6242733,8.0367462,The Age of Innocence
+208,Etretat,49.7074621,0.2031905,The Age of Innocence
+209,Mayfair,51.5110872,-0.147058,The Age of Innocence
+210,South Kensington,51.4955817,-0.1831368,The Age of Innocence
+211,Yorkshire,53.9825271,-1.38525,The Age of Innocence
+212,Harrow,51.5968272,-0.3373046,The Age of Innocence
+213,Switzerland,46.7985624,8.2319736,The Age of Innocence
+214,Oxford,51.7520131,-1.2578499,The Age of Innocence
+215,Bucharest,44.4361414,26.1027202,The Age of Innocence
+216,Maine,45.709097,-68.8590201,The Age of Innocence
+217,Portsmouth,50.800031,-1.0906023,The Age of Innocence
+218,Tuscany,43.4586541,11.1389204,The Age of Innocence
+219,Goat Island,37.8111953,-122.3670877,The Age of Innocence
+220,Conanicut,41.5111639,-71.3752476,The Age of Innocence
+221,Boston,42.3554334,-71.060511,The Age of Innocence
+222,Yucatan,20.6845957,-88.8755669,The Age of Innocence
+223,Sillerton - Pennilow - Dagonet,,,The Age of Innocence
+224,Paradise Rocks,-31.7816714,150.8344505,The Age of Innocence
+225,Nastasia,-34.9326392,-58.9516326,The Age of Innocence
+226,Baden,48.0076713,16.2343693,The Age of Innocence
+227,Point Arley,,,The Age of Innocence
+228,North Carolina,35.6729639,-79.0392919,The Age of Innocence
+229,Jersey City,40.7215682,-74.047455,The Age of Innocence
+230,Pennsylvania,40.9699889,-77.7278831,The Age of Innocence
+231,Boulogne,46.7947224,-1.3210389,The Age of Innocence
+232,Pisa,43.4714722,10.6797912,The Age of Innocence
+233,Monte Carlo,43.7402961,7.426559,The Age of Innocence
+234,Olenski,-21.7637676,-48.8321459,The Age of Innocence
+235,Letterblair,,,The Age of Innocence
+236,Heaven,51.507865,-0.1245597,The Age of Innocence
+237,Russia--,64.6863136,97.7453061,The Age of Innocence
+238,Calais,50.9524769,1.8538446,The Age of Innocence
+239,Athens,33.9597677,-83.376398,The Age of Innocence
+240,Smyrna,38.23166,27.02997,The Age of Innocence
+241,Constantinople,41.006381,28.9758715,The Age of Innocence
+242,Naples,40.8358846,14.2487679,The Age of Innocence
+243,India,22.3511148,78.6677428,The Age of Innocence
+244,Japan,36.5748441,139.2394179,The Age of Innocence
+245,Eastlake,41.6490337,-81.4378991,The Age of Innocence
+246,Chicago,41.8755616,-87.6244212,The Age of Innocence
+247,Mauretania,20.2540382,-9.2399263,The Age of Innocence
+248,Marseilles,41.3308666,-88.7081293,The Age of Innocence
+249,France,46.603354,1.8883335,The Age of Innocence
+250,Mont Blanc,45.8327056,6.8651706,The Age of Innocence
+251,Rheims,42.4009049,-77.2538665,The Age of Innocence
+252,Chartres,48.4438601,1.4881434,The Age of Innocence
+253,Buenos Ayres,-34.6095579,-58.3887904,The Age of Innocence
+254,Versailles,48.8035403,2.1266886,The Age of Innocence
+255,Jove,43.6851765,-7.5115144,The Age of Innocence
+256,Mansart,49.6134629,0.7495045,The Age of Innocence
+257,Algiers,36.7729333,3.0588445,The Children
+258,America,39.7837304,-100.445882,The Children
+259,Boston,42.3554334,-71.060511,The Children
+260,Geneva,46.2017559,6.1466014,The Children
+261,Canterbury,51.2800275,1.0802533,The Children
+262,Devonshire,50.7241405,-3.6607788,The Children
+263,Chatsworth,34.2572499,-118.6017022,The Children
+264,Venice,45.4371908,12.3345898,The Children
+265,Australia,-24.7761086,134.755,The Children
+266,Egypt,26.2540493,29.2675469,The Children
+267,New York,40.7127281,-74.0060152,The Children
+268,Harvard,42.3657432,-71.1222139,The Children
+269,Biskra,34.8508816,5.729074,The Children
+270,Italy,42.6384261,12.674297,The Children
+271,Monreale,38.0826321,13.2919931,The Children
+272,Palermo,38.1112268,13.3524434,The Children
+273,Sicily,37.587794,14.155048,The Children
+274,Europe,51.0,10.0,The Children
+275,Rumania,45.9852129,24.6859225,The Children
+276,Brazil,-10.3333333,-53.2,The Children
+277,Biarritz,43.4711438,-1.5527266,The Children
+278,CÃ¦sar,47.672289,-77.2367872,The Children
+279,Riviera,27.2987386,-97.8143004,The Children
+280,Cortina,43.3297542,-5.7970774,The Children
+281,Deauville,49.3595018,0.0746638,The Children
+282,Chipstone,35.345104,-80.747683,The Children
+283,Groton,41.3454024,-72.0462196,The Children
+284,Leysin,46.3438701,7.0148403,The Children
+285,Cowes,50.7633176,-1.2985186,The Children
+286,England,52.5310214,-1.2649062,The Children
+287,Paris,48.8534951,2.3483915,The Children
+288,San Giorgio,45.686088,11.0852567,The Children
+289,Fusina,45.4190765,12.257771,The Children
+290,Palaces,41.5067472,44.4995122,The Children
+291,Switzerland,46.7985624,8.2319736,The Children
+292,Cliffeâ€™s,,,The Children
+293,Zinnia,39.22731,-80.6037095,The Children
+294,Corfu,39.591337,19.8596189,The Children
+295,Athens,33.9597677,-83.376398,The Children
+296,Scopys,0.2150439,32.5476619,The Children
+297,Mendip,51.1943905,-2.5419221,The Children
+298,York,53.9656579,-1.0743052,The Children
+299,Padua,45.4077172,11.8734455,The Children
+300,Buondelmonte,43.7105772,11.2146406,The Children
+301,Rome,41.8933203,12.4829321,The Children
+302,Trieste,45.6496485,13.7772781,The Children
+303,Morocco,28.3347722,-10.3713379,The Children
+304,South Africa,-28.8166236,24.991639,The Children
+305,Cliffe,51.4623809,0.5006686,The Children
+306,Ormerod,53.794089,-2.2332877,The Children
+307,California,36.7014631,-118.755997,The Children
+308,Hollywood,34.0980031,-118.329523,The Children
+309,Mafeking,-25.863611,25.658611,The Children
+310,London,51.5074456,-0.1277653,The Children
+311,Browning,40.1289355,-90.3720685,The Children
+312,Misurina,46.5785263,12.252033,The Children
+313,Westway,31.9591108,-106.575002,The Children
+314,Toblach,46.735425,12.2242801,The Children
+315,Botzen,47.5794726,8.6136303,The Children
+316,Constantinople,41.006381,28.9758715,The Children
+317,Texas,31.2638905,-98.5456116,The Children
+318,Lohengrin,52.4975713,13.32302,The Children
+319,Lancashire,53.8611712,-2.5650945,The Children
+320,the United States,47.8291375,-122.5970742,The Children
+321,Riva,45.8847708,10.8396942,The Children
+322,Meran,46.6713536,11.1646348,The Children
+323,Lyon,45.7578137,4.8320114,The Children
+324,Verona,45.4424977,10.9857377,The Children
+325,Incunabula,,,The Children
+326,Dinard,48.6320379,-2.0580178,The Children
+327,Versailles,48.8035403,2.1266886,The Children
+328,Rio,-22.9110137,-43.2093727,The Children
+329,Liverpool,53.4071991,-2.99168,The Children
+330,Bordeaux,44.841225,-0.5800364,The Children
+331,Cibour,,,The Children
+332,Hendaye,43.3641518,-1.7616499,The Children
+333,Chamonix,45.9246705,6.8727506,The Children
+334,Apex City,-26.2141266,28.3302017,The Custom of the Country
+335,New York,40.7127281,-74.0060152,The Custom of the Country
+336,Apex,35.7325352,-78.8505516,The Custom of the Country
+337,Atalanta,-27.421916,-49.778863,The Custom of the Country
+338,England,52.5310214,-1.2649062,The Custom of the Country
+339,York,53.9656579,-1.0743052,The Custom of the Country
+340,Cracow,50.0469432,19.9971534,The Custom of the Country
+341,Georgia,32.3293809,-83.1137366,The Custom of the Country
+342,Nebraska,41.7370229,-99.5873816,The Custom of the Country
+343,Berlin,52.5173885,13.3951309,The Custom of the Country
+344,Cavaleeria,,,The Custom of the Country
+345,Europe,51.0,10.0,The Custom of the Country
+346,California,36.7014631,-118.755997,The Custom of the Country
+347,Buffalo,42.8867166,-78.8783922,The Custom of the Country
+348,Indiana,40.3270127,-86.1746933,The Custom of the Country
+349,Richmond,37.5385087,-77.43428,The Custom of the Country
+350,Virginia,37.1232245,-78.4927721,The Custom of the Country
+351,Washington,38.8950368,-77.0365427,The Custom of the Country
+352,Boston,42.3554334,-71.060511,The Custom of the Country
+353,Deposit,42.0600834,-75.4276769,The Custom of the Country
+354,Skog Harbour,53.982897,-1.4585353,The Custom of the Country
+355,Maine,45.709097,-68.8590201,The Custom of the Country
+356,Bostonian,42.3609657,-71.0559416,The Custom of the Country
+357,Washington Square,39.9470379,-75.1523257,The Custom of the Country
+358,Harvard,42.3657432,-71.1222139,The Custom of the Country
+359,Oxford,51.7520131,-1.2578499,The Custom of the Country
+360,Columbia,4.099917,-72.9088133,The Custom of the Country
+361,Spain,39.3260685,-4.8379791,The Custom of the Country
+362,UNdoolay,,,The Custom of the Country
+363,Andromeda,50.798916,14.108527,The Custom of the Country
+364,Wales,52.2928116,-3.73893,The Custom of the Country
+365,Alaska,64.4459613,-149.680909,The Custom of the Country
+366,Eubaw,,,The Custom of the Country
+367,Lohengrin,52.4975713,13.32302,The Custom of the Country
+368,Kindergarten,52.224822,11.0189729,The Custom of the Country
+369,Siena,43.167206,11.467561,The Custom of the Country
+370,Naples,40.8358846,14.2487679,The Custom of the Country
+371,Switzerland,46.7985624,8.2319736,The Custom of the Country
+372,Lecceto,43.1953112,11.6598451,The Custom of the Country
+373,Rome,41.8933203,12.4829321,The Custom of the Country
+374,Italy,42.6384261,12.674297,The Custom of the Country
+375,St. Moritz,46.4978958,9.8392428,The Custom of the Country
+376,Jove,43.6851765,-7.5115144,The Custom of the Country
+377,Prometheus,40.7587051,-73.9785783,The Custom of the Country
+378,Paris,48.8534951,2.3483915,The Custom of the Country
+379,America,39.7837304,-100.445882,The Custom of the Country
+380,August,37.979919,-121.2621572,The Custom of the Country
+381,New York--,40.7127281,-74.0060152,The Custom of the Country
+382,Greenock,55.9473423,-4.7564721,The Custom of the Country
+383,London,51.5074456,-0.1277653,The Custom of the Country
+384,Plymouth,50.3714122,-4.1424451,The Custom of the Country
+385,Enghien,50.6957066,4.0411928,The Custom of the Country
+386,Chantilly,49.1931736,2.4636686,The Custom of the Country
+387,Parisian,39.3033851,-84.5189385,The Custom of the Country
+388,Apex!--could,,,The Custom of the Country
+389,Morningside,-26.0780556,28.0644444,The Custom of the Country
+390,Ararat,39.7019346,44.2983964,The Custom of the Country
+391,Tuxedo,41.1934278,-74.1843129,The Custom of the Country
+392,Newport,41.4899827,-71.3137707,The Custom of the Country
+393,France,46.603354,1.8883335,The Custom of the Country
+394,Burgundy,47.2780873,4.2224863,The Custom of the Country
+395,Faubourg,46.9211928,5.2923911,The Custom of the Country
+396,Potash Springs,33.2870617,-85.3135587,The Custom of the Country
+397,Aix,50.4912838,3.2907097,The Custom of the Country
+398,Italy--,42.6384261,12.674297,The Custom of the Country
+399,Venice,45.4371908,12.3345898,The Custom of the Country
+400,Trouville,49.3679823,0.0809113,The Custom of the Country
+401,Normandy,49.0677708,0.3138532,The Custom of the Country
+402,Scotland,56.7861112,-4.1140518,The Custom of the Country
+403,Norway--,61.1529386,8.7876653,The Custom of the Country
+404,Chelles,49.3549458,3.0344372,The Custom of the Country
+405,the Bronx,40.8466508,-73.8785937,The Custom of the Country
+406,Long Island,40.8514971,-73.0994297,The Custom of the Country
+407,New Yorkers,40.522796,-3.8941408,The Custom of the Country
+408,Chicago,41.8755616,-87.6244212,The Custom of the Country
+409,Omaha,41.2587459,-95.9383758,The Custom of the Country
+410,Dakota,44.666655,-93.044911,The Custom of the Country
+411,the United States,47.8291375,-122.5970742,The Custom of the Country
+412,Sioux Falls,43.5476008,-96.7293629,The Custom of the Country
+413,Reno,50.4677626,7.351989,The Custom of the Country
+414,Egypt,26.2540493,29.2675469,The Custom of the Country
+415,Denver,39.7392364,-104.984862,The Custom of the Country
+416,Little Rock,34.7465071,-92.2896267,The Custom of the Country
+417,Cherbourg,49.5127198,-1.5755441,The Custom of the Country
+418,Lucerne,47.0505452,8.3054682,The Custom of the Country
+419,Monte - Carlo,43.7402961,7.426559,The Custom of the Country
+420,Nice,43.7009358,7.2683912,The Custom of the Country
+421,Cimiez,43.7148135,7.2724875,The Custom of the Country
+422,Beaulieu,47.7277699,4.7269377,The Custom of the Country
+423,March,49.3597062,17.3094202,The Custom of the Country
+424,Esquire,51.0785281,-114.1497323,The Custom of the Country
+425,NEW,51.1785153,6.4416347,The Custom of the Country
+426,San Francisco,37.7792588,-122.4193286,The Custom of the Country
+427,Opake,-37.7707523,177.7466775,The Custom of the Country
+428,Bedlam,54.0489933,-1.5925865,The Custom of the Country
+429,Montmartre,48.8854619,2.3391535,The Custom of the Country
+430,Saint Desert,46.7540227,4.7109194,The Custom of the Country
+431,Deauville,49.3595018,0.0746638,The Custom of the Country
+432,Pau,43.2957547,-0.3685668,The Custom of the Country
+433,Arlington,32.7355816,-97.1071186,The Custom of the Country
+434,Beaune,47.0239064,4.8380426,The Custom of the Country
+435,Dijon,47.3215806,5.0414701,The Custom of the Country
+436,Asia Minor,39.0,32.0,The Custom of the Country
+437,Congress,34.162526,-112.850737,The Custom of the Country
+438,Compiegne,49.4179497,2.8263171,The Custom of the Country
+439,Florence,43.7697955,11.2556404,The Custom of the Country
+440,Hanaford,37.9571937,-88.8405465,The Fruit of the Tree
+441,Westmore,44.7711201,-72.0548723,The Fruit of the Tree
+442,New York,40.7127281,-74.0060152,The Fruit of the Tree
+443,Long Island,40.8514971,-73.0994297,The Fruit of the Tree
+444,Paris,48.8534951,2.3483915,The Fruit of the Tree
+445,Moosuc,,,The Fruit of the Tree
+446,Hopewood,-27.4748188,152.9958769,The Fruit of the Tree
+447,Naples,40.8358846,14.2487679,The Fruit of the Tree
+448,Vienna,48.2083537,16.3725042,The Fruit of the Tree
+449,Albany,41.000028,19.9999619,The Fruit of the Tree
+450,Europe,51.0,10.0,The Fruit of the Tree
+451,America,39.7837304,-100.445882,The Fruit of the Tree
+452,Warsaw,52.2333742,21.0711489,The Fruit of the Tree
+453,England,52.5310214,-1.2649062,The Fruit of the Tree
+454,Clifton,40.8584328,-74.1637553,The Fruit of the Tree
+455,Lynbrook,40.6548253,-73.6717969,The Fruit of the Tree
+456,Rushton,53.1725578,-2.6235762,The Fruit of the Tree
+457,Maplewood,45.0082216,-93.0456985,The Fruit of the Tree
+458,Capua,41.1079984,14.2097176,The Fruit of the Tree
+459,Chicago,41.8755616,-87.6244212,The Fruit of the Tree
+460,Carbury,53.3558412,-6.9627118,The Fruit of the Tree
+461,Amherst,42.3731948,-72.5198761,The Fruit of the Tree
+462,Newport,41.4899827,-71.3137707,The Fruit of the Tree
+463,Islip,40.7300685,-73.2107266,The Fruit of the Tree
+464,Mapleside,43.0024792,-95.6238975,The Fruit of the Tree
+465,Egypt,26.2540493,29.2675469,The Fruit of the Tree
+466,Boston,42.3554334,-71.060511,The Fruit of the Tree
+467,Baltimore,39.2908816,-76.610759,The Fruit of the Tree
+468,Philadelphia,39.9527237,-75.1635262,The Fruit of the Tree
+469,New Jersey,40.0757384,-74.4041622,The Fruit of the Tree
+470,Georgia,32.3293809,-83.1137366,The Fruit of the Tree
+471,Millfield,39.4328491,-82.0968114,The Fruit of the Tree
+472,London,51.5074456,-0.1277653,The Fruit of the Tree
+473,Bermuda,32.3040273,-64.7563086,The Fruit of the Tree
+474,Wady Halfa,21.7960994,31.3718673,The Fruit of the Tree
+475,Algiers,36.7729333,3.0588445,The Fruit of the Tree
+476,Corrientes,-29.0177384,-57.8869739,The Fruit of the Tree
+477,Alexandria,44.8349534,8.7450304,The Fruit of the Tree
+478,Brindisi,40.6358599,17.6884975,The Fruit of the Tree
+479,Cherbourg,49.5127198,-1.5755441,The Fruit of the Tree
+480,Buenos Ayres,-34.6095579,-58.3887904,The Fruit of the Tree
+481,Bessy,48.545588,4.0253964,The Fruit of the Tree
+482,Louis,0.4105973,9.4328279,The Fruit of the Tree
+483,Germany,51.1638175,10.4478313,The Fruit of the Tree
+484,Cicely,42.3516215,-3.6628962,The Fruit of the Tree
+485,Mount Desert,44.2937483,-68.2890678,The Fruit of the Tree
+486,September,-33.9066532,18.8504173,The Fruit of the Tree
+487,Canada,61.0666922,-107.991707,The Fruit of the Tree
+488,avowal,,,The Fruit of the Tree
+489,Tuxedo,41.1934278,-74.1843129,The Fruit of the Tree
+490,Lakewood,39.7085736,-105.0846694,The Fruit of the Tree
+491,Quebec,52.4760892,-71.8258668,The Fruit of the Tree
+492,Montreal,45.5031824,-73.5698065,The Fruit of the Tree
+493,Saranac,44.651559,-73.743668,The Fruit of the Tree
+494,Hanaford----,37.9571937,-88.8405465,The Fruit of the Tree
+495,Michigan,43.6211955,-84.6824346,The Fruit of the Tree
+496,Chicago,41.8755616,-87.6244212,The Glimpses of the Moon
+497,Versailles,48.8035403,2.1266886,The Glimpses of the Moon
+498,Monte Carlo,43.7402961,7.426559,The Glimpses of the Moon
+499,Paris,48.8588897,2.320041,The Glimpses of the Moon
+500,Como,45.9394759,9.1494101,The Glimpses of the Moon
+501,Newport,41.4899827,-71.3137707,The Glimpses of the Moon
+502,California,36.7014631,-118.755997,The Glimpses of the Moon
+503,Canada,61.0666922,-107.991707,The Glimpses of the Moon
+504,Florida,27.7567667,-81.4639835,The Glimpses of the Moon
+505,New York,40.7127281,-74.0060152,The Glimpses of the Moon
+506,New Hampshire,43.4849133,-71.6553992,The Glimpses of the Moon
+507,India,22.3511148,78.6677428,The Glimpses of the Moon
+508,Venice,45.4371908,12.3345898,The Glimpses of the Moon
+509,Milan,45.4641943,9.1896346,The Glimpses of the Moon
+510,Rome,41.8933203,12.4829321,The Glimpses of the Moon
+511,Bucharest,44.4361414,26.1027202,The Glimpses of the Moon
+512,Europe,51.0,10.0,The Glimpses of the Moon
+513,Philadelphia,39.9527237,-75.1635262,The Glimpses of the Moon
+514,Altringham,51.4635461,-2.5486784,The Glimpses of the Moon
+515,Great Britain,54.3151594,-1.9181532,The Glimpses of the Moon
+516,Ireland,52.865196,-7.9794599,The Glimpses of the Moon
+517,Scotland,56.7861112,-4.1140518,The Glimpses of the Moon
+518,Capri,40.5488429,14.2283708,The Glimpses of the Moon
+519,St. Moritz,46.4978958,9.8392428,The Glimpses of the Moon
+520,Deauville,49.3595018,0.0746638,The Glimpses of the Moon
+521,Aquileia,45.7696144,13.3697982,The Glimpses of the Moon
+522,Mesopotamia,34.9034867,42.0588806,The Glimpses of the Moon
+523,Bryn Mawr,40.0238245,-75.3173407,The Glimpses of the Moon
+524,Bagdad,33.3061701,44.3872213,The Glimpses of the Moon
+525,Turkestan,43.3019457,68.2703698,The Glimpses of the Moon
+526,Pomposa,44.8406057,12.1764477,The Glimpses of the Moon
+527,Ravenna,44.3640607,12.0590095,The Glimpses of the Moon
+528,Asia,51.2086975,89.2343748,The Glimpses of the Moon
+529,Biarritz,43.4832523,-1.5592776,The Glimpses of the Moon
+530,Austria,47.59397,14.12456,The Glimpses of the Moon
+531,London,51.5074456,-0.1277653,The Glimpses of the Moon
+532,Vanderlyn,42.6743451,-73.8914211,The Glimpses of the Moon
+533,Mayfair,51.5110872,-0.147058,The Glimpses of the Moon
+534,Torcello,45.4971455,12.4152848,The Glimpses of the Moon
+535,Persia,32.6475314,54.5643516,The Glimpses of the Moon
+536,Crete,41.4445334,-87.6313829,The Glimpses of the Moon
+537,Northumberland,55.25,-2.000559,The Glimpses of the Moon
+538,San Giorgio,45.686088,11.0852567,The Glimpses of the Moon
+539,England,52.5310214,-1.2649062,The Glimpses of the Moon
+540,Genoa,44.40726,8.9338624,The Glimpses of the Moon
+541,Tiepolo,-33.480536,-70.5361038,The Glimpses of the Moon
+542,Turin,45.0677551,7.6824892,The Glimpses of the Moon
+543,China,35.000074,104.999927,The Glimpses of the Moon
+544,September,-33.9066532,18.8504173,The Glimpses of the Moon
+545,Providence,41.8239891,-71.4128343,The Glimpses of the Moon
+546,Roslyn,40.7998227,-73.6509621,The Glimpses of the Moon
+547,Brindisi,40.6358599,17.6884975,The Glimpses of the Moon
+548,Egypt,26.2540493,29.2675469,The Glimpses of the Moon
+549,Fulmer,51.5614118,-0.5614202,The Glimpses of the Moon
+550,Streff,49.6492086,5.9586835,The Glimpses of the Moon
+551,Garcon,44.6417903,-1.10172,The Glimpses of the Moon
+552,Munich,48.1371079,11.5753822,The Glimpses of the Moon
+553,Spain,39.3260685,-4.8379791,The Glimpses of the Moon
+554,Malta,35.8885993,14.4476911,The Glimpses of the Moon
+555,Corsica,42.188098,9.0683139,The Glimpses of the Moon
+556,Sardinia,40.0912813,9.0305773,The Glimpses of the Moon
+557,Sicily,37.587794,14.155048,The Glimpses of the Moon
+558,Naples,40.8358846,14.2487679,The Glimpses of the Moon
+559,Rhodes,48.7584377,6.8985177,The Glimpses of the Moon
+560,Apex City,-26.2141266,28.3302017,The Glimpses of the Moon
+561,Mantegna,-31.4148488,-64.5227189,The Glimpses of the Moon
+562,Candia,35.3084952,24.4633423,The Glimpses of the Moon
+563,Ruan,49.4404591,1.0939658,The Glimpses of the Moon
+564,Cairo,30.0443879,31.2357257,The Glimpses of the Moon
+565,Altringhamâ€--and,,,The Glimpses of the Moon
+566,Ibis,14.5942561,120.3969795,The Glimpses of the Moon
+567,Teutoburger,52.0562587,8.4047596,The Glimpses of the Moon
+568,Nice,43.7009358,7.2683912,The Glimpses of the Moon
+569,Berlin,52.5173885,13.3951309,The Glimpses of the Moon
+570,Vienna,48.2083537,16.3725042,The Glimpses of the Moon
+571,Madrid,40.416782,-3.703507,The Glimpses of the Moon
+572,St. James,51.5069112,-0.1331561,The Glimpses of the Moon
+573,Athens,33.9597677,-83.376398,The Glimpses of the Moon
+574,Teutoburg,52.0562587,8.4047596,The Glimpses of the Moon
+575,Dunes,44.087932,0.7699984,The Glimpses of the Moon
+576,Switzerland,46.7985624,8.2319736,The Glimpses of the Moon
+577,Lansing,42.7338254,-84.5546295,The Glimpses of the Moon
+578,London--,51.5074456,-0.1277653,The Glimpses of the Moon
+579,Italy,42.6384261,12.674297,The Glimpses of the Moon
+580,West,18.7668687,-72.4387315,The Glimpses of the Moon
+581,Central Asia,3.1624869,101.7125461,The Glimpses of the Moon
+582,Saracenic,,,The Glimpses of the Moon
+583,Passy,46.5412837,4.5343419,The Glimpses of the Moon
+584,America,39.7837304,-100.445882,The Glimpses of the Moon
+585,Waldhain,,,The Glimpses of the Moon
+586,Teutoburg - Waldhain,,,The Glimpses of the Moon
+587,St. Eustache,17.5085293,-62.9954769,The Glimpses of the Moon
+588,La Muette,48.8579754,2.274062,The Glimpses of the Moon
+589,Palermo,38.1112268,13.3524434,The Glimpses of the Moon
+590,Fontainebleau,48.4049375,2.7015872,The Glimpses of the Moon
+591,Fontainebleau--,48.4049375,2.7015872,The Glimpses of the Moon
+592,Lyon,45.7578137,4.8320114,The Glimpses of the Moon
+593,Tuxedo,41.1934278,-74.1843129,The House of Mirth
+594,Bellomont,,,The House of Mirth
+595,Rhinebeck,41.9267604,-73.912763,The House of Mirth
+596,New York,40.7127281,-74.0060152,The House of Mirth
+597,India,22.3511148,78.6677428,The House of Mirth
+598,La Bruyere,47.83,6.48491,The House of Mirth
+599,Richfield Springs,42.8534057,-74.9854335,The House of Mirth
+600,London,51.5074456,-0.1277653,The House of Mirth
+601,Van Osburgh,,,The House of Mirth
+602,Yonkers,40.9312099,-73.8987469,The House of Mirth
+603,Albany,41.000028,19.9999619,The House of Mirth
+604,Garrisons,37.0109483,-81.6037253,The House of Mirth
+605,Europe,51.0,10.0,The House of Mirth
+606,Newport,41.4899827,-71.3137707,The House of Mirth
+607,Southampton,50.9025349,-1.404189,The House of Mirth
+608,Paris,48.8588897,2.320041,The House of Mirth
+609,New Jersey,40.0757384,-74.4041622,The House of Mirth
+610,Beltshire,,,The House of Mirth
+611,America,39.7837304,-100.445882,The House of Mirth
+612,Peekskill,41.289811,-73.9204922,The House of Mirth
+613,Richfield,44.8766431,-93.2877877,The House of Mirth
+614,Doucet,18.39919,-72.8567653,The House of Mirth
+615,Osburgh,,,The House of Mirth
+616,Rosedale,35.3919197,-119.1988098,The House of Mirth
+617,Benedick,-32.0853614,115.8099886,The House of Mirth
+618,Dorset,50.7968369,-2.3447323,The House of Mirth
+619,Neuilly,48.9321383,1.4209125,The House of Mirth
+620,Brooklyn,40.6526006,-73.9497211,The House of Mirth
+621,Selden,40.871241,-73.0454164,The House of Mirth
+622,Aix,50.4912838,3.2907097,The House of Mirth
+623,Havana,23.135305,-82.3589631,The House of Mirth
+624,Axminster,50.7820966,-2.9979915,The House of Mirth
+625,Mediterranean,35.0000035,19.9999957,The House of Mirth
+626,Monte Carlo,43.7402961,7.426559,The House of Mirth
+627,Monaco,43.7323492,7.4276832,The House of Mirth
+628,Sicily,37.587794,14.155048,The House of Mirth
+629,Cannes,43.5515198,7.0134418,The House of Mirth
+630,Macedonia,41.1927739,-95.4256198,The House of Mirth
+631,Cimiez,43.7148135,7.2724875,The House of Mirth
+632,Nice,43.7009358,7.2683912,The House of Mirth
+633,Jove,43.6851765,-7.5115144,The House of Mirth
+634,England,52.5310214,-1.2649062,The House of Mirth
+635,New Amsterdam,40.7127281,-74.0060152,The House of Mirth
+636,Long Island,40.8514971,-73.0994297,The House of Mirth
+637,Roslyn,40.7998227,-73.6509621,The House of Mirth
+638,Coney Island,40.5765081,-73.9929419,The House of Mirth
+639,Bar Harbour,40.6585289,-73.4520224,The House of Mirth
+640,Alaska,64.4459613,-149.680909,The House of Mirth
+641,Lake George,43.425996,-73.712425,The House of Mirth
+642,New York August,40.7636984,-73.9669147,The House of Mirth
+643,Van Osburghs,,,The House of Mirth
+644,Trenors,,,The House of Mirth
+645,Harvard,42.3657432,-71.1222139,The House of Mirth
+646,Normandy,49.0677708,0.3138532,The Mother Recompense
+647,Baltimore,39.2908816,-76.610759,The Mother Recompense
+648,Harvard,42.3657432,-71.1222139,The Mother Recompense
+649,New York,40.7127281,-74.0060152,The Mother Recompense
+650,St. Jean - de - Luz,43.387219,-1.6636947,The Mother Recompense
+651,Bordighera,43.7850512,7.6591094,The Mother Recompense
+652,Dinard,48.6320379,-2.0580178,The Mother Recompense
+653,America,39.7837304,-100.445882,The Mother Recompense
+654,Canada,61.0666922,-107.991707,The Mother Recompense
+655,Quebec,52.4760892,-71.8258668,The Mother Recompense
+656,France,46.603354,1.8883335,The Mother Recompense
+657,Brooklyn,40.6526006,-73.9497211,The Mother Recompense
+658,Bridgeport,41.1792695,-73.1887863,The Mother Recompense
+659,San Francisco,37.7792588,-122.4193286,The Mother Recompense
+660,Philadelphia,39.9527237,-75.1635262,The Mother Recompense
+661,Albany,41.000028,19.9999619,The Mother Recompense
+662,Taormina,37.8512218,15.2830191,The Mother Recompense
+663,Undergrounds,51.1330306,23.4712833,The Mother Recompense
+664,Elevateds,,,The Mother Recompense
+665,Paris,48.8534951,2.3483915,The Mother Recompense
+666,Spain,39.3260685,-4.8379791,The Mother Recompense
+667,Italy,42.6384261,12.674297,The Mother Recompense
+668,Rome,41.8933203,12.4829321,The Mother Recompense
+669,Bethesda,38.9812726,-77.1233587,The Mother Recompense
+670,New _ York,40.7127281,-74.0060152,The Mother Recompense
+671,Meridia,36.1510793,-95.9886215,The Mother Recompense
+672,Europe,51.0,10.0,The Mother Recompense
+673,Brooklyn Bridge,40.7062175,-73.9970208,The Mother Recompense
+674,Lilla,50.6365654,3.0635282,The Mother Recompense
+675,Washington,38.8950368,-77.0365427,The Mother Recompense
+676,Long Island,40.8514971,-73.0994297,The Mother Recompense
+677,Belleau Wood,37.9719822,-84.5045047,The Mother Recompense
+678,Rock Creek,45.7574574,-92.9624327,The Mother Recompense
+679,South Carolina,33.6874388,-80.4363743,The Mother Recompense
+680,Aubusson,48.7842759,-0.5521714,The Mother Recompense
+681,Anne,57.8017531,26.4503297,The Mother Recompense
+682,Fifth Avenue,40.8021613,-73.9453686,The Mother Recompense
+683,Rio,-22.9110137,-43.2093727,The Mother Recompense
+684,Marseilles,41.3308666,-88.7081293,The Mother Recompense
+685,Egypt,26.2540493,29.2675469,The Mother Recompense
+686,Crete,41.4445334,-87.6313829,The Mother Recompense
+687,Chicago,41.8755616,-87.6244212,The Mother Recompense
+688,Hempstead,40.6736812,-73.6190736,The Mother Recompense
+689,Madgeâ€™s--,,,The Mother Recompense
+690,St. Stephen,50.3449089,-4.8909241,The Mother Recompense
+691,D.S.M.,53.5915878,9.8789559,The Mother Recompense
+692,Meridia--,36.1510793,-95.9886215,The Mother Recompense
+693,Florida,27.7567667,-81.4639835,The Mother Recompense
+694,India,22.3511148,78.6677428,The Mother Recompense
+695,Suez,29.974498,32.537086,The Mother Recompense
+696,Liverpool,53.4071991,-2.99168,The Mother Recompense
+697,Mimosa,-34.5818,147.3679,The Mother Recompense
+698,Anaconda,46.1294685,-112.953131,The Mother Recompense
+699,Georgia,32.3293809,-83.1137366,The Mother Recompense
+700,Dover,51.1251275,1.3134228,The Reef
+701,London,51.5074456,-0.1277653,The Reef
+702,France,46.603354,1.8883335,The Reef
+703,Europe,51.0,10.0,The Reef
+704,America,39.7837304,-100.445882,The Reef
+705,England,52.5310214,-1.2649062,The Reef
+706,Oxford,51.7520131,-1.2578499,The Reef
+707,Paris,48.8534951,2.3483915,The Reef
+708,London Embassy,51.5443076,-0.1741026,The Reef
+709,Chelsea,51.4875167,-0.1687007,The Reef
+710,Calais,50.9524769,1.8538446,The Reef
+711,New York,40.7127281,-74.0060152,The Reef
+712,Amiens,49.8941708,2.2956951,The Reef
+713,Farlows,51.5071736,-0.1330328,The Reef
+714,Joigny,47.9812486,3.3995767,The Reef
+715,South America,-21.0002179,-61.0006565,The Reef
+716,Folkestone,51.0791335,1.1794073,The Reef
+717,Wichita,37.6922361,-97.3375448,The Reef
+718,Kansas,38.27312,-98.5821872,The Reef
+719,Torquay,50.4652392,-3.5211361,The Reef
+720,Montmartre,48.8854619,2.3391535,The Reef
+721,Givre,61.1789421,8.694157,The Reef
+722,Styx,-30.6202683,152.1780795,The Reef
+723,Bayswater!--Besides,,,The Reef
+724,Bellevue,47.6144219,-122.192337,The Reef
+725,Anna Leath,,,The Reef
+726,Ouchy,-19.9077718,140.9236165,The Reef
+727,Italy,42.6384261,12.674297,The Reef
+728,Darrow,3.3354515,43.1252169,The Reef
+729,Francheuil,,,The Reef
+730,Dijon,47.3215806,5.0414701,The Reef
+731,Albany,41.000028,19.9999619,The Reef
+732,South Braintree,42.2004149,-71.0006262,The Reef
+733,Massachusetts,42.3788774,-72.032366,The Reef
+734,Boston,42.3554334,-71.060511,The Reef
+735,Mount Auburn,42.2549381,-92.0926834,The Reef
+736,Marly,49.0600241,6.1545719,The Reef
+737,Rouen,49.4404591,1.0939658,The Reef
+738,Rome,41.8933203,12.4829321,The Reef
+739,Adelaide,-34.9281805,138.5999312,The Reef
+740,Lisbon,38.7077507,-9.1365919,The Reef
+741,Spain,39.3260685,-4.8379791,The Reef
+742,Nice,43.7009358,7.2683912,The Reef
+743,India,22.3511148,78.6677428,The Reef
+744,Brindisi,40.6358599,17.6884975,The Reef
+745,Assisi,43.0711952,12.6146669,The Valley of Decision
+746,Pontesordo,,,The Valley of Decision
+747,Mantua,45.1692628,10.6708365,The Valley of Decision
+748,Pianura,45.3186767,14.2700963,The Valley of Decision
+749,Italy,42.6384261,12.674297,The Valley of Decision
+750,Plutarch,37.8398124,-83.0879488,The Valley of Decision
+751,Donnaz,46.4653236,6.8912342,The Valley of Decision
+752,Cerveno,46.0025085,10.3257912,The Valley of Decision
+753,faro,37.0162944,-7.935182,The Valley of Decision
+754,Valsecca,45.827283,9.495347,The Valley of Decision
+755,Rome,41.8933203,12.4829321,The Valley of Decision
+756,Pavia,45.0368547,9.1378251,The Valley of Decision
+757,Vercelli,45.5553827,8.3462837,The Valley of Decision
+758,Milan,45.4641943,9.1896346,The Valley of Decision
+759,Parma,44.6952006,10.0979869,The Valley of Decision
+760,Savoy,45.4948952,6.3846604,The Valley of Decision
+761,Turin,45.0677551,7.6824892,The Valley of Decision
+762,Tuscany,43.4586541,11.1389204,The Valley of Decision
+763,Lucca,44.0177639,10.45443,The Valley of Decision
+764,Montferrat,45.4858,5.5902,The Valley of Decision
+765,France,46.603354,1.8883335,The Valley of Decision
+766,Genoa,44.40726,8.9338624,The Valley of Decision
+767,Avillion,53.2718467,-4.6198366,The Valley of Decision
+768,Camelot,-33.9583333,18.6666667,The Valley of Decision
+769,Valdu,41.748787,9.173533,The Valley of Decision
+770,Paris,48.8534951,2.3483915,The Valley of Decision
+771,Versailles,48.8035403,2.1266886,The Valley of Decision
+772,Asti,44.8260127,8.2026863,The Valley of Decision
+773,Oropa,45.6269648,7.9809562,The Valley of Decision
+774,Val Sesia,45.9061871,7.9060847,The Valley of Decision
+775,Salluzzo,40.8622222,14.3265464,The Valley of Decision
+776,Trescorre,,,The Valley of Decision
+777,Ivrea,45.4673791,7.874797,The Valley of Decision
+778,Novara,45.58425,8.545997,The Valley of Decision
+779,Capuan,-3.732097,-38.698457,The Valley of Decision
+780,Europe,51.0,10.0,The Valley of Decision
+781,Venice,45.4371908,12.3345898,The Valley of Decision
+782,Chivasso,45.1909588,7.8871864,The Valley of Decision
+783,Vettura,42.9634607,-73.7966964,The Valley of Decision
+784,Chioggia,45.218894,12.2785805,The Valley of Decision
+785,Casa Valdu,41.7588308,9.1755983,The Valley of Decision
+786,England,52.5310214,-1.2649062,The Valley of Decision
+787,Russia,64.6863136,97.7453061,The Valley of Decision
+788,Scyros,48.8068131,2.1120048,The Valley of Decision
+789,Damascus,39.2884381,-77.2038717,The Valley of Decision
+790,Zaire,-2.9814344,23.8222636,The Valley of Decision
+791,Lyons,41.811108,-87.8232695,The Valley of Decision
+792,Vignola,44.4784141,11.0090928,The Valley of Decision
+793,Naples,40.8358846,14.2487679,The Valley of Decision
+794,Piedmont,45.060735,7.923549,The Valley of Decision
+795,Spain,39.3260685,-4.8379791,The Valley of Decision
+796,Cantapresto,,,The Valley of Decision
+797,Italy:--,42.6384261,12.674297,The Valley of Decision
+798,Blois,47.5876861,1.3337639,The Valley of Decision
+799,Vendome,47.7934453,1.0662256,The Valley of Decision
+800,Vienna,48.2083537,16.3725042,The Valley of Decision
+801,Utopia,29.6152274,-99.5269927,The Valley of Decision
+802,Tuscan,42.5867428,-74.7690402,The Valley of Decision
+803,Stupinigi,44.9965748,7.606001,The Valley of Decision
+804,Bologna,44.4938203,11.3426327,The Valley of Decision
+805,Fulvia,45.6987927,9.6674849,The Valley of Decision
+806,Lombardy,45.5703694,9.7732524,The Valley of Decision
+807,Boffalora,45.4672571,8.8306109,The Valley of Decision
+808,Rimini,43.9465433,12.630749,The Valley of Decision
+809,Castelrovinato,,,The Valley of Decision
+810,Florence,43.7697955,11.2556404,The Valley of Decision
+811,Cafaggiolo,43.4201267,10.842094,The Valley of Decision
+812,Modena,44.5384728,10.9359609,The Valley of Decision
+813,Tartaglia,44.9397265,9.8517566,The Valley of Decision
+814,Trent,46.0664228,11.1257601,The Valley of Decision
+815,France!--I,28.3695379,-81.5520274,The Valley of Decision
+816,Boscofolto,,,The Valley of Decision
+817,Monte Alloro,43.3234842,11.6721805,The Valley of Decision
+818,Austria,47.59397,14.12456,The Valley of Decision
+819,Perugia,43.1070321,12.4029962,The Valley of Decision
+820,North Italy,28.5469915,-81.3789674,The Valley of Decision
+821,Malta,35.8885993,14.4476911,The Valley of Decision
+822,Padua,45.4077172,11.8734455,The Valley of Decision
+823,Syria,34.6401861,39.0494106,The Valley of Decision
+824,Giorgione,43.9935489,11.9599467,The Valley of Decision
+825,Ucalegon,,,The Valley of Decision
+826,Heiligenstern,,,The Valley of Decision
+827,Innsbruck,47.2654296,11.3927685,The Valley of Decision
+828,Pomerania,53.7735064,12.5755471,The Valley of Decision
+829,Ratisbon,49.0195333,12.0974869,The Valley of Decision
+830,Ravenna,44.3640607,12.0590095,The Valley of Decision
+831,Posilipo,34.4204007,-119.6254464,The Valley of Decision
+832,Capri,40.5488429,14.2283708,The Valley of Decision
+833,Vesuvius,40.8213963,14.4261967,The Valley of Decision
+834,Pompeii,40.7517375,14.4905636,The Valley of Decision
+835,Gamba,28.275194,88.5133005,The Valley of Decision
+836,Procida,40.7649991,14.0239063,The Valley of Decision
+837,Sorrento,40.624906,14.374836,The Valley of Decision
+838,Germany,51.1638175,10.4478313,The Valley of Decision
+839,Venetia,45.4371908,12.3345898,The Valley of Decision
+840,America,39.7837304,-100.445882,The Valley of Decision
+841,Camaldoli,40.6526226,15.1751616,The Valley of Decision
+842,Garigliano,41.6074419,13.5151208,The Valley of Decision
+843,Monte Cassino,41.4899454,13.8133251,The Valley of Decision
+844,Antioch,36.2036546,36.1637648,The Valley of Decision
+845,Alexandria,44.8349534,8.7450304,The Valley of Decision
+846,Albany,41.000028,19.9999619,The Valley of Decision
+847,Vicenza,45.6348591,11.4063543,The Valley of Decision
+848,Oriago,45.4514083,12.1710686,The Valley of Decision
+849,Fusina,45.4190765,12.257771,The Valley of Decision
+850,Sicily,37.587794,14.155048,The Valley of Decision
+851,Greece,38.9953683,21.9877132,The Valley of Decision
+852,Bellocchio,42.7081928,11.9887129,The Valley of Decision
+853,Normandy,49.0677708,0.3138532,The Valley of Decision
+854,Provence,46.8914636,6.7270271,The Valley of Decision
+855,London,51.5074456,-0.1277653,The Valley of Decision
+856,San Zaccaria,44.2711159,12.2143525,The Valley of Decision
+857,Aquileia,45.7696144,13.3697982,The Valley of Decision
+858,Treviso,45.8066913,12.2063158,The Valley of Decision
+859,Santa Chiara,40.8468226,14.2529101,The Valley of Decision
+860,Amsterdam,52.3730796,4.8924534,The Valley of Decision
+861,Venetian,29.6586199,-95.529394,The Valley of Decision
+862,Switzerland,46.7985624,8.2319736,The Valley of Decision
+863,Geneva,46.2017559,6.1466014,The Valley of Decision
+864,Brescia,45.7795805,10.425873,The Valley of Decision
+865,Mestre,45.4943063,12.2418053,The Valley of Decision
+866,Peschiera,43.2752058,13.4705789,The Valley of Decision
+867,Garda,45.5756512,10.7085298,The Valley of Decision
+868,Verona,45.4424977,10.9857377,The Valley of Decision
+869,Arabia Petraea,,,The Valley of Decision
+870,Monte Baldo,45.7263915,10.8438832,The Valley of Decision
+871,Beaumarchais,49.0848706,2.6509657,The Valley of Decision
+872,Momola,48.879878,2.3373738,The Valley of Decision
+873,Paradise,36.0724299,-115.1474759,The Valley of Decision
+874,Austrian,36.2471444,-115.2113639,The Valley of Decision
+875,Saxony,50.9295798,13.4585052,The Valley of Decision
+876,Alps,45.9083263,9.1420628,The Valley of Decision
+877,Siena,43.167206,11.467561,The Valley of Decision
+878,Alsace,33.98279,-118.4123635,The Valley of Decision
+879,Calabria,39.0565974,16.5249864,The Valley of Decision
+880,Ponte di Po,,,The Valley of Decision
+881,Egeria,37.5392829,-81.2000983,The Valley of Decision
+882,Coblentz,-66.112314,-65.1430895,The Valley of Decision
+883,Atropos,14.4318803,120.9267375,The Valley of Decision
+884,Cremona,45.2208641,10.037038,The Valley of Decision
+885,Corsica,42.188098,9.0683139,The Valley of Decision
+886,Bourbon,37.8485797,-94.8679591,The Valley of Decision
+887,Hapsburg,29.9187176,-95.2896439,The Valley of Decision
+888,Avignon,43.9492493,4.8059012,The Valley of Decision
+889,Bracciaforte,,,The Valley of Decision
+890,York,53.9656579,-1.0743052,Twilight Sleep
+891,New York,40.7127281,-74.0060152,Twilight Sleep
+892,Bolivia,-17.0568696,-64.9912286,Twilight Sleep
+893,Florida,27.7567667,-81.4639835,Twilight Sleep
+894,Cedarledge,42.2465837,-70.8340514,Twilight Sleep
+895,Pennsylvania,40.9699889,-77.7278831,Twilight Sleep
+896,Exploit,45.2925619,5.8929847,Twilight Sleep
+897,Tallahassee,30.4380832,-84.2809332,Twilight Sleep
+898,Scotland,56.7861112,-4.1140518,Twilight Sleep
+899,Fords,40.5411231,-74.3165244,Twilight Sleep
+900,Spain,39.3260685,-4.8379791,Twilight Sleep
+901,Albany,41.000028,19.9999619,Twilight Sleep
+902,Rome,41.8933203,12.4829321,Twilight Sleep
+903,Naples,40.8358846,14.2487679,Twilight Sleep
+904,St. Moritz,46.4978958,9.8392428,Twilight Sleep
+905,Long Island,40.8514971,-73.0994297,Twilight Sleep
+906,Lucera,41.5082727,15.3376465,Twilight Sleep
+907,Washington,38.8950368,-77.0365427,Twilight Sleep
+908,Baltimore,39.2908816,-76.610759,Twilight Sleep
+909,California,36.7014631,-118.755997,Twilight Sleep
+910,Europe,51.0,10.0,Twilight Sleep
+911,Delos,37.39089,25.2717388,Twilight Sleep
+912,Chicago,41.8755616,-87.6244212,Twilight Sleep
+913,March,49.3597062,17.3094202,Twilight Sleep
+914,Bohemia,40.770609,-73.1200703,Twilight Sleep
+915,San Fedele,44.0446374,8.1853549,Twilight Sleep
+916,Climax,47.6077515,-96.8170222,Twilight Sleep
+917,England,52.5310214,-1.2649062,Twilight Sleep
+918,Humber,53.7124015,-0.3652257,Twilight Sleep
+919,Hollywood,34.0980031,-118.329523,Twilight Sleep
+920,Lita,46.632682,23.4664603,Twilight Sleep
+921,Oregon,43.9792797,-120.737257,Twilight Sleep
+922,Harvard,42.3657432,-71.1222139,Twilight Sleep
+923,Columbia,4.099917,-72.9088133,Twilight Sleep
+924,Venturino,-31.736433,-60.4984648,Twilight Sleep
+925,America,39.7837304,-100.445882,Twilight Sleep
+926,Dawnside,50.9910505,-0.0519813,Twilight Sleep
+927,Asheville,35.595363,-82.5508407,Twilight Sleep
+928,Georgia,32.3293809,-83.1137366,Twilight Sleep
+929,Columbus,39.9622601,-83.0007065,Twilight Sleep
+930,Vineyard Haven,41.4542914,-70.6038026,Twilight Sleep
+931,Abyssinia,10.2116702,38.6521203,Twilight Sleep
+932,Petra,30.3258363,35.4745669,Twilight Sleep
+933,Thessaly,39.5755929,22.1634449,Twilight Sleep
+934,Christiania,55.675737,12.6075707,Twilight Sleep
+935,Ardwin,,,Twilight Sleep
+936,Hudson,40.7381635,-74.0550731,Twilight Sleep
+937,Orleans,47.9027336,1.9086066,Twilight Sleep
+938,Maine,45.709097,-68.8590201,Twilight Sleep
+939,Klawhammer,,,Twilight Sleep
+940,Easter,34.6456223,-102.3968676,Twilight Sleep
+941,Powder,45.3655661,-105.5982213,Twilight Sleep
+942,Amalasuntha,,,Twilight Sleep
+943,Greystock,53.3941003,-1.4449002,Twilight Sleep
+944,Greenwich,51.4820845,-0.0045417,Twilight Sleep
+945,Flanders,51.0962462,4.1786291,Twilight Sleep
+946,C├ªsar Borgia,,,Twilight Sleep
+947,Paris,48.8588897,2.320041,Twilight Sleep
+948,Italy,42.6384261,12.674297,Twilight Sleep
+949,Atlantic City,39.3642852,-74.4229351,Twilight Sleep
+950,Gobine,48.0930101,2.7857131,Twilight Sleep
+951,Vancouver,49.2608724,-123.113952,Twilight Sleep
+952,Japan,36.5748441,139.2394179,Twilight Sleep
+953,Ceylon,43.5335672,-94.6316462,Twilight Sleep
+954,India,22.3511148,78.6677428,Twilight Sleep
+955,Egypt,26.2540493,29.2675469,Twilight Sleep
+956,Cairo,30.0443879,31.2357257,Twilight Sleep
+957,Canada,61.0666922,-107.991707,Twilight Sleep

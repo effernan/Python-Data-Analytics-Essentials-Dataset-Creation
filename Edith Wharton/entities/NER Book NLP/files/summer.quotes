@@ -1,0 +1,696 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+402	408	409	409	she	167	“ How I hate everything ! ”
+919	922	969	970	Charity Royall	69	“ business block ”
+1054	1077	1038	1040	old Miss Hatchard	66	“ My child , you must never cease to remember that it was Mr. Royall who brought you down from the Mountain . ”
+1081	1087	1078	1078	She	69	“ brought down from the Mountain ”
+1375	1381	1382	1382	she	69	“ How I hate everything ! ”
+1432	1441	1404	1404	she	69	“ The Honorius Hatchard Memorial Library , 1832 . ”
+1531	1538	1518	1518	he	70	“ The Recluse of Eagle Range , ”
+1734	1738	1786	1786	She	69	“ The Lamplighter . ”
+1890	1898	1899	1899	he	248	“ Have you a card - catalogue ? ”
+1920	1924	1899	1899	he	248	“ A WHAT ? ”
+1925	1930	1931	1931	He	248	“ Why , you know---- ”
+2008	2019	2020	2020	he	248	“ No , I do n't suppose you do know , ”
+2024	2034	2022	2022	himself	248	“ In fact , it would be almost a pity---- ”
+2050	2053	2037	2037	she	69	“ Why ? ”
+2054	2084	2085	2085	He	248	“ Because it 's so much pleasanter , in a small library like this , to poke about by one 's self -- with the help of the librarian . ”
+2103	2114	2085	2085	He	248	“ I 'm afraid I ca n't help you much . ”
+2115	2118	2119	2119	he	248	“ Why ? ”
+2146	2154	2155	2155	she	69	“ The worms are getting at them , ”
+2159	2177	2155	2155	she	69	“ Are they ? That 's a pity , for I see there are some good ones . ”
+2255	2261	2262	2262	he	248	“ Oh , I say ! ”
+2310	2321	2306	2306	she	69	“ It 's not my fault if they 're dirty . ”
+2333	2343	2322	2322	He	248	“ Ah -- then you 're not the librarian ? ”
+2344	2377	2391	2391	he	248	“ Of course I am ; but I ca n't dust all these books . Besides , nobody ever looks at them , now Miss Hatchard 's too lame to come round . ”
+2378	2385	2386	2386	He	248	“ No , I suppose not . ”
+2430	2445	2446	2446	she	69	“ I saw you going into her house just now , did n't I ? ”
+2474	2492	2493	2495	the young man	173	“ Miss Hatchard 's house ? Yes -- she 's my cousin and I 'm staying there , ”
+2508	2524	2493	2495	the young man	173	“ My name is Harney -- Lucius Harney . She may have spoken of me . ”
+2525	2532	2534	2534	Charity	69	“ No , she has n't , ”
+2542	2548	2534	2534	Charity	69	“ Yes , she has . ”
+2549	2553	2555	2556	Miss Hatchard	66	“ Oh , well---- ”
+2585	2594	2582	2582	he	173	“ You do n't seem strong on architecture . ”
+2624	2626	2616	2616	He	173	“ explained ”
+2647	2725	2726	2726	He	256	“ I mean , I ca n't see that you have any books on the old houses about here . I suppose , for that matter , this part of the country has n't been much explored . They all go on doing Plymouth and Salem . So stupid . My cousin 's house , now , is remarkable . This place must have had a past -- it must have been more of a place once . ”
+2748	2768	2769	2769	She	258	“ I 'm an architect , you see , and I 'm hunting up old houses in these parts . ”
+2772	2793	2769	2769	She	258	“ Old houses ? Everything 's old in North Dormer , is n't it ? The folks are , anyhow . ”
+2802	2833	2834	2834	he	256	“ Have n't you any kind of a history of the place ? I think there was one written about 1840 : a book or pamphlet about its first settlement , ”
+2865	2876	2862	2862	she	258	“ North Dormer and the Early Townships of Eagle County . ”
+3074	3081	3082	3082	she	258	“ I guess it 's somewhere , ”
+3104	3108	3109	3109	he	267	“ Oh , well---- ”
+3129	3137	3138	3138	he	267	“ It will be for next time , ”
+3158	3178	3152	3152	he	267	“ By the way , a little air and sun would do this good ; it 's rather valuable . ”
+3626	3629	3624	3624	he	78	“ jography , ”
+3651	3657	3624	3624	he	78	“ Uncle Tom 's Cabin , ”
+3659	3666	3624	3624	he	78	“ Opening of a Chestnut Burr , ”
+3887	3894	3884	3885	lawyer Royall	69	“ the biggest man in North Dormer ”
+4046	4048	4026	4026	It	293	“ yard ”
+4286	4291	4305	4305	she	69	“ bringing her down , ”
+4459	4465	4455	4455	he	64	“ You ai n't going , ”
+4492	4496	4497	4497	she	311	“ under the circumstances ”
+4546	4548	4542	4542	He	64	“ lonesome ”
+4560	4562	4563	4563	herself	69	“ lonesome ”
+4662	4668	4669	4669	Charity	69	“ make the necessary arrangements , ”
+4702	4711	4698	4698	she	66	“ I guess Mr. Royall 's too lonesome . ”
+4761	4771	4772	4772	She	66	“ The feeling does you credit , my dear . ”
+4802	4830	4858	4858	she	66	“ The fact is , it 's not only -- not only because of the advantages . There are other reasons . You 're too young to understand---- ”
+4831	4840	4842	4842	Charity	69	“ Oh , no , I ai n't , ”
+4881	4910	4873	4873	she	66	“ Of course I shall always do what I can for you ; and in case ... in case ... you know you can always come to me .... ”
+4954	4957	4958	4958	he	83	“ Well , ”
+4961	4966	4958	4958	he	83	“ is it settled ? ”
+4967	4979	4995	4995	his	83	“ Yes , it 's settled . I ai n't going . ”
+4980	4987	4958	4958	he	83	“ Not to the Nettleton school ? ”
+4988	4992	4995	4995	his	83	“ Not anywhere . ”
+5001	5004	4995	4995	his	83	“ Why ? ”
+5005	5011	5012	5012	she	69	“ I 'd rather not , ”
+5168	5171	5179	5179	He	83	“ rousing welcome ”
+5184	5205	5179	5179	He	83	“ I was a damn fool ever to leave Nettleton . It was Mrs. Royall that made me do it . ”
+5376	5384	5385	5385	she	69	“ You go right back from here , ”
+5396	5407	5385	5385	she	69	“ you ai n't going to have that key tonight . ”
+5408	5428	5429	5429	he	83	“ Charity , let me in . I do n't want the key . I 'm a lonesome man , ”
+5457	5479	5449	5449	she	69	“ Well , I guess you made a mistake , then . This ai n't your wife 's room any longer . ”
+5697	5715	5716	5716	she	69	“ Why , I do n't know , my dear . Are n't you rather too young ? ”
+5719	5727	5728	5728	Charity	69	“ I want to earn some money , ”
+5732	5751	5728	5728	Charity	69	“ Does n't Mr. Royall give you all you require ? No one is rich in North Dormer . ”
+5752	5763	5770	5771	Miss Hatchard	66	“ I want to earn money enough to get away . ”
+5764	5769	5770	5771	Miss Hatchard	66	“ To get away ? ”
+5784	5792	5770	5771	Miss Hatchard	66	“ You want to leave Mr. Royall ? ”
+5793	5807	5809	5809	Charity	69	“ Yes : or I want another woman in the house with me , ”
+5846	5860	5842	5842	she	66	“ The ... the housework 's too hard for you , I suppose ? ”
+5906	5918	5919	5919	she	69	“ She 's got to be talked to like a baby , ”
+5934	5941	5942	5942	she	69	“ Yes , that 's it , ”
+5946	5965	5942	5942	she	69	“ The housework 's too hard for me : I 've been coughing a good deal this fall . ”
+6024	6033	6034	6034	she	69	“ If you 'd only gone to school ! ”
+6062	6101	6102	6102	Charity	69	“ I know Mr. Royall is ... trying at times ; but his wife bore with him ; and you must always remember , Charity , that it was Mr. Royall who brought you down from the Mountain . ”
+6113	6116	6117	6117	He	64	“ office . ”
+6248	6299	6243	6243	he	64	“ I told her the housework was too hard for me , and I wanted to earn the money to pay for a hired girl . But I ai n't going to pay for her : you 've got to . I want to have some money of my own . ”
+6329	6339	6340	6340	he	64	“ What do you want to earn money for ? ”
+6343	6354	6340	6340	he	64	“ So 's to get away when I want to . ”
+6355	6364	6365	6365	Her	346	“ Why do you want to get away ? ”
+6370	6392	6365	6365	Her	346	“ Do you suppose anybody'd stay at North Dormer if they could help it ? You would n't , folks say ! ”
+6399	6406	6396	6396	he	64	“ Where 'd you go to ? ”
+6407	6447	6448	6448	She	346	“ Anywhere where I can earn my living . I 'll try here first , and if I ca n't do it here I 'll go somewhere else . I 'll go up the Mountain if I have to . ”
+6462	6492	6493	6493	she	346	“ I want you should get Miss Hatchard and the selectmen to take me at the library : and I want a woman here in the house with me , ”
+6528	6532	6533	6533	he	64	“ See here , ”
+6543	6572	6533	6533	he	64	“ there 's something I 've been wanting to say to you ; I 'd ought to have said it before . I want you to marry me . ”
+6582	6590	6591	6591	he	64	“ I want you to marry me , ”
+6598	6639	6591	6591	he	64	“ The minister'll be up here next Sunday and we can fix it up then . Or I 'll drive you down to Hepburn to the Justice , and get it done there . I 'll do whatever you say . ”
+6722	6728	6729	6729	she	180	“ Marry you ? Me ? ”
+6737	6773	6729	6729	she	180	“ Was that what you came to ask me the other night ? What 's come over you , I wonder ? How long is it since you 've looked at yourself in the glass ? ”
+6786	6834	6776	6776	herself	180	“ I suppose you think it would be cheaper to marry me than to keep a hired girl . Everybody knows you 're the closest man in Eagle County ; but I guess you 're not going to get your mending done for you that way twice . ”
+6875	6884	6885	6885	he	64	“ That 'll do -- that'll about do , ”
+6909	6929	6930	6930	he	64	“ People ai n't been fair to me -- from the first they ai n't been fair to me , ”
+7006	7008	7003	7004	Mr. Royall	64	“ office ”
+7787	7800	7801	7801	she	69	“ It 's no use trying to be anything in this place , ”
+8181	8191	8192	8192	he	64	“ I want to speak to you a minute , ”
+8244	8248	8249	8249	he	64	“ See here , ”
+8252	8269	8249	8249	he	64	“ why ai n't you at the library the days you 're supposed to be there ? ”
+8298	8305	8288	8288	she	69	“ Who says I ai n't ? ”
+8306	8324	8325	8325	Charity	69	“ There 's been some complaints made , it appears . Miss Hatchard sent for me this morning---- ”
+8334	8391	8325	8325	Charity	69	“ I know ! Orma Fry , and that toad of a Targatt girl and Ben Fry , like as not . He 's going round with her . The low - down sneaks -- I always knew they 'd try to have me out ! As if anybody ever came to the library , anyhow ! ”
+8392	8403	8325	8325	Charity	69	“ Somebody did yesterday , and you were n't there . ”
+8404	8407	8408	8408	she	69	“ Yesterday ? ”
+8415	8431	8408	8408	she	69	“ At what time was n't I there yesterday , I 'd like to know ? ”
+8432	8438	8439	8439	Charity	69	“ Round about four o'clock . ”
+8474	8481	8458	8458	she	69	“ Who came at four o'clock ? ”
+8482	8487	8408	8408	she	69	“ Miss Hatchard did . ”
+8488	8519	8458	8458	she	69	“ Miss Hatchard ? Why , she ai n't ever been near the place since she 's been lame . She could n't get up the steps if she tried . ”
+8520	8635	8636	8636	Charity	69	“ She can be helped up , I guess . She was yesterday , anyhow , by the young fellow that 's staying with her . He found you there , I understand , earlier in the afternoon ; and he went back and told Miss Hatchard the books were in bad shape and needed attending to . She got excited , and had herself wheeled straight round ; and when she got there the place was locked . So she sent for me , and told me about that , and about the other complaints . She claims you 've neglected things , and that she 's going to get a trained librarian . ”
+8703	8715	8696	8696	she	69	“ He told Miss Hatchard the books were in bad shape . ”
+8826	8833	8834	8834	she	69	“ Well , I 'll go , ”
+8838	8845	8834	8834	she	69	“ I 'll go right off . ”
+8846	8850	8851	8851	She	69	“ Go where ? ”
+8862	8901	8857	8858	Mr. Royall	64	“ Why , out of their old library : straight out , and never set foot in it again . They need n't think I 'm going to wait round and let them say they 've discharged me ! ”
+8902	8910	8911	8911	he	64	“ Charity -- Charity Royall , you listen---- ”
+9016	9040	9041	9041	she	69	“ I 'm glad I 'll never have to sit in this old vault again when other folks are out in the sun ! ”
+9213	9229	9230	9230	she	69	“ What have I ever done to it , that it should hurt me so ? ”
+9249	9263	9264	9264	she	69	“ I won't -- I wo n't go there looking like a horror ! ”
+9327	9333	9334	9334	he	430	“ I beg your pardon , ”
+9337	9346	9334	9334	he	430	“ I thought there was no one here . ”
+9356	9373	9347	9347	Charity	69	“ You ca n't come in . The library ai n't open to the public Wednesdays . ”
+9374	9389	9428	9430	The young man	173	“ I know it 's not ; but my cousin gave me her key . ”
+9390	9427	9428	9430	The young man	173	“ Miss Hatchard 's got no right to give her key to other folks , any more'n I have . I 'm the librarian and I know the by - laws . This is my library . ”
+9435	9453	9428	9430	The young man	173	“ Why , I know it is ; I 'm so sorry if you mind my coming . ”
+9454	9509	9510	9511	Young Harney	91	“ I suppose you came to see what more you could say to set her against me ? But you need n't trouble : it 's my library today , but it wo n't be this time tomorrow . I 'm on the way now to take her back the key and the register . ”
+9529	9535	9536	9536	he	173	“ I do n't understand , ”
+9539	9561	9536	9536	he	173	“ There must be some mistake . Why should I say things against you to Miss Hatchard -- or to anyone ? ”
+9575	9856	9857	9857	She	433	“ I do n't know why you should . I could understand Orma Fry 's doing it , because she 's always wanted to get me out of here ever since the first day . I ca n't see why , when she 's got her own home , and her father to work for her ; nor Ida Targatt , neither , when she got a legacy from her step - brother on'y last year . But anyway we all live in the same place , and when it 's a place like North Dormer it 's enough to make people hate each other just to have to walk down the same street every day . But you do n't live here , and you do n't know anything about any of us , so what did you have to meddle for ? Do you suppose the other girls'd have kept the books any better'n I did ? Why , Orma Fry do n't hardly know a book from a flat - iron ! And what if I do n't always sit round here doing nothing till it strikes five up at the church ? Who cares if the library 's open or shut ? Do you suppose anybody ever comes here for books ? What they 'd like to come for is to meet the fellows they 're going with if I 'd let 'em . But I would n't let Bill Sollas from over the hill hang round here waiting for the youngest Targatt girl , because I know him ... that 's all ... even if I do n't know about books all I ought to .... ”
+9912	9926	9901	9901	he	434	“ But , Miss Royall , I assure you ... I assure you .... ”
+9942	9959	9934	9934	she	433	“ If I was you I 'd have the nerve to stick to what I said ! ”
+9970	10022	9934	9934	she	433	“ I hope I should if I knew ; but I do n't . Apparently something disagreeable has happened , for which you think I 'm to blame . But I do n't know what it is , because I 've been up on Eagle Ridge ever since the early morning . ”
+10023	10076	10077	10078	Young Harney	91	“ I do n't know where you 've been this morning , but I know you were here in this library yesterday ; and it was you that went home and told your cousin the books were in bad shape , and brought her round to see how I 'd neglected them . ”
+10083	10206	10077	10078	Young Harney	91	“ Was that what you were told ? I do n't wonder you 're angry . The books are in bad shape , and as some are interesting it 's a pity . I told Miss Hatchard they were suffering from dampness and lack of air ; and I brought her here to show her how easily the place could be ventilated . I also told her you ought to have some one to help you do the dusting and airing . If you were given a wrong version of what I said I 'm sorry ; but I 'm so fond of old books that I 'd rather see them made into a bonfire than left to moulder away like these . ”
+10220	10318	10207	10207	Charity	69	“ I do n't care what you say you told her . All I know is she thinks it 's all my fault , and I 'm going to lose my job , and I wanted it more'n anyone in the village , because I have n't got anybody belonging to me , the way other folks have . All I wanted was to put aside money enough to get away from here sometime . D'you suppose if it had n't been for that I 'd have kept on sitting day after day in this old vault ? ”
+10331	10369	10370	10370	His	436	“ It is an old vault ; but need it be ? That 's the point . And it 's my putting the question to my cousin that seems to have been the cause of the trouble . ”
+10408	10474	10475	10476	The architect	439	“ Of course it 's a bad job to do anything with a building jammed against a hill like this ridiculous mausoleum : you could n't get a good draught through it without blowing a hole in the mountain . But it can be ventilated after a fashion , and the sun can be let in : I 'll show you how if you like .... ”
+10532	10557	10526	10526	he	439	“ Look here -- you do n't mean what you said ? You do n't really think I 'd do anything to hurt you ? ”
+10578	10589	10590	10590	she	435	“ Oh , what DID you do it for then ? ”
+10628	10687	10618	10618	He	439	“ Why , to make things pleasanter for you here ; and better for the books . I 'm sorry if my cousin twisted around what I said . She 's excitable , and she lives on trifles : I ought to have remembered that . Do n't punish me by letting her think you take her seriously . ”
+10795	10835	10778	10778	he	439	“ It do n't matter to Miss Hatchard how I take her . Mr. Royall says she 's going to get a trained librarian ; and I 'd sooner resign than have the village say she sent me away . ”
+10836	10886	10887	10887	Her	69	“ Naturally you would . But I 'm sure she does n't mean to send you away . At any rate , wo n't you give me the chance to find out first and let you know ? It will be time enough to resign if I 'm mistaken . ”
+10900	10918	10919	10919	He	448	“ I do n't want anybody should coax her to keep me if I do n't suit . ”
+10923	10943	10944	10944	He	448	“ I give you my word I wo n't do that . Only wait till tomorrow , will you ? ”
+10956	10969	10944	10944	He	448	“ You can trust me , you know -- you really can . ”
+10991	10998	10982	10982	she	69	“ Oh , I 'll wait . ”
+11383	11389	11390	11390	she	69	“ Oh , do n't ! ”
+11405	11410	11390	11390	she	69	“ Do n't what ? ”
+11419	11431	11432	11432	she	69	“ Do n't stamp on those bramble flowers , you dolt ! ”
+11482	11493	11494	11494	she	69	“ Do n't you ever SEE anything , Liff Hyatt ? ”
+11521	11534	11518	11518	He	458	“ I seen you ! That 's what I come down for . ”
+11535	11540	11541	11541	she	69	“ Down from where ? ”
+11563	11572	11555	11555	He	458	“ Been cutting down trees for Dan Targatt . ”
+11599	11605	11613	11613	they	461	“ came from the Mountain , ”
+11698	11725	11726	11726	he	94	“ They wo n't any of 'em touch you up there , f'ever you was to come up .... But I do n't s'pose you will , ”
+11884	11894	11895	11895	she	69	“ I wonder if he 's related to me ? ”
+11904	11922	11923	11923	she	69	“ Is there any folks living in the brown house by the swamp , up under Porcupine ? ”
+11960	11972	11973	11973	he	94	“ There 's always the same folks in the brown house , ”
+11980	11992	11973	11973	he	94	“ They 're from up your way , ai n't they ? ”
+11993	12002	12003	12003	he	94	“ Their name 's the same as mine , ”
+12015	12047	12007	12007	Charity	69	“ See here , I want to go there some day and take a gentleman with me that 's boarding with us . He 's up in these parts drawing pictures . ”
+12074	12089	12090	12090	she	69	“ He wants to see the brown house , and go all over it , ”
+12109	12118	12119	12119	he	94	“ Is it a fellow from the city ? ”
+12122	12141	12142	12142	She	69	“ Yes . He draws pictures of things . He 's down there now drawing the Bonner house . ”
+12159	12164	12165	12165	Liff	94	“ The Bonner house ? ”
+12169	12201	12165	12165	Liff	94	“ Yes . You wo n't understand -- and it do n't matter . All I say is : he 's going to the Hyatts ' in a day or two . ”
+12209	12218	12202	12202	Liff	94	“ Bash is ugly sometimes in the afternoons . ”
+12232	12242	12221	12221	her	69	“ I 'm coming too : you tell him . ”
+12243	12269	12221	12221	her	69	“ They wo n't none of them trouble you , the Hyatts wo n't . What d'you want a take a stranger with you though ? ”
+12270	12288	12289	12289	He	94	“ I 've told you , have n't I ? You 've got to tell Bash Hyatt . ”
+12313	12320	12301	12301	his	94	“ He 's down there now ? ”
+12321	12324	12325	12325	He	94	“ Yes . ”
+12343	12349	12350	12350	he	94	“ Well , so long , ”
+12378	12386	12372	12372	he	94	“ I would n't go there a Sunday ”
+12563	12575	12576	12576	she	69	“ I wonder if Liff Hyatt knows who my mother was ? ”
+12813	12817	12819	12819	she	69	“ his houses , ”
+13192	13195	13204	13204	she	69	“ going with ”
+13304	13309	13298	13298	she	69	“ pay for it . ”
+13364	13370	13395	13396	Mr. Royall	64	“ going with a city fellow ”
+13461	13475	13476	13476	she	69	“ I 'm going to take you to that house up under Porcupine , ”
+13479	13542	13476	13476	she	69	“ What house ? Oh , yes ; that ramshackle place near the swamp , with the gipsy - looking people hanging about . It 's curious that a house with traces of real architecture should have been built in such a place . But the people were a sulky - looking lot -- do you suppose they 'll let us in ? ”
+13543	13552	13553	13553	she	69	“ They 'll do whatever I tell them , ”
+13565	13569	13570	13570	he	514	“ Will they ? ”
+13576	13622	13570	13570	he	514	“ Well , I should like to see what 's left inside the house . And I should like to have a talk with the people . Who was it who was telling me the other day that they had come down from the Mountain ? ”
+13685	13697	13698	13698	Her	69	“ The Mountain ? I ai n't afraid of the Mountain ! ”
+13750	13765	13766	13766	he	514	“ I must go up there some day : I want to see it , ”
+13791	13803	13766	13766	he	514	“ What 'd you want to go up the Mountain for ? ”
+13804	13888	13895	13895	he	514	“ Why , it must be rather a curious place . There 's a queer colony up there , you know : sort of out - laws , a little independent kingdom . Of course you 've heard them spoken of ; but I 'm told they have nothing to do with the people in the valleys -- rather look down on them , in fact . I suppose they 're rough customers ; but they must have a good deal of character . ”
+13970	13978	13979	13979	he	514	“ It 's queer , you know , ”
+13982	14011	13979	13979	he	514	“ that , just over there , on top of that hill , there should be a handful of people who do n't give a damn for anybody . ”
+14038	14053	14033	14033	him	514	“ I do n't know much about them . Have they always been there ? ”
+14054	14206	14033	14033	him	514	“ Nobody seems to know exactly how long . Down at Creston they told me that the first colonists are supposed to have been men who worked on the railway that was built forty or fifty years ago between Springfield and Nettleton . Some of them took to drink , or got into trouble with the police , and went off -- disappeared into the woods . A year or two later there was a report that they were living up on the Mountain . Then I suppose others joined them -- and children were born . Now they say there are over a hundred people up there . They seem to be quite outside the jurisdiction of the valleys . No school , no church -- and no sheriff ever goes up to see what they 're about . But do n't people ever talk of them at North Dormer ? ”
+14207	14219	14220	14220	He	521	“ I do n't know . They say they 're bad . ”
+14223	14236	14220	14220	He	521	“ Do they ? We 'll go and see , shall we ? ”
+14250	14272	14237	14237	She	522	“ You never heard , I suppose -- I come from there . They brought me down when I was little . ”
+14273	14276	14277	14277	He	521	“ You ? ”
+14291	14311	14277	14277	He	521	“ You 're from the Mountain ? How curious ! I suppose that 's why you 're so different .... ”
+14336	14342	14343	14343	she	522	“ Am I ... different ? ”
+14350	14355	14356	14356	He	521	“ Oh , awfully ! ”
+14370	14373	14374	14374	he	521	“ Come , ”
+14377	14383	14374	14374	he	521	“ let 's be off . ”
+14397	14412	14384	14384	He	521	“ What a good day ! Where are you going to take me tomorrow ? ”
+14864	14882	14883	14883	he	64	“ Here -- go get yourself a Sunday bonnet that 'll make all the other girls mad , ”
+15074	15081	15084	15085	Mr. Royall	64	“ The Mountain ? The Mountain ? ”
+15088	15295	15296	15296	He	547	“ Why , the Mountain 's a blot -- that 's what it is , sir , a blot . That scum up there ought to have been run in long ago -- and would have , if the people down here had n't been clean scared of them . The Mountain belongs to this township , and it 's North Dormer 's fault if there 's a gang of thieves and outlaws living over there , in sight of us , defying the laws of their country . Why , there ai n't a sheriff or a tax - collector or a coroner'd durst go up there . When they hear of trouble on the Mountain the selectmen look the other way , and pass an appropriation to beautify the town pump . The only man that ever goes up is the minister , and he goes because they send down and get him whenever there 's any of them dies . They think a lot of Christian burial on the Mountain -- but I never heard of their having the minister up to marry them . And they never trouble the Justice of the Peace either . They just herd together like the heathen . ”
+15352	15363	15364	15364	he	547	“ I suppose you 've never been up there yourself ? ”
+15368	15374	15376	15377	Mr. Royall	64	“ Yes , I have , ”
+15383	15425	15376	15377	Mr. Royall	64	“ The wiseacres down here told me I 'd be done for before I got back ; but nobody lifted a finger to hurt me . And I 'd just had one of their gang sent up for seven years too . ”
+15426	15433	15334	15336	the young man	173	“ You went up after that ? ”
+15434	15640	15641	15641	He	551	“ Yes , sir : right after it . The fellow came down to Nettleton and ran amuck , the way they sometimes do . After they 've done a wood - cutting job they come down and blow the money in ; and this man ended up with manslaughter . I got him convicted , though they were scared of the Mountain even at Nettleton ; and then a queer thing happened . The fellow sent for me to go and see him in gaol . I went , and this is what he says : ' The fool that defended me is a chicken - livered son of a -- and all the rest of it , ' he says . ' I 've got a job to be done for me up on the Mountain , and you 're the only man I seen in court that looks as if he 'd do it . ' He told me he had a child up there -- or thought he had -- a little girl ; and he wanted her brought down and reared like a Christian . I was sorry for the fellow , so I went up and got the child . ”
+15652	15665	15666	15666	he	551	“ That 's the only time I ever went up the Mountain , ”
+15680	15690	15677	15677	Harney	75	“ And the child -- had she no mother ? ”
+15691	15757	15677	15677	Harney	75	“ Oh , yes : there was a mother . But she was glad enough to have her go . She 'd have given her to anybody . They ai n't half human up there . I guess the mother 's dead by now , with the life she was leading . Anyhow , I 've never heard of her from that day to this . ”
+15758	15765	15766	15766	Harney	75	“ My God , how ghastly , ”
+15806	15810	15801	15810	a mother who was n't “ half human , ”	2117	“ half human , ”
+16315	16317	16329	16329	she	69	“ improved ”
+16599	16619	16620	16620	she	69	“ I wish he 'd go away : I wish he 'd go tomorrow , and never come back ! ”
+16918	16924	16925	16925	he	64	“ Where you going to ? ”
+16928	16940	16941	16941	she	69	“ Why -- Mr. Harney 's starting earlier than usual today , ”
+16944	16963	16964	16964	She	69	“ Mr. Harney , Mr. Harney ? Ai n't Mr. Harney learned how to drive a horse yet ? ”
+17454	17467	17468	17468	she	69	“ He 'd better know what kind of folks I belong to , ”
+17501	17509	17491	17491	she	69	“ There 's a storm coming up . ”
+17517	17531	17510	17510	He	76	“ Is it that scrap of cloud among the pines that frightens you ? ”
+17532	17549	17491	17491	she	69	“ It 's over the Mountain ; and a cloud over the Mountain always means trouble . ”
+17550	17584	17585	17585	He	76	“ Oh , I do n't believe half the bad things you all say of the Mountain ! But anyhow , we 'll get down to the brown house before the rain comes . ”
+17749	17751	17762	17762	he	76	“ typical ”
+17780	17787	17771	17771	he	76	“ We wo n't stay long . ”
+17970	17978	17979	17979	Harney	76	“ Lucky we 're here after all , ”
+18238	18242	18243	18244	Lucius Harney	75	“ city fellow . ”
+18262	18267	18253	18253	He	75	“ How are you ? ”
+18303	18316	18291	18291	She	69	“ You 're the girl from Royall 's , ai n't you ? ”
+18325	18331	18332	18332	she	69	“ I 'm Charity Royall , ”
+18365	18370	18371	18371	she	69	“ You kin stay , ”
+18741	18746	18712	18713	Mr. Royall	64	“ The Surrender of Burgoyne ”
+18802	18815	18816	18816	she	69	“ This is where I belong -- this is where I belong , ”
+19060	19069	19070	19070	she	648	“ I guess you better go along now , ”
+19083	19087	19088	19088	he	173	“ Thank you , ”
+19222	19247	19217	19217	she	648	“ Those people back there are the kind of folks I come from . They may be my relations , for all I know . ”
+19264	19268	19269	19269	he	75	“ Poor creatures , ”
+19272	19285	19286	19286	She	648	“ I wonder why they came down to that fever - hole . ”
+19290	19329	19286	19286	She	648	“ To better themselves ! It 's worse up on the Mountain . Bash Hyatt married the daughter of the farmer that used to own the brown house . That was him by the stove , I suppose . ”
+19342	19364	19338	19338	she	648	“ I saw you take out a dollar to give to that poor woman . Why did you put it back ? ”
+19383	19388	19365	19365	He	75	“ I was n't sure---- ”
+19389	19413	19414	19414	He	75	“ Was it because you knew they were my folks , and thought I 'd be ashamed to see you give them money ? ”
+19424	19428	19414	19414	He	75	“ Oh , Charity---- ”
+19448	19470	19471	19471	she	648	“ I ain't -- I ai n't ashamed . They 're my people , and I ai n't ashamed of them , ”
+19474	19478	19479	19479	he	75	“ My dear ... ”
+19617	19620	19636	19636	she	69	“ library days ”
+19676	19679	19680	19680	He	75	“ Memorial . ”
+19777	19781	19783	19783	she	693	“ library day , ”
+20181	20185	20163	20166	a brisk affable man	708	“ church - people ”
+20474	20477	20463	20464	Miss Hatchard	66	“ Memorial . ”
+20519	20524	20525	20526	Mr. Miles	67	“ I could n't , ”
+20529	20569	20570	20570	he	67	“ quite make out from your cousin what changes you wanted to make , and as the other trustees did not understand either I thought I had better drive over and take a look -- though I 'm sure , ”
+20582	20601	20570	20570	he	67	“ that no one could be more competent -- but of course this spot has its peculiar sanctity ! ”
+20602	20614	20615	20615	Harney	75	“ I hope a little fresh air wo n't desecrate it , ”
+20701	20716	20717	20717	she	69	“ Ah , the Coopersons ... yes , you know them , of course , ”
+20720	20739	20717	20717	she	69	“ That 's a fine old house ! And Ned Cooperson has collected some really remarkable impressionist pictures .... ”
+20749	20808	20809	20809	Charity	69	“ Yes ; yes ; the Schaefer quartette played at Lyric Hall on Saturday evening ; and on Monday I had the privilege of hearing them again at the Towers . Beautifully done ... Bach and Beethoven ... a lawn - party first ... I saw Miss Balch several times , by the way ... looking extremely handsome .... ”
+20838	20843	20855	20855	he	75	“ Oh , really ? ”
+20858	20890	20855	20855	he	75	“ You see , my plan is to move these shelves away , and open a round window in this wall , on the axis of the one under the pediment . ”
+20891	20907	20908	20909	Mr. Miles	67	“ I suppose she 'll be coming up here later to stay with Miss Hatchard ? ”
+20930	20960	20926	20926	his	67	“ Yes , yes , I see -- I understand : that will give a draught without materially altering the look of things . I can see no objection . ”
+20990	21019	21020	21020	He	67	“ Are n't you a little pale , my dear ? Not overworking ? Mr. Harney tells me you and Mamie are giving the library a thorough overhauling . ”
+21053	21082	21083	21083	he	67	“ Do n't take things hard , my dear ; do n't take things hard . Come down and see Mrs. Miles and me some day at Hepburn , ”
+21314	21317	21303	21304	Annabel Balch	65	“ extremely handsome ”
+21388	21391	21393	21394	Miss Balch	108	“ old things ”
+21396	21399	21401	21401	she	108	“ wore out ”
+21561	21578	21558	21558	he	64	“ Where 's supper ? Has Verena Marsh slipped up again on her soda - biscuits ? ”
+21587	21597	21579	21579	Charity	69	“ I presume she 's waiting for Mr. Harney . ”
+21598	21618	21619	21619	He	64	“ Mr. Harney , is she ? She 'd better dish up , then . He ai n't coming . ”
+21644	21653	21654	21654	Charity	69	“ Get along with the supper , Verena . ”
+21736	21745	21746	21746	he	64	“ Ai n't you going to take any ? ”
+21765	21770	21761	21762	Mr. Royall	64	“ He 's not coming ”
+21933	21942	21943	21943	she	69	“ I 'd rather die than do it , ”
+22163	22168	22157	22158	Mr. Royall	64	“ Where you going ? ”
+22175	22180	22169	22169	She	69	“ To Orma 's , ”
+22182	22188	22157	22158	Mr. Royall	64	“ Down to the Targatts ' ”
+24444	24448	24431	24431	he	64	“ Ready for dinner---- ”
+24606	24621	24598	24598	he	64	“ I 've got a headache . I 'm going up to lie down . ”
+24622	24641	24646	24646	his	64	“ I want you should come in here first ; I 've got something to say to you . ”
+24874	24889	24871	24871	he	64	“ Charity , for once let 's you and me talk together like friends . ”
+24907	24926	24927	24927	she	69	“ Where is Mr. Harney ? Why has n't he come back ? Have you sent him away ? ”
+24968	24990	24991	24991	he	64	“ Did n't he have time to answer some of those questions last night ? You was with him long enough ! ”
+25028	25038	25026	25026	her	69	“ Who says I was with him last night ? ”
+25039	25049	25088	25088	her	69	“ The whole place is saying it by now . ”
+25050	25070	25071	25071	she	69	“ Then it was you that put the lie into their mouths.--Oh , how I 've always hated you ! ”
+25095	25101	25102	25103	Mr. Royall	64	“ Yes , I know , ”
+25107	25119	25102	25103	Mr. Royall	64	“ But that ai n't going to help us much now . ”
+25120	25136	25181	25181	he	64	“ It helps me not to care a straw what lies you tell about me ! ”
+25137	25175	25176	25176	She	69	“ If they 're lies , they 're not my lies : my Bible oath on that , Charity . I did n't know where you were : I was n't out of this house last night . ”
+25185	25204	25181	25181	he	64	“ Is it a lie that you were seen coming out of Miss Hatchard 's nigh onto midnight ? ”
+25218	25230	25205	25205	She	69	“ I did n't look to see what time it was . ”
+25231	25251	25252	25252	he	64	“ You lost girl ... you ... you .... Oh , my God , why did you tell me ? ”
+25285	25319	25320	25321	Mr. Royall	64	“ Do you suppose I 'd take the trouble to lie to YOU ? Who are you , anyhow , to ask me where I go to when I go out at night ? ”
+25357	25421	25353	25354	Mrs. Royall	81	“ Do n't let 's go on like this , Charity . It ca n't do any good to either of us . You were seen going into that fellow 's house ... you were seen coming out of it .... I 've watched this thing coming , and I 've tried to stop it . As God sees me , I have .... ”
+25422	25441	25442	25442	He	822	“ Ah , it WAS you , then ? I knew it was you that sent him away ! ”
+25449	25462	25442	25442	He	822	“ Did n't he tell you so ? I thought he understood . ”
+25471	25567	25463	25463	He	822	“ I did n't name you to him : I 'd have cut my hand off sooner . I just told him I could n't spare the horse any longer ; and that the cooking was getting too heavy for Verena . I guess he 's the kind that 's heard the same thing before . Anyhow , he took it quietly enough . He said his job here was about done , anyhow ; and there did n't another word pass between us .... If he told you otherwise he told you an untruth . ”
+25595	25616	25463	25463	He	822	“ I 've told you he did n't tell me anything . I did n't speak with him last night . ”
+25617	25625	25463	25463	He	822	“ You did n't speak with him ? ”
+25626	25698	25463	25463	He	822	“ No .... It 's not that I care what any of you say ... but you may as well know . Things ai n't between us the way you think ... and the other people in this place . He was kind to me ; he was my friend ; and all of a sudden he stopped coming , and I knew it was you that done it -- YOU ! ”
+25711	25732	25733	25734	Mr. Royall	64	“ So I went there last night to find out what you 'd said to him : that 's all . ”
+25740	25779	25733	25734	Mr. Royall	64	“ But , then -- if he was n't there , what were you doing there all that time?--Charity , for pity 's sake , tell me . I 've got to know , to stop their talking . ”
+25803	25862	25800	25800	his	825	“ Ca n't you see that I do n't care what anybody says ? It 's true I went there to see him ; and he was in his room , and I stood outside for ever so long and watched him ; but I dursn't go in for fear he 'd think I 'd come after him .... ”
+25878	25890	25891	25891	she	824	“ As long as I live I 'll never forgive you ! ”
+25943	26086	26087	26087	He	827	“ Charity , you say you do n't care ; but you 're the proudest girl I know , and the last to want people to talk against you . You know there 's always eyes watching you : you 're handsomer and smarter than the rest , and that 's enough . But till lately you 've never given them a chance . Now they 've got it , and they 're going to use it . I believe what you say , but they wo n't .... It was Mrs. Tom Fry seen you going in ... and two or three of them watched for you to come out again .... You 've been with the fellow all day long every day since he come here ... and I 'm a lawyer , and I know how hard slander dies . ”
+26107	26165	26091	26091	she	828	“ He 's a pleasant fellow to talk to -- I liked having him here myself . The young men up here ai n't had his chances . But there 's one thing as old as the hills and as plain as daylight : if he 'd wanted you the right way he 'd have said so . ”
+26196	26403	26193	26193	his	827	“ See here , Charity Royall : I had a shameful thought once , and you 've made me pay for it . Is n't that score pretty near wiped out ? ... There 's a streak in me I ai n't always master of ; but I 've always acted straight to you but that once . And you 've known I would -- you've trusted me . For all your sneers and your mockery you 've always known I loved you the way a man loves a decent woman . I 'm a good many years older than you , but I 'm head and shoulders above this place and everybody in it , and you know that too . I slipped up once , but that 's no reason for not starting again . If you 'll come with me I 'll do it . If you 'll marry me we 'll leave here and settle in some big town , where there 's men , and business , and things doing . It 's not too late for me to find an opening .... I can see it by the way folks treat me when I go down to Hepburn or Nettleton .... ”
+26463	26474	26477	26477	him	829	“ Charity -- Charity -- say you 'll do it , ”
+26491	26513	26477	26477	him	829	“ Oh , what 's the use of all this ? When I leave here it wo n't be with you . ”
+26556	26569	26570	26570	He	829	“ That 's all , is it ? It 's not much . ”
+26589	26649	26650	26650	He	829	“ Well , then look here .... You 're right : I 've no claim on you -- why should you look at a broken man like me ? You want the other fellow ... and I do n't blame you . You picked out the best when you seen it ... well , that was always my way . ”
+26673	26682	26683	26683	he	829	“ Do you want him to marry you ? ”
+26723	26834	26837	26837	him	835	“ Do you want him to -- say ? I 'll have him here in an hour if you do . I ai n't been in the law thirty years for nothing . He 's hired Carrick Fry 's team to take him to Hepburn , but he ai n't going to start for another hour . And I can put things to him so he wo n't be long deciding .... He 's soft : I could see that . I do n't say you wo n't be sorry afterward -- but , by God , I 'll give you the chance to be , if you say so . ”
+26949	26969	26970	26970	she	834	“ I do n't want any chance you can give me : I 'm glad he 's going away , ”
+26989	26992	26993	26993	he	835	“ Charity ! ”
+27195	27201	27202	27202	he	75	“ Are you going out ? ”
+27205	27211	27189	27189	he	75	“ May I come in ? ”
+27251	27257	27237	27237	she	834	“ Yes : come in . ”
+27391	27410	27411	27411	he	75	“ I 'm so sorry it 's good - bye : I suppose you know I 'm leaving , ”
+27434	27449	27450	27450	she	834	“ I presume you found your work was over quicker than what you expected , ”
+27453	27502	27450	27450	she	834	“ Well , yes -- that is , no : there are plenty of things I should have liked to do . But my holiday 's limited ; and now that Mr. Royall needs the horse for himself it 's rather difficult to find means of getting about . ”
+27503	27516	27517	27517	she	834	“ There ai n't any too many teams for hire around here , ”
+27526	27546	27547	27547	he	75	“ These days here have been -- awfully pleasant : I wanted to thank you for making them so , ”
+27567	27607	27563	27563	he	75	“ You 've been wonderfully kind to me , and I wanted to tell you .... I wish I could think of you as happier , less lonely .... Things are sure to change for you by and by .... ”
+27608	27624	27563	27563	he	75	“ Things do n't change at North Dormer : people just get used to them . ”
+27655	27668	27647	27647	he	75	“ That 's not true of you . It ca n't be . ”
+27702	27709	27710	27710	she	834	“ Well , good - bye , ”
+27731	27736	27737	27737	He	75	“ Good - bye . ”
+27747	27759	27737	27737	He	75	“ You 'll say good - bye for me to Verena ? ”
+28128	28137	28138	28138	she	834	“ I look awful , do n't I ? ”
+28155	28175	28176	28176	Charity	69	“ I 'll stitch the roses on right here , so 's you can put it away at once . ”
+28230	28245	28246	28246	she	69	“ Do n't you ever feel like going down to Nettleton for a day ? ”
+28257	28277	28251	28251	her	74	“ No , I always remember that awful time I went down with Julia -- to that doctor 's . ”
+28278	28282	28251	28251	her	74	“ Oh , Ally---- ”
+28283	28365	28251	28251	her	74	“ I ca n't help it . The house is on the corner of Wing Street and Lake Avenue . The trolley from the station goes right by it , and the day the minister took us down to see those pictures I recognized it right off , and could n't seem to see anything else . There 's a big black sign with gold letters all across the front--'Private Consultations . ' She came as near as anything to dying .... ”
+28366	28370	28371	28371	Charity	69	“ Poor Julia ! ”
+28465	28477	28478	28478	She	69	“ Is it sewed ? Let me try it on again . ”
+29530	29532	29527	29527	girls	795	“ fellows ”
+29762	29764	29740	29742	the descending mob	914	“ hacks ”
+29803	29809	29793	29800	A mob of ' bus and hack drivers	916	“ To the Eagle House , ”
+29810	29816	29793	29800	A mob of ' bus and hack drivers	916	“ To the Washington House , ”
+29817	29824	29793	29800	A mob of ' bus and hack drivers	916	“ This way to the Lake , ”
+29825	29831	29834	29834	their	916	“ Just starting for Greytop ; ”
+30029	30036	30037	30037	Harney	75	“ Where shall we go first ? ”
+30056	30067	30049	30049	he	75	“ We 'll take a look round , shall we ? ”
+30472	30479	30480	30480	he	75	“ Which do you like best ? ”
+30490	30496	30497	30497	She	69	“ I do n't know .... ”
+30513	30524	30525	30525	he	75	“ Do n't you think the blue pin 's better ? ”
+30571	30586	30587	30587	she	69	“ It 's so lovely I guess I was afraid to look at it , ”
+30609	30619	30606	30606	he	75	“ Oh , by Jove , I forgot something , ”
+30651	30672	30673	30673	he	75	“ You must n't be afraid of looking at the blue pin any longer , because it belongs to you , ”
+30787	30795	30796	30796	Harney	75	“ We must have something to eat , ”
+31003	31009	31012	31012	them	960	“ Not f'r another hour , ”
+31027	31039	31040	31040	he	75	“ Oh , well , we ca n't stay sweltering here , ”
+31043	31049	31040	31040	he	75	“ let 's try somewhere else-- ”
+31067	31070	31056	31056	Charity	69	“ somewhere else ”
+31415	31425	31426	31426	he	75	“ It 's the real thing , you know , ”
+31503	31518	31519	31519	she	69	“ Oh , there 's time for that -- it will be pleasanter later , ”
+31556	31562	31543	31543	he	75	“ Come along , then , ”
+31816	31826	31797	31799	a young man	925	“ Ten dollars to take you round the Lake . ”
+31846	31867	31868	31869	the driver	989	“ Say , for twenny - five I 'll run you out to see the ball - game and back , ”
+31881	31893	31877	31877	Charity	69	“ Oh , I 'd rather go rowing on the Lake . ”
+31930	31937	31938	31940	the young man	173	“ Next turn is Lake Avenue , ”
+31991	32004	32005	32005	she	69	“ Dr. Merkle ; Private Consultations at all hours . Lady Attendants , ”
+32017	32041	32012	32013	Ally Hawes	74	“ The house was at the corner of Wing Street and Lake Avenue ... there 's a big black sign across the front .... ”
+32595	32610	32588	32588	Charity	69	“ Why , the fireworks . I suppose there 'll be a big show . ”
+32624	32633	32611	32611	Harney	75	“ Have you never seen any good fireworks ? ”
+32634	32646	32647	32647	she	69	“ Miss Hatchard always sends up lovely rockets on the Fourth , ”
+32651	32653	32654	32654	his	75	“ Oh---- ”
+32659	32676	32677	32677	She	69	“ I mean a big performance like this , illuminated boats , and all the rest . ”
+32683	32695	32677	32677	She	69	“ Do they send them up from the Lake , too ? ”
+32696	32725	32726	32726	She	69	“ Rather . Did n't you notice that big raft we passed ? It 's wonderful to see the rockets completing their orbits down under one 's feet . ”
+32739	32754	32731	32731	he	75	“ If we stay we 'd better go and pick up something to eat . ”
+32755	32764	32765	32765	she	69	“ But how can we get back afterwards ? ”
+32795	32819	32779	32779	He	75	“ The moon rises so late that it will be dark by eight , and we 'll have over an hour of it . ”
+33054	33066	33067	33067	she	69	“ Say ! if this ai n't like Old Home Week , ”
+33584	33594	33581	33581	someone	1049	“ You wait till you see the set piece , ”
+33662	33667	33668	33670	the same voice	1051	“ Now -- now ! ”
+33730	33736	33781	33782	the spectators	1054	“ Washington crossing the Delaware , ”
+33772	33778	33781	33782	the spectators	1054	“ Oh - h - h ”
+33794	33801	33781	33782	the spectators	1054	“ Oh - h - h , ”
+33932	33935	33936	33936	he	75	“ Come , ”
+34011	34014	34015	34015	he	75	“ Come , ”
+34018	34027	34015	34015	he	75	“ we must try to make the trolley . ”
+34116	34123	34161	34161	Harney	75	“ Last trip up the Lake , ”
+34147	34160	34161	34161	Harney	75	“ No use waiting here ; shall we run up the Lake ? ”
+34251	34257	34258	34258	she	69	“ Hullo , Charity Royall ! ”
+34271	34295	34258	34258	she	69	“ Did n't I tell you it was a family party ? Here 's grandpa 's little daughter come to take him home ! ”
+34511	34525	34526	34526	he	1075	“ You whore -- you damn -- bare - headed whore , you ! ”
+34620	34622	34626	34626	him	64	“ habits ”
+34690	34692	34693	34693	she	69	“ Oh---- ”
+34716	34730	34731	34731	she	69	“ You come home with me -- you come right home with me , ”
+34756	34766	34749	34752	one of the girls	1088	“ Say , how many fellers does she want ? ”
+34796	34808	34809	34809	he	64	“ I said , ' You -- damn -- whore ! ' ”
+34847	34859	34863	34866	approaching and departing passengers	1093	“ Now , then , step lively there -- all ABOARD ! ”
+35379	35387	35371	35373	the old woman	412	“ I 'll cover up , then . ”
+36169	36185	36154	36154	She	74	“ I 'll go to the Mountain -- I'll go back to my own folks . ”
+36675	36679	36688	36695	a young man in a black alpaca coat	1158	“ Gospel Tent . ”
+36720	36740	36741	36741	he	1158	“ Sister , your Saviour knows everything . Wo n't you come in and lay your guilt before Him ? ”
+36785	36795	36796	36796	she	74	“ I on'y wish't I had any to lay ! ”
+36818	36828	36811	36813	the young man	173	“ Oh , Sister , do n't speak blasphemy .... ”
+37092	37103	37080	37080	Harney	75	“ Charity ! What on earth are you doing here ? ”
+37129	37143	37144	37144	he	75	“ Where were you going ? Had you forgotten that I was coming ? ”
+37161	37183	37184	37184	she	74	“ I was going away -- I do n't want to see you -- I want you should leave me alone , ”
+37209	37218	37194	37194	his	75	“ Going away -- from me , Charity ? ”
+37219	37230	37231	37231	He	75	“ From everybody . I want you should leave me . ”
+37251	37258	37231	37231	He	75	“ Where were you going ? ' “
+37261	37262	37231	37231	He	75	” “
+37268	37276	37231	37231	He	75	” She threw her head back defiantly . “
+37288	37384	37231	37231	He	75	” As she spoke she became aware of a change in his face . He was no longer listening to her , he was only looking at her , with the passionate absorbed expression she had seen in his eyes after they had kissed on the stand at Nettleton . He was the new Harney again , the Harney abruptly revealed in that embrace , who seemed so penetrated with the joy of her presence that he was utterly careless of what she was thinking or feeling . He caught her hands with a laugh . “
+37393	37415	37416	37416	You	1183	” he said gaily . He drew out the little packet of his letters and flourished them before her bewildered eyes . “
+37459	37488	37440	37448	the young man who is running the Gospel tent	1187	” He drew back , holding her at arm 's length , and scrutinizing her troubled face with the minute searching gaze of his short - sighted eyes . “
+37508	37557	37500	37500	You	1183	” he said ; and before she could answer he had kissed her again , not vehemently , but tenderly , almost fraternally , as if he had guessed her confused pain , and wanted her to know he understood it . He wound his fingers through hers . “
+37579	37654	37655	37655	I	0	” He spoke with a boy 's gaiety , carelessly and confidently , as if nothing had happened that could shame or embarrass them ; and for a moment , in the sudden relief of her release from lonely pain , she felt herself yielding to his mood . But he had turned , and was drawing her back along the road by which she had come . She stiffened herself and stopped short . “
+37661	37680	37655	37655	I	0	” she said . They looked at each other a moment in silence ; then he answered gently : “
+37693	37709	37655	37655	I	0	” She remained motionless , gazing silently at the ground , and he went on : “
+37732	37751	37724	37724	you	0	” Still she made no answer , and he continued , in the same tone of tender reassurance : “
+37764	37784	37724	37724	you	0	” He took one of the hands that hung by her side and pressed his lips to the palm . “
+37806	38145	37801	37801	I	0	” The little old house -- its wooden walls sun - bleached to a ghostly gray -- stood in an orchard above the road . The garden palings had fallen , but the broken gate dangled between its posts , and the path to the house was marked by rose - bushes run wild and hanging their small pale blossoms above the crowding grasses . Slender pilasters and an intricate fan - light framed the opening where the door had hung ; and the door itself lay rotting in the grass , with an old apple - tree fallen across it . Inside , also , wind and weather had blanched everything to the same wan silvery tint ; the house was as dry and pure as the interior of a long - empty shell . But it must have been exceptionally well built , for the little rooms had kept something of their human aspect : the wooden mantels with their neat classic ornaments were in place , and the corners of one ceiling retained a light film of plaster tracery . Harney had found an old bench at the back door and dragged it into the house . Charity sat on it , leaning her head against the wall in a state of drowsy lassitude . He had guessed that she was hungry and thirsty , and had brought her some tablets of chocolate from his bicycle - bag , and filled his drinking - cup from a spring in the orchard ; and now he sat at her feet , smoking a cigarette , and looking up at her without speaking . Outside , the afternoon shadows were lengthening across the grass , and through the empty window - frame that faced her she saw the Mountain thrusting its dark mass against a sultry sunset . It was time to go . She stood up , and he sprang to his feet also , and passed his arm through hers with an air of authority . “
+38157	38167	38168	38168	I	0	” She looked at him and shook her head . “
+38180	38181	38175	38175	You	69	” “
+38188	38197	38185	38185	I	0	” She was silent , and he continued : “
+38252	38253	38254	38254	I	0	” “
+38263	38286	38254	38254	I	0	” He coloured a little at the retort , as though it had touched him in a way she did not suspect . “
+38305	38306	38307	38307	I	0	” “
+38337	38338	38322	38322	he	933	” “
+38348	38349	38345	38345	you	1194	” “
+38361	38372	38345	38345	you	1194	” She lowered her voice and looked away from him . “
+38385	38409	38345	38345	you	1194	” Harney stared at her . For a moment he did not seem to seize her meaning ; then his face grew dark . “
+38419	38431	38345	38345	you	1194	” His wrath blazed up , crimsoning him to the temples . “
+38444	38458	38459	38459	I	0	” he broke off , as if his thoughts recoiled from the discovery . “
+38467	38472	38459	38459	I	0	” she repeated doggedly . “
+38474	38516	38517	38517	I	0	” he assented . There was a long interval of silence , during which she imagined that he was searching her face for more light on what she had revealed to him ; and a flush of shame swept over her . “
+38527	38532	38521	38521	you	0	” she broke out , “
+38539	38601	38603	38603	me	0	” But once more , as she spoke , she became aware that he was no longer listening . He came close and caught her to him as if he were snatching her from some imminent peril : his impetuous eyes were in hers , and she could feel the hard beat of his heart as he held her against it . “
+38610	38826	38603	38603	me	0	” he said , pushing her hair back as if to draw her whole face up into his kiss . XII ONE afternoon toward the end of August a group of girls sat in a room at Miss Hatchard 's in a gay confusion of flags , turkey - red , blue and white paper muslin , harvest sheaves and illuminated scrolls . North Dormer was preparing for its Old Home Week . That form of sentimental decentralization was still in its early stages , and , precedents being few , and the desire to set an example contagious , the matter had become a subject of prolonged and passionate discussion under Miss Hatchard 's roof . The incentive to the celebration had come rather from those who had left North Dormer than from those who had been obliged to stay there , and there was some difficulty in rousing the village to the proper state of enthusiasm . But Miss Hatchard 's pale prim drawing - room was the centre of constant comings and goings from Hepburn , Nettleton , Springfield and even more distant cities ; and whenever a visitor arrived he was led across the hall , and treated to a glimpse of the group of girls deep in their pretty preparations . “
+38837	38852	38603	38603	me	0	” Miss Hatchard would be heard , tapping across the hall on her crutches . “
+38985	39150	39160	39160	he	75	” One of the first results of the Old Home Week agitation had , in fact , been the reappearance of Lucius Harney in the village street . He had been vaguely spoken of as being not far off , but for some weeks past no one had seen him at North Dormer , and there was a recent report of his having left Creston River , where he was said to have been staying , and gone away from the neighbourhood for good . Soon after Miss Hatchard 's return , however , he came back to his old quarters in her house , and began to take a leading part in the planning of the festivities . He threw himself into the idea with extraordinary good - humour , and was so prodigal of sketches , and so inexhaustible in devices , that he gave an immediate impetus to the rather languid movement , and infected the whole village with his enthusiasm . “
+39172	40507	39160	39160	he	75	” Miss Hatchard would say , lingering on the last word , which was a favourite one . And before leading her visitor back to the drawing - room she would repeat , for the hundredth time , that she supposed he thought it very bold of little North Dormer to start up and have a Home Week of its own , when so many bigger places had n't thought of it yet ; but that , after all , Associations counted more than the size of the population , did n't they ? And of course North Dormer was so full of Associations ... historic , literary ( here a filial sigh for Honorius ) and ecclesiastical ... he knew about the old pewter communion service imported from England in 1769 , she supposed ? And it was so important , in a wealthy materialistic age , to set the example of reverting to the old ideals , the family and the homestead , and so on . This peroration usually carried her half - way back across the hall , leaving the girls to return to their interrupted activities . The day on which Charity Royall was weaving hemlock garlands for the procession was the last before the celebration . When Miss Hatchard called upon the North Dormer maidenhood to collaborate in the festal preparations Charity had at first held aloof ; but it had been made clear to her that her non - appearance might excite conjecture , and , reluctantly , she had joined the other workers . The girls , at first shy and embarrassed , and puzzled as to the exact nature of the projected commemoration , had soon become interested in the amusing details of their task , and excited by the notice they received . They would not for the world have missed their afternoons at Miss Hatchard 's , and , while they cut out and sewed and draped and pasted , their tongues kept up such an accompaniment to the sewing - machine that Charity 's silence sheltered itself unperceived under their chatter . In spirit she was still almost unconscious of the pleasant stir about her . Since her return to the red house , on the evening of the day when Harney had overtaken her on her way to the Mountain , she had lived at North Dormer as if she were suspended in the void . She had come back there because Harney , after appearing to agree to the impossibility of her doing so , had ended by persuading her that any other course would be madness . She had nothing further to fear from Mr. Royall . Of this she had declared herself sure , though she had failed to add , in his exoneration , that he had twice offered to make her his wife . Her hatred of him made it impossible , at the moment , for her to say anything that might partly excuse him in Harney 's eyes . Harney , however , once satisfied of her security , had found plenty of reasons for urging her to return . The first , and the most unanswerable , was that she had nowhere else to go . But the one on which he laid the greatest stress was that flight would be equivalent to avowal . If -- as was almost inevitable -- rumours of the scandalous scene at Nettleton should reach North Dormer , how else would her disappearance be interpreted ? Her guardian had publicly taken away her character , and she immediately vanished from his house . Seekers after motives could hardly fail to draw an unkind conclusion . But if she came back at once , and was seen leading her usual life , the incident was reduced to its true proportions , as the outbreak of a drunken old man furious at being surprised in disreputable company . People would say that Mr. Royall had insulted his ward to justify himself , and the sordid tale would fall into its place in the chronicle of his obscure debaucheries . Charity saw the force of the argument ; but if she acquiesced it was not so much because of that as because it was Harney 's wish . Since that evening in the deserted house she could imagine no reason for doing or not doing anything except the fact that Harney wished or did not wish it . All her tossing contradictory impulses were merged in a fatalistic acceptance of his will . It was not that she felt in him any ascendancy of character -- there were moments already when she knew she was the stronger -- but that all the rest of life had become a mere cloudy rim about the central glory of their passion . Whenever she stopped thinking about that for a moment she felt as she sometimes did after lying on the grass and staring up too long at the sky ; her eyes were so full of light that everything about her was a blur . Each time that Miss Hatchard , in the course of her periodical incursions into the work - room , dropped an allusion to her young cousin , the architect , the effect was the same on Charity . The hemlock garland she was wearing fell to her knees and she sat in a kind of trance . It was so manifestly absurd that Miss Hatchard should talk of Harney in that familiar possessive way , as if she had any claim on him , or knew anything about him . She , Charity Royall , was the only being on earth who really knew him , knew him from the soles of his feet to the rumpled crest of his hair , knew the shifting lights in his eyes , and the inflexions of his voice , and the things he liked and disliked , and everything there was to know about him , as minutely and yet unconsciously as a child knows the walls of the room it wakes up in every morning . It was this fact , which nobody about her guessed , or would have understood , that made her life something apart and inviolable , as if nothing had any power to hurt or disturb her as long as her secret was safe . The room in which the girls sat was the one which had been Harney 's bedroom . He had been sent upstairs , to make room for the Home Week workers ; but the furniture had not been moved , and as Charity sat there she had perpetually before her the vision she had looked in on from the midnight garden . The table at which Harney had sat was the one about which the girls were gathered ; and her own seat was near the bed on which she had seen him lying . Sometimes , when the others were not looking , she bent over as if to pick up something , and laid her cheek for a moment against the pillow . Toward sunset the girls disbanded . Their work was done , and the next morning at daylight the draperies and garlands were to be nailed up , and the illuminated scrolls put in place in the Town Hall . The first guests were to drive over from Hepburn in time for the midday banquet under a tent in Miss Hatchard 's field ; and after that the ceremonies were to begin . Miss Hatchard , pale with fatigue and excitement , thanked her young assistants , and stood in the porch , leaning on her crutches and waving a farewell as she watched them troop away down the street . Charity had slipped off among the first ; but at the gate she heard Ally Hawes calling after her , and reluctantly turned . “
+40519	40530	40509	40509	you	1209	” Ally asked , looking at her with wistful admiration . “
+40549	40558	40531	40531	I	0	” Charity gazed at her with dazzled eyes . “
+40565	40609	40531	40531	I	0	” she said , and hastened away without listening to Ally 's protest . She wanted her dress to be as pretty as the other girls'--wanted it , in fact , to outshine the rest , since she was to take part in the “
+40610	41975	40531	40531	I	0	exercises”--but she had no time just then to fix her mind on such matters .... She sped up the street to the library , of which she had the key about her neck . From the passage at the back she dragged forth a bicycle , and guided it to the edge of the street . She looked about to see if any of the girls were approaching ; but they had drifted away together toward the Town Hall , and she sprang into the saddle and turned toward the Creston road . There was an almost continual descent to Creston , and with her feet against the pedals she floated through the still evening air like one of the hawks she had often watched slanting downward on motionless wings . Twenty minutes from the time when she had left Miss Hatchard 's door she was turning up the wood - road on which Harney had overtaken her on the day of her flight ; and a few minutes afterward she had jumped from her bicycle at the gate of the deserted house . In the gold - powdered sunset it looked more than ever like some frail shell dried and washed by many seasons ; but at the back , whither Charity advanced , drawing her bicycle after her , there were signs of recent habitation . A rough door made of boards hung in the kitchen doorway , and pushing it open she entered a room furnished in primitive camping fashion . In the window was a table , also made of boards , with an earthenware jar holding a big bunch of wild asters , two canvas chairs stood near by , and in one corner was a mattress with a Mexican blanket over it . The room was empty , and leaning her bicycle against the house Charity clambered up the slope and sat down on a rock under an old apple - tree . The air was perfectly still , and from where she sat she would be able to hear the tinkle of a bicycle - bell a long way down the road .... She was always glad when she got to the little house before Harney . She liked to have time to take in every detail of its secret sweetness -- the shadows of the apple - trees swaying on the grass , the old walnuts rounding their domes below the road , the meadows sloping westward in the afternoon light -- before his first kiss blotted it all out . Everything unrelated to the hours spent in that tranquil place was as faint as the remembrance of a dream . The only reality was the wondrous unfolding of her new self , the reaching out to the light of all her contracted tendrils . She had lived all her life among people whose sensibilities seemed to have withered for lack of use ; and more wonderful , at first , than Harney 's endearments were the words that were a part of them . She had always thought of love as something confused and furtive , and he made it as bright and open as the summer air . On the morrow of the day when she had shown him the way to the deserted house he had packed up and left Creston River for Boston ; but at the first station he had jumped on the train with a hand - bag and scrambled up into the hills . For two golden rainless August weeks he had camped in the house , getting eggs and milk from the solitary farm in the valley , where no one knew him , and doing his cooking over a spirit - lamp . He got up every day with the sun , took a plunge in a brown pool he knew of , and spent long hours lying in the scented hemlock - woods above the house , or wandering along the yoke of the Eagle Ridge , far above the misty blue valleys that swept away east and west between the endless hills . And in the afternoon Charity came to him . With part of what was left of her savings she had hired a bicycle for a month , and every day after dinner , as soon as her guardian started to his office , she hurried to the library , got out her bicycle , and flew down the Creston road . She knew that Mr. Royall , like everyone else in North Dormer , was perfectly aware of her acquisition : possibly he , as well as the rest of the village , knew what use she made of it . She did not care : she felt him to be so powerless that if he had questioned her she would probably have told him the truth . But they had never spoken to each other since the night on the wharf at Nettleton . He had returned to North Dormer only on the third day after that encounter , arriving just as Charity and Verena were sitting down to supper . He had drawn up his chair , taken his napkin from the side - board drawer , pulled it out of its ring , and seated himself as unconcernedly as if he had come in from his usual afternoon session at Carrick Fry 's ; and the long habit of the household made it seem almost natural that Charity should not so much as raise her eyes when he entered . She had simply let him understand that her silence was not accidental by leaving the table while he was still eating , and going up without a word to shut herself into her room . After that he formed the habit of talking loudly and genially to Verena whenever Charity was in the room ; but otherwise there was no apparent change in their relations . She did not think connectedly of these things while she sat waiting for Harney , but they remained in her mind as a sullen background against which her short hours with him flamed out like forest fires . Nothing else mattered , neither the good nor the bad , or what might have seemed so before she knew him . He had caught her up and carried her away into a new world , from which , at stated hours , the ghost of her came back to perform certain customary acts , but all so thinly and insubstantially that she sometimes wondered that the people she went about among could see her .... Behind the swarthy Mountain the sun had gone down in waveless gold . From a pasture up the slope a tinkle of cow - bells sounded ; a puff of smoke hung over the farm in the valley , trailed on the pure air and was gone . For a few minutes , in the clear light that is all shadow , fields and woods were outlined with an unreal precision ; then the twilight blotted them out , and the little house turned gray and spectral under its wizened apple - branches . Charity 's heart contracted . The first fall of night after a day of radiance often gave her a sense of hidden menace : it was like looking out over the world as it would be when love had gone from it . She wondered if some day she would sit in that same place and watch in vain for her lover .... His bicycle - bell sounded down the lane , and in a minute she was at the gate and his eyes were laughing in hers . They walked back through the long grass , and pushed open the door behind the house . The room at first seemed quite dark and they had to grope their way in hand in hand . Through the window - frame the sky looked light by contrast , and above the black mass of asters in the earthen jar one white star glimmered like a moth . “
+41988	41993	40531	40531	I	0	” Harney was explaining , “
+42017	42197	42198	42198	She	1212	” He had his arms about her , and his kisses were in her hair and on her lips . Under his touch things deep down in her struggled to the light and sprang up like flowers in sunshine . She twisted her fingers into his , and they sat down side by side on the improvised couch . She hardly heard his excuses for being late : in his absence a thousand doubts tormented her , but as soon as he appeared she ceased to wonder where he had come from , what had delayed him , who had kept him from her . It seemed as if the places he had been in , and the people he had been with , must cease to exist when he left them , just as her own life was suspended in his absence . He continued , now , to talk to her volubly and gaily , deploring his lateness , grumbling at the demands on his time , and good - humouredly mimicking Miss Hatchard 's benevolent agitation . “
+42223	42232	42198	42198	She	1212	” Charity was silent , and he added : “
+42251	42298	42243	42245	No one else	283	” Charity made no answer : She did not care what part her guardian played in the morrow 's ceremonies . Like all the other figures peopling her meagre world he had grown non - existent to her . She had even put off hating him . “
+42309	42313	42300	42300	I	0	” Harney continued . “
+42342	42378	42329	42329	you	1212	” Any other girl ? Were there any others ? She had forgotten even that peril , so enclosed did he and she seem in their secret world . Her heart gave a frightened jerk . “
+42383	42393	42394	42394	You	1212	” He laughed and took her in his arms . “
+42404	42677	42394	42394	You	1212	” He pushed the hair from her forehead , bending her face back , as his way was , and leaning over so that his head loomed black between her eyes and the paleness of the sky , in which the white star floated ... Side by side they sped back along the dark wood - road to the village . A late moon was rising , full orbed and fiery , turning the mountain ranges from fluid gray to a massive blackness , and making the upper sky so light that the stars looked as faint as their own reflections in water . At the edge of the wood , half a mile from North Dormer , Harney jumped from his bicycle , took Charity in his arms for a last kiss , and then waited while she went on alone . They were later than usual , and instead of taking the bicycle to the library she propped it against the back of the wood - shed and entered the kitchen of the red house . Verena sat there alone ; when Charity came in she looked at her with mild impenetrable eyes and then took a plate and a glass of milk from the shelf and set them silently on the table . Charity nodded her thanks , and sitting down , fell hungrily upon her piece of pie and emptied the glass . Her face burned with her quick flight through the night , and her eyes were dazzled by the twinkle of the kitchen lamp . She felt like a night - bird suddenly caught and caged . “
+42686	42690	42691	42691	He	1217	” Verena said . “
+42698	43466	42691	42691	He	1217	” Charity took no notice . Her soul was still winging through the forest . She washed her plate and tumbler , and then felt her way up the dark stairs . When she opened her door a wonder arrested her . Before going out she had closed her shutters against the afternoon heat , but they had swung partly open , and a bar of moonlight , crossing the room , rested on her bed and showed a dress of China silk laid out on it in virgin whiteness . Charity had spent more than she could afford on the dress , which was to surpass those of all the other girls ; she had wanted to let North Dormer see that she was worthy of Harney 's admiration . Above the dress , folded on the pillow , was the white veil which the young women who took part in the exercises were to wear under a wreath of asters ; and beside the veil a pair of slim white satin shoes that Ally had produced from an old trunk in which she stored mysterious treasures . Charity stood gazing at all the outspread whiteness . It recalled a vision that had come to her in the night after her first meeting with Harney . She no longer had such visions ... warmer splendours had displaced them ... but it was stupid of Ally to have paraded all those white things on her bed , exactly as Hattie Targatt 's wedding dress from Springfield had been spread out for the neighbours to see when she married Tom Fry .... Charity took up the satin shoes and looked at them curiously . By day , no doubt , they would appear a little worn , but in the moonlight they seemed carved of ivory . She sat down on the floor to try them on , and they fitted her perfectly , though when she stood up she lurched a little on the high heels . She looked down at her feet , which the graceful mould of the slippers had marvellously arched and narrowed . She had never seen such shoes before , even in the shop - windows at Nettleton ... never , except ... yes , once , she had noticed a pair of the same shape on Annabel Balch . A blush of mortification swept over her . Ally sometimes sewed for Miss Balch when that brilliant being descended on North Dormer , and no doubt she picked up presents of cast - off clothing : the treasures in the mysterious trunk all came from the people she worked for ; there could be no doubt that the white slippers were Annabel Balch 's .... As she stood there , staring down moodily at her feet , she heard the triple click - click - click of a bicycle - bell under her window . It was Harney 's secret signal as he passed on his way home . She stumbled to the window on her high heels , flung open the shutters and leaned out . He waved to her and sped by , his black shadow dancing merrily ahead of him down the empty moonlit road ; and she leaned there watching him till he vanished under the Hatchard spruces . XIII THE Town Hall was crowded and exceedingly hot . As Charity marched into it third in the white muslin file headed by Orma Fry , she was conscious mainly of the brilliant effect of the wreathed columns framing the green - carpeted stage toward which she was moving ; and of the unfamiliar faces turning from the front rows to watch the advance of the procession . But it was all a bewildering blur of eyes and colours till she found herself standing at the back of the stage , her great bunch of asters and goldenrod held well in front of her , and answering the nervous glance of Lambert Sollas , the organist from Mr. Miles 's church , who had come up from Nettleton to play the harmonium and sat behind it , his conductor 's eye running over the fluttered girls . A moment later Mr. Miles , pink and twinkling , emerged from the background , as if buoyed up on his broad white gown , and briskly dominated the bowed heads in the front rows . He prayed energetically and briefly and then retired , and a fierce nod from Lambert Sollas warned the girls that they were to follow at once with “
+43472	44013	42691	42691	He	1217	” It was a joy to Charity to sing : it seemed as though , for the first time , her secret rapture might burst from her and flash its defiance at the world . All the glow in her blood , the breath of the summer earth , the rustle of the forest , the fresh call of birds at sunrise , and the brooding midday languors , seemed to pass into her untrained voice , lifted and led by the sustaining chorus . And then suddenly the song was over , and after an uncertain pause , during which Miss Hatchard 's pearl - grey gloves started a furtive signalling down the hall , Mr. Royall , emerging in turn , ascended the steps of the stage and appeared behind the flower - wreathed desk . He passed close to Charity , and she noticed that his gravely set face wore the look of majesty that used to awe and fascinate her childhood . His frock - coat had been carefully brushed and ironed , and the ends of his narrow black tie were so nearly even that the tying must have cost him a protracted struggle . His appearance struck her all the more because it was the first time she had looked him full in the face since the night at Nettleton , and nothing in his grave and impressive demeanour revealed a trace of the lamentable figure on the wharf . He stood a moment behind the desk , resting his finger - tips against it , and bending slightly toward his audience ; then he straightened himself and began . At first she paid no heed to what he was saying : only fragments of sentences , sonorous quotations , allusions to illustrious men , including the obligatory tribute to Honorius Hatchard , drifted past her inattentive ears . She was trying to discover Harney among the notable people in the front row ; but he was nowhere near Miss Hatchard , who , crowned by a pearl - grey hat that matched her gloves , sat just below the desk , supported by Mrs. Miles and an important - looking unknown lady . Charity was near one end of the stage , and from where she sat the other end of the first row of seats was cut off by the screen of foliage masking the harmonium . The effort to see Harney around the corner of the screen , or through its interstices , made her unconscious of everything else ; but the effort was unsuccessful , and gradually she found her attention arrested by her guardian 's discourse . She had never heard him speak in public before , but she was familiar with the rolling music of his voice when he read aloud , or held forth to the selectmen about the stove at Carrick Fry 's . Today his inflections were richer and graver than she had ever known them : he spoke slowly , with pauses that seemed to invite his hearers to silent participation in his thought ; and Charity perceived a light of response in their faces . He was nearing the end of his address ... “
+44018	44022	42691	42691	He	1217	” he said , “
+44131	44147	44148	44148	My	0	” He paused , and there was a sense of suspense in the listening hall . “
+44231	44241	44224	44224	they	1233	” He looked about him , and repeated gravely : “
+44326	44614	44615	44615	He	1242	“ Gentlemen , let us look at things as they are . Some of us have come back to our native town because we 'd failed to get on elsewhere . One way or other , things had gone wrong with us ... what we 'd dreamed of had n't come true . But the fact that we had failed elsewhere is no reason why we should fail here . Our very experiments in larger places , even if they were unsuccessful , ought to have helped us to make North Dormer a larger place ... and you young men who are preparing even now to follow the call of ambition , and turn your back on the old homes -- well , let me say this to you , that if ever you do come back to them it 's worth while to come back to them for their good .... And to do that , you must keep on loving them while you 're away from them ; and even if you come back against your will -- and thinking it 's all a bitter mistake of Fate or Providence -- you must try to make the best of it , and to make the best of your old town ; and after a while -- well , ladies and gentlemen , I give you my recipe for what it 's worth ; after a while , I believe you 'll be able to say , as I can say today : ' I 'm glad I 'm here . ' Believe me , all of you , the best way to help the places we live in is to be glad we live there . ”
+44656	44661	44684	44684	they	1245	“ Hear , hear ! ”
+44696	44702	44703	44703	He	67	“ That was a MAN talking---- ”
+45479	45589	45590	45590	He	2371	“ A rich harvest of hallowed memories .... A sanctified hour to which , in moments of trial , your thoughts will prayerfully return .... And now , O Lord , let us humbly and fervently give thanks for this blessed day of reunion , here in the old home to which we have come back from so far . Preserve it to us , O Lord , in times to come , in all its homely sweetness -- in the kindliness and wisdom of its old people , in the courage and industry of its young men , in the piety and purity of this group of innocent girls---- ”
+45617	45622	45608	45608	his	2371	“ Auld Lang Syne . ”
+46569	46576	46565	46565	she	69	“ Have you slipped the chain ? ”
+46628	46635	46636	46636	she	69	“ What have you come for ? ”
+46662	46670	46671	46671	he	64	“ Because I knew you were here , ”
+46727	46730	46731	46731	he	64	“ Charity , ”
+46734	46750	46731	46731	he	64	“ he 'll be here in a minute . Let me talk to you first . ”
+46751	46769	46721	46722	Mr. Royall	64	“ You 've got no right to talk to me . I can do what I please . ”
+46770	46781	46731	46731	he	64	“ Yes . What is it you mean to do ? ”
+46782	46793	46794	46794	He	64	“ I need n't answer that , or anything else . ”
+46852	46860	46861	46861	he	64	“ So this is where you meet , ”
+46903	47042	47043	47043	She	1309	“ See here , Charity -- you're always telling me I 've got no rights over you . There might be two ways of looking at that -- but I ai n't going to argue it . All I know is I raised you as good as I could , and meant fairly by you always except once , for a bad half - hour . There 's no justice in weighing that half - hour against the rest , and you know it . If you had n't , you would n't have gone on living under my roof . Seems to me the fact of your doing that gives me some sort of a right ; the right to try and keep you out of trouble . I 'm not asking you to consider any other . ”
+47055	47064	47065	47065	she	1309	“ Better wait till I 'm in trouble , ”
+47079	47086	47068	47068	He	1310	“ Is that all your answer ? ”
+47087	47094	47068	47068	He	1310	“ Yes , that 's all . ”
+47095	47101	47102	47102	He	1310	“ Well -- I'll wait . ”
+47155	47165	47166	47166	he	75	“ Have you come to see me , sir ? ”
+47200	47206	47207	47207	he	64	“ Is this your house ? ”
+47213	47231	47210	47210	Harney	75	“ Well -- as much as it 's anybody 's . I come here to sketch occasionally . ”
+47232	47241	47192	47192	his	64	“ And to receive Miss Royall 's visits ? ”
+47242	47249	47192	47192	his	64	“ When she does me the honour---- ”
+47250	47266	47192	47192	his	64	“ Is this the home you propose to bring her to when you get married ? ”
+47321	47363	47307	47307	he	75	“ Miss Royall is not a child . Is n't it rather absurd to talk of her as if she were ? I believe she considers herself free to come and go as she pleases , without any questions from anyone . ”
+47369	47382	47364	47364	He	75	“ I 'm ready to answer any she wishes to ask me . ”
+47389	47401	47383	47384	Mr. Royall	64	“ Ask him when he 's going to marry you , then---- ”
+47425	47429	47430	47430	he	75	“ You darsn't ! ”
+47457	47471	47472	47472	He	75	“ You darsn't , and you know it -- and you know why ! ”
+47481	47640	47641	47641	He	1315	“ And you know why you ai n't asked her to marry you , and why you do n't mean to . It 's because you had n't need to ; nor any other man either . I 'm the only one that was fool enough not to know that ; and I guess nobody'll repeat my mistake -- not in Eagle County , anyhow . They all know what she is , and what she came from . They all know her mother was a woman of the town from Nettleton , that followed one of those Mountain fellows up to his place and lived there with him like a heathen . I saw her there sixteen years ago , when I went to bring this child down . I went to save her from the kind of life her mother was leading -- but I 'd better have left her in the kennel she came from .... ”
+47820	47828	47815	47815	he	75	“ I wonder how he found out ? ”
+47850	47864	47865	47865	She	69	“ I 'm so sorry , dear ... that this should have happened .... ”
+47872	47884	47865	47865	She	69	“ I ai n't ever been sorry -- not a minute ! ”
+47885	47888	47889	47889	She	69	“ No . ”
+47967	47970	47971	47971	he	75	“ Come , ”
+47997	48009	48010	48010	he	75	“ I stole them from the love - feast at Hamblin , ”
+48035	48043	48022	48022	She	69	“ Did n't you make the tea ? ”
+48044	48047	48048	48048	she	69	“ No , ”
+48051	48054	48048	48048	she	69	“ I forgot---- ”
+48055	48070	48071	48071	He	75	“ Oh , well -- it 's too late to boil the water now . ”
+48122	48158	48110	48110	he	75	“ I shall have to go off for a while -- a month or two , perhaps -- to arrange some things ; and then I 'll come back ... and we 'll get married . ”
+48241	48257	48258	48258	He	75	“ God ! it 's damp -- we could n't have come here much longer . ”
+48316	48354	48355	48355	He	75	“ But it 's been good , though , has n't it , Charity ? ... What 's the matter -- why do you stand there staring at me ? Have n't the days here been good ? ”
+48367	48389	48390	48390	He	75	“ And there 'll be others -- lots of others ... jollier ... even jollier ... wo n't there , darling ? ”
+48940	48944	48906	48906	He	75	“ settle things . ”
+49013	49019	49010	49010	she	69	“ With love from Charity . ”
+49393	49405	49406	49406	she	69	“ It was my idea running a ribbon through the gauging , ”
+49420	49432	49433	49433	She	69	“ It 's for Miss Balch : she was awfully pleased . ”
+49448	49465	49433	49433	She	69	“ I darsn't have told her I got the idea from one I saw on Julia . ”
+49472	49480	49468	49468	her	69	“ Do you still see Julia sometimes ? ”
+49493	49509	49481	49481	Ally	74	“ Oh , it was a long time ago I seen her with those gaugings .... ”
+49519	49535	49515	49515	Ally	74	“ Miss Balch left me a whole lot of things to do over this time . ”
+49536	49543	49544	49544	Charity	69	“ Why -- has she gone ? ”
+49553	49582	49544	49544	Charity	69	“ Did n't you know ? She went off the morning after they had the celebration at Hamblin . I seen her drive by early with Mr. Harney . ”
+49620	49656	49614	49614	Ally	74	“ Do you know what she told me before she went away ? She told me she was going to send for me to come over to Springfield and make some things for her wedding . ”
+49682	49690	49660	49660	her	69	“ Is she going to get married ? ”
+49722	49739	49713	49713	she	74	“ Why , I presume so ... from what she said .... Did n't you know ? ”
+49740	49746	49747	49747	Ally	74	“ Why should I know ? ”
+49772	49778	49779	49779	Charity	69	“ Why should I know ? ”
+49783	49801	49779	49779	Charity	69	“ I did n't know but what ... folks here say she 's engaged to Mr. Harney . ”
+49818	49842	49843	49843	she	69	“ If all the people got married that folks say are going to you 'd have your time full making wedding - dresses , ”
+49847	49855	49856	49856	Ally	74	“ Why -- don't you believe it ? ”
+49859	49878	49843	49843	she	69	“ It would not make it true if I did -- nor prevent it if I did n't . ”
+49879	49913	49914	49914	Charity	69	“ That 's so .... I only know I seen her crying the night of the party because her dress did n't set right . That was why she would n't dance any .... ”
+49936	49949	49950	49950	she	69	“ Well , I guess she wo n't dance in this either , ”
+49979	49983	49984	49984	Ally	74	“ Oh , Charity---- ”
+50010	50030	50031	50031	she	74	“ Oh , what 'll I say to her ? What 'll I do ? It was real lace ! ”
+50044	50055	50056	50056	she	69	“ You 'd ought n't to have brought it here , ”
+50062	50080	50056	50056	she	69	“ I hate other people 's clothes -- it 's just as if they was there themselves . ”
+50103	50119	50093	50093	Charity	69	“ Oh , go -- go -- go -- or I 'll hate you too .... ”
+50391	50394	50403	50403	Her	69	“ settling things ”
+51082	51086	51079	51079	she	69	“ You back ? ”
+51097	51104	51094	51094	he	64	“ Yes , I 'm back , ”
+51401	51404	51446	51447	Dr. Merkle	121	“ Office . ”
+51550	51645	51540	51540	She	121	“ Sit down , my dear . Would n't you like a little drop of something to pick you up ? ... No .... Well , just lay back a minute then .... There 's nothing to be done just yet ; but in about a month , if you 'll step round again ... I could take you right into my own house for two or three days , and there would n't be a mite of trouble . Mercy me ! The next time you 'll know better'n to fret like this .... ”
+51792	51813	51814	51814	She	121	“ Why do you run off in such a hurry ? You can stretch out right here on my sofa .... ”
+51824	51872	51814	51814	She	121	“ Afterwards -- if there 's been any talk at home , and you want to get away for a while ... I have a lady friend in Boston who 's looking for a companion ... you 're the very one to suit her , my dear .... ”
+51879	51896	51897	51897	she	69	“ I do n't want to stay . I do n't want to come back here , ”
+51920	51931	51912	51913	Dr. Merkle	121	“ Oh , very well . Five dollars , please . ”
+52003	52016	52017	52017	she	69	“ I did n't know ... I have n't got that much ... ”
+52075	52152	52153	52153	She	121	“ You say you 'll come round and settle later ? I 've heard that pretty often too . Give me your address , and if you ca n't pay me I 'll send the bill to your folks .... What ? I ca n't understand what you say .... That do n't suit you either ? My , you 're pretty particular for a girl that ai n't got enough to settle her own bills .... ”
+52175	52260	52158	52158	her	121	“ Ai n't you ashamed to talk that way to a lady that 's got to earn her living , when you go about with jewellery like that on you ? ... It ai n't in my line , and I do it only as a favour ... but if you 're a mind to leave that brooch as a pledge , I do n't say no .... Yes , of course , you can get it back when you bring me my money .... ”
+52438	52470	52471	52471	Ally	74	“ I was down at the post - office just as they were closing up , and Will Targatt said there was a letter for you , so I brought it . ”
+52516	52526	52527	52527	she	69	“ Oh , thank you -- good - night , ”
+52791	52805	52808	52808	he	1423	“ If ever there is a hope of realizing what we dreamed of ... ”
+53512	53521	53507	53508	Mr. Royall	64	“ Charity -- was you looking for me ? ”
+53530	53534	53535	53535	She	69	“ Me ? No---- ”
+53544	53556	53535	53535	She	69	“ I wanted some letter - paper , that 's all . ”
+53597	53605	53606	53606	he	64	“ Do you want a stamp too ? ”
+54011	54017	54018	54018	She	69	“ to make things right . ”
+54092	54121	54086	54086	she	136	“ Who 'd ever think the baby 's only two ? And for a seven months ' child -- ain't it a wonder what a size he is ? ”
+54789	54801	54783	54785	the fat evangelist	1466	“ Your Saviour knows everything . Come and confess your guilt . ”
+55447	55455	55441	55441	she	69	“ I 'm going up the Mountain . ”
+55456	55461	55462	55462	he	1491	“ Up the Mountain ? ”
+55503	55514	55515	55516	Mr. Miles	67	“ Charity ! What on earth are you doing here ? ”
+55542	55551	55534	55534	She	69	“ I 'm going to see my mother . ”
+55574	55596	55570	55571	Mr. Miles	67	“ You look ill , my dear , and it 's a long way . Do you think it 's wise ? ”
+55601	55610	55570	55571	Mr. Miles	67	“ I 've got to go to her . ”
+55628	55638	55622	55623	Mr. Miles	67	“ You know , then -- you'd been told ? ”
+55644	55660	55639	55639	She	69	“ I do n't know what you mean . I want to go to her . ”
+55686	55695	55696	55696	she	69	“ I just want to go to her , ”
+55707	55731	55732	55732	He	67	“ My child , your mother is dying . Liff Hyatt came down to fetch me .... Get in and come with us . ”
+56033	56044	56019	56019	he	67	“ Wo n't you tell me what is troubling you ? ”
+56077	56096	56060	56060	he	67	“ Charity , what do you know of your childhood , before you came down to North Dormer ? ”
+56104	56129	56097	56097	She	69	“ Nothing only what I heard Mr. Royall say one day . He said he brought me down because my father went to prison . ”
+56130	56140	56152	56152	he	67	“ And you 've never been up there since ? ”
+56141	56144	56145	56146	Mr. Miles	67	“ Never . ”
+56155	56183	56152	56152	he	67	“ I 'm glad you 're coming with me now . Perhaps we may find your mother alive , and she may know that you have come . ”
+56525	56527	56512	56512	his	94	“ Left---- ”
+56654	56658	56659	56659	Liff	94	“ Over there , ”
+56844	56849	56850	56851	the clergyman	339	“ Is it here ? ”
+56869	56886	56887	56887	he	67	“ Just hold the horse a minute , my dear : I 'll go in first , ”
+56963	56978	56979	56979	he	67	“ Your mother is dead , Charity ; you 'd better come with me , ”
+57005	57019	57000	57000	she	69	“ This is where I was born ... this is where I belong .... ”
+57126	57132	57119	57120	a woman	285	“ Here 's the preacher . ”
+57161	57167	57168	57168	he	67	“ Is the body here ? ”
+57186	57200	57201	57201	he	173	“ Where 's the candle ? I tole yer to bring a candle , ”
+57238	57250	57251	57252	the girl	180	“ How 'll I light it ? The stove 's out , ”
+57308	57314	57315	57315	someone	1049	“ Mary 's over there , ”
+57462	57469	57470	57471	a woman	285	“ She jus ' dropped off , ”
+57487	57497	57482	57484	the young man	173	“ I jus ' come in and found her . ”
+57512	57540	57541	57541	Someone	1049	“ It was like this : I says to her on'y the night before : if you do n't take and quit , I says to her ... ”
+57615	57626	57627	57627	she	1577	“ Who 's the girl ? Who brought her here ? ”
+57653	57665	57649	57650	Mr. Miles	67	“ I brought her ; she is Mary Hyatt 's daughter . ”
+57666	57672	57673	57674	the girl	180	“ What ? Her too ? ”
+57688	57702	57703	57703	he	67	“ Shut your mouth , damn you , or get out of here , ”
+57749	57755	57756	57756	he	67	“ Come and help me , ”
+57923	57929	57930	57930	he	67	“ Is there no coffin ? ”
+57955	57977	57949	57951	the fierce girl	1589	“ You 'd oughter brought it with you . Where 'd we get one here , I 'd like ter know ? ”
+57988	57998	57978	57979	Mr. Miles	67	“ Is it possible you have no coffin ready ? ”
+57999	58013	58014	58016	an old woman	642	“ That 's what I say : them that has it sleeps better , ”
+58019	58028	58014	58016	an old woman	642	“ But then she never had no bed .... ”
+58029	58036	58038	58042	the lank - haired man	1592	“ And the stove warn't hers , ”
+58149	58158	58159	58160	Mr. Miles	67	“ I am the Resurrection and the Life , ”
+58163	58198	58159	58160	Mr. Miles	67	“ he that believeth in me , though he were dead , yet shall he live .... Though after my skin worms destroy my body , yet in my flesh shall I see God .... ”
+58233	58248	58227	58227	she	69	“ We brought nothing into this world and we shall take nothing out of it---- ”
+58264	58270	58280	58280	his	1595	“ I brought the stove , ”
+58286	58320	58280	58280	his	1595	“ I wen ' down to Creston'n bought it ... n ' I got a right to take it outer here ... n ' I 'll lick any feller says I ai n't .... ”
+58321	58328	58330	58342	the tall youth who had been drowsing on the bench against the wall	1597	“ Sit down , damn you ! ”
+58344	58372	58330	58342	the tall youth who had been drowsing on the bench against the wall	1597	“ For man walketh in a vain shadow , and disquieteth himself in vain ; he heapeth up riches and can not tell who shall gather them .... ”
+58373	58380	58381	58385	a woman in the background	1598	“ Well , it ARE his , ”
+58400	58424	58425	58425	he	1599	“ If you do n't hold your mouths I 'll turn you all out o ' here , the whole lot of you , ”
+58431	58443	58425	58425	he	1599	“ G'wan , minister ... do n't let 'em faze you .... ”
+58444	58554	58392	58394	The tall youth	1599	“ Now is Christ risen from the dead and become the first - fruits of them that slept .... Behold , I show you a mystery . We shall not all sleep , but we shall all be changed , in a moment , in the twinkling of an eye , at the last trump .... For this corruptible must put on incorruption and this mortal must put on immortality . So when this corruption shall have put on incorruption , and when this mortal shall have put on immortality , then shall be brought to pass the saying that is written , Death is swallowed up in Victory .... ”
+58604	58610	58611	58611	he	67	“ Is the grave ready ? ”
+58628	58631	58614	58615	Liff Hyatt	94	“ Yes , ”
+58893	58959	58887	58887	he	67	“ Man that is born of woman hath but a short time to live and is full of misery .... He cometh up and is cut down ... he fleeth as it were a shadow .... Yet , O Lord God most holy , O Lord most mighty , O holy and merciful Saviour , deliver us not into the bitter pains of eternal death .... ”
+58960	58968	58970	58971	the claimant	1615	“ Easy there ... is she down ? ”
+58985	58995	58977	58979	the young man	173	“ Lift the light there , ca n't you ? ”
+59021	59029	59030	59030	he	67	coat----(“No , no -- leave the handkerchief , ”
+59049	59095	59033	59034	Liff Hyatt	94	“ Forasmuch as it hath pleased Almighty God of His great mercy to take unto Himself the soul of our dear sister here departed , we therefore commit her body to the ground ; earth to earth , ashes to ashes , dust to dust ... ”
+59118	59126	59127	59127	he	94	“ God -- it 's froze a'ready , ”
+59146	59186	59127	59127	he	94	“ Through our Lord Jesus Christ , who shall change our vile body that it may be like unto His glorious body , according to the mighty working , whereby He is able to subdue all things unto Himself ... ”
+59217	59237	59202	59202	Liff	94	“ Lord , have mercy upon us , Christ have mercy upon us , Lord have mercy upon us ... ”
+59260	59269	59270	59270	he	67	“ Now kneel down , all of you , ”
+59315	59327	59328	59328	he	67	“ And now pray with me -- you know this prayer , ”
+59335	59343	59332	59332	he	67	“ Our Father which art in Heaven ... ”
+59376	59382	59383	59383	he	67	“ It was this way , ”
+59386	59399	59383	59383	he	67	“ I tole her the night before , I says to her ... ”
+59435	59448	59421	59421	Charity	69	“ My child , you must come . It 's very late . ”
+59466	59479	59457	59457	he	67	“ I ai n't coming : I 'm going to stay here . ”
+59480	59490	59509	59509	his	67	“ Here ? Where ? What do you mean ? ”
+59491	59505	59509	59509	his	67	“ These are my folks . I 'm going to stay with them . ”
+59512	59542	59509	59509	his	67	“ But it 's not possible -- you do n't know what you are doing . You ca n't stay among these people : you must come with me . ”
+59589	59604	59605	59605	she	69	“ Have you got a place where I can lie down for the night ? ”
+59632	59644	59645	59645	he	94	“ She 's my mother . She 'll take you home , ”
+59662	59678	59649	59649	he	94	“ It 's the girl from lawyer Royall's -- Mary 's girl ... you remember .... ”
+60209	60235	60197	60198	Mr. Royall	64	“ Yes , there was a mother ; but she was glad to have the child go . She 'd have given her to anybody .... ”
+61685	61704	61681	61681	he	64	“ The minister told me he 'd left you up here , so I come up for you . ”
+61744	61779	61732	61733	Mr. Royall	64	“ Get along there , Dan .... I gave him a rest at Hamblin ; but I brought him along pretty quick , and it 's a stiff pull up here against the wind . ”
+61870	61894	61866	61866	he	64	“ It was a day just like this , only spitting snow , when I come up here for you the first time . ”
+61917	61932	61913	61913	he	64	“ I dunno 's you think it was such a good job , either . ”
+61933	61939	61940	61940	she	69	“ Yes , I do , ”
+61949	61952	61953	61953	he	64	“ Well , ”
+61956	61959	61953	61953	he	64	“ I tried---- ”
+61977	61987	61988	61988	he	64	“ Ho , there , Dan , step out , ”
+61995	62003	62004	62004	he	64	“ We ai n't home yet.--You cold ? ”
+62113	62116	62117	62117	he	64	“ Charity , ”
+62120	62169	62117	62117	he	64	“ you look fair done up , and North Dormer 's a goodish way off . I 've figured out that we 'd do better to stop here long enough for you to get a mouthful of breakfast and then drive down to Creston and take the train . ”
+62178	62185	62172	62172	herself	69	“ The train -- what train ? ”
+62210	62219	62220	62220	he	64	“ This is old Mrs. Hobart 's place , ”
+62223	62233	62220	62220	he	64	“ She 'll give us something hot to drink . ”
+62309	62333	62304	62304	his	64	“ Well , Mrs. Hobart , you got any breakfast for this young lady ? You can see she 's cold and hungry . ”
+62350	62359	62360	62360	she	143	“ My , you do look pretty mean , ”
+62541	62546	62547	62547	he	64	“ Now , then , ”
+62550	62559	62547	62547	he	64	“ if you 're a mind to go along---- ”
+62569	62584	62566	62566	he	64	“ We can pick up the noon train for Nettleton if you say so . ”
+62645	62728	62729	62729	His	64	“ You and me have spoke some hard things to each other in our time , Charity ; and there 's no good that I can see in any more talking now . But I 'll never feel any way but one about you ; and if you say so we 'll drive down in time to catch that train , and go straight to the minister 's house ; and when you come back home you 'll come as Mrs. Royall . ”
+62775	62780	62781	62781	she	69	“ Oh , I can't---- ”
+62786	62791	62781	62781	she	69	“ Ca n't what ? ”
+62840	62868	62827	62827	She	69	“ I know I ai n't been fair to you always ; but I want to be now .... I want you to know ... I want ... ”
+62907	62915	62916	62916	he	64	“ What 's all this about wanting ? ”
+62922	62958	62916	62916	he	64	“ Do you know what you really want ? I 'll tell you . You want to be took home and took care of . And I guess that 's all there is to say . ”
+62959	62967	62884	62884	He	64	“ No ... it 's not all .... ”
+62968	62973	62974	62974	He	64	“ Ai n't it ? ”
+62980	63049	62977	62977	his	64	“ Well , I 'll tell you another thing . All I want is to know if you 'll marry me . If there was anything else , I 'd tell you so ; but there ai n't . Come to my age , a man knows the things that matter and the things that do n't ; that 's about the only good turn life does us . ”
+63083	63090	63091	63091	he	64	“ Do n't cry , Charity , ”
+63112	63116	63117	63117	he	64	“ See here , ”
+63121	63146	63117	63117	he	64	“ old Dan 's come a long distance , and we 've got to let him take it easy the rest of the way .... ”
+64031	64033	64002	64003	Mr. Royall	64	“ hack ”
+64187	64198	64179	64179	he	64	“ Your hair 's got kinder loose with the wind , ”
+64470	64515	64516	64516	Charity	69	“ I require and charge you both , as ye will answer at the dreadful day of judgment when the secrets of all hearts shall be disclosed , that if either of you know any impediment whereby ye may not be lawfully joined together ... ”
+64536	64540	64543	64543	him	64	“ I will ! ”
+65158	65167	65168	65168	he	64	“ What are you doing in the dark ? ”
+65232	65247	65228	65229	Mr. Royall	64	“ We 'll step down and have some supper , if you say so . ”
+65460	65480	65481	65481	he	64	“ You go right along up to bed -- I'm going to sit down here and have my smoke , ”
+65647	65660	65661	65661	she	69	“ What have I done ? Oh , what have I done ? ”
+66077	66097	66098	66098	He	64	“ I guess while I 'm doing it you 'd better step out and buy yourself whatever you need . ”
+66108	66122	66098	66098	He	64	“ You know I always wanted you to beat all the other girls . ”
+66153	66176	66177	66177	he	64	“ If it ai n't enough there 's more where that come from -- I want you to beat 'em all hollow , ”
+66370	66397	66398	66398	she	69	“ I thought you 'd be back , but you 've come a mite too soon : I told you to be patient and not fret , ”
+66416	66426	66427	66427	she	69	“ I 've come to get my blue brooch , ”
+66432	66436	66427	66427	she	69	“ Your brooch ? ”
+66444	66490	66491	66491	She	69	“ My , yes -- I get so many things of that kind . Well , my dear , you 'll have to wait while I get it out of the safe . I do n't leave valuables like that laying round like the noospaper . ”
+66539	66546	66547	66547	she	69	“ Have you got the change ? ”
+66565	66584	66547	66547	she	69	“ Change ? What 'd I want to have change for ? I only see two twenties there , ”
+66595	66608	66590	66590	Charity	69	“ I thought ... you said it was five dollars a visit .... ”
+66609	66667	66668	66668	Charity	69	“ For YOU , as a favour -- I did . But how about the responsibility and the insurance ? I do n't s'pose you ever thought of that ? This pin 's worth a hundred dollars easy . If it had got lost or stole , where 'd I been when you come to claim it ? ”
+66690	66725	66726	66726	She	121	“ I did n't ask you for your brooch , my dear . I 'd a good deal ruther folks paid me my regular charge than have 'em put me to all this trouble . ”
+66752	66758	66759	66759	she	121	“ Will you take that ? ”
+66762	66797	66759	66759	she	121	“ No , I wo n't take that , my dear ; but I 'll take it with its mate , and hand you over a signed receipt if you do n't trust me . ”
+66798	66812	66813	66813	Charity	69	“ Oh , but I can't -- it 's all I 've got , ”
+66828	66891	66816	66817	Dr. Merkle	121	“ It seems you got married yesterday , up to the ' Piscopal church ; I heard all about the wedding from the minister 's chore - man . It would be a pity , would n't it , to let Mr. Royall know you had an account running here ? I just put it to you as your own mother might . ”
+67504	67522	67523	67523	he	75	“ Well , did you rig yourself out handsomely ? I have n't seen any bundles round , ”
+67527	67543	67544	67544	she	69	“ Oh , I 'd rather let Ally Hawes make the few things I want , ”
+67547	67551	67552	67552	He	75	“ That so ? ”
+67577	67608	67571	67571	his	75	“ Well , I wanted you to go back looking stylisher than any of them ; but I guess you 're right . You 're a good girl , Charity . ”
+67636	67645	67646	67646	she	69	“ I guess you 're good , too , ”

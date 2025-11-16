@@ -1,0 +1,7 @@
+COREF,start_token,end_token,prop,cat,text
+1,5386,5386,PROP,GPE,Tackletons
+22,5950,5950,PROP,GPE,Halloa
+20,7186,7186,PROP,GPE,Tilly
+23,7197,7197,PROP,GPE,Boxer
+10,17692,17692,PROP,GPE,Berthaâ€™s
+27,36885,36885,PROP,GPE,Tackleton

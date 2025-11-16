@@ -1,0 +1,8 @@
+COREF,start_token,end_token,prop,cat,text
+1,2424,2424,PROP,GPE,Bedlam
+3,3903,3904,PROP,GPE,Camden Town
+4,4188,4188,PROP,GPE,London
+5,5132,5132,PROP,GPE,Sheba
+9,11229,11229,PROP,GPE,Damascus
+10,11431,11431,PROP,GPE,Halloa
+26,12735,12735,PROP,GPE,Ebenezer

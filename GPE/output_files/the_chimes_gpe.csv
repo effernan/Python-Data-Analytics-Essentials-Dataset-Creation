@@ -1,0 +1,6 @@
+COREF,start_token,end_token,prop,cat,text
+3,8242,8242,PROP,GPE,England
+4,9106,9106,PROP,GPE,Heaven
+5,13814,13814,PROP,GPE,London
+19,19477,19478,PROP,GPE,Toby Veck
+15,38987,38987,PROP,GPE,Dorsetshire

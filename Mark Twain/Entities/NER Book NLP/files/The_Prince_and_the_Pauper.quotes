@@ -1,0 +1,901 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+2937	2946	2934	2935	The soldier	415	“ Mind thy manners , thou young beggar ! ”
+2976	3009	3010	3010	You	418	“ How dar’st thou use a poor lad like that ? How dar’st thou use the King my father ’s meanest subject so ? Open the gates , and let him in ! ”
+3033	3041	3027	3027	them	419	“ Long live the Prince of Wales ! ”
+3084	3100	3081	3082	Edward Tudor	88	“ Thou lookest tired and hungry : thou’st been treated ill . Come with me . ”
+3221	3229	3209	3209	he	236	“ What is thy name , lad ? ”
+3230	3242	3209	3209	he	236	“ Tom Canty , an ’ it please thee , sir . ”
+3243	3254	3209	3209	he	236	“ ‘ Tis an odd one . Where dost live ? ”
+3255	3273	3209	3209	he	236	“ In the city , please thee , sir . Offal Court , out of Pudding Lane . ”
+3274	3288	3209	3209	he	236	“ Offal Court ! Truly ’ tis another odd one . Hast parents ? ”
+3289	3329	3209	3209	he	236	“ Parents have I , sir , and a grand - dam likewise that is but indifferently precious to me , God forgive me if it be offence to say it -- also twin sisters , Nan and Bet . ”
+3330	3347	3209	3209	he	236	“ Then is thy grand - dam not over kind to thee , I take it ? ”
+3348	3374	3209	3209	he	236	“ Neither to any other is she , so please your worship . She hath a wicked heart , and worketh evil all her days . ”
+3375	3381	3209	3209	he	236	“ Doth she mistreat thee ? ”
+3382	3418	3209	3209	he	236	“ There be times that she stayeth her hand , being asleep or overcome with drink ; but when she hath her judgment clear again , she maketh it up to me with goodly beatings . ”
+3434	3439	3431	3431	he	430	“ What ! Beatings ? ”
+3440	3452	3209	3209	he	236	“ Oh , indeed , yes , please you , sir . ”
+3453	3481	3209	3209	he	236	“ _ Beatings_!--and thou so frail and little . Hark ye : before the night come , she shall hie her to the Tower . The King my father”--
+3482	3503	3431	3431	he	430	“ In sooth , you forget , sir , her low degree . The Tower is for the great alone . ”
+3504	3530	3209	3209	he	236	“ True , indeed . I had not thought of that . I will consider of her punishment . Is thy father kind to thee ? ”
+3531	3540	3209	3209	he	236	“ Not more than Gammer Canty , sir . ”
+3541	3589	3431	3431	he	430	“ Fathers be alike , mayhap . Mine hath not a doll ’s temper . He smiteth with a heavy hand , yet spareth me : he spareth me not always with his tongue , though , sooth to say . How doth thy mother use thee ? ”
+3590	3619	3209	3209	he	236	“ She is good , sir , and giveth me neither sorrow nor pain of any sort . And Nan and Bet are like to her in this . ”
+3620	3626	3209	3209	he	236	“ How old be these ? ”
+3627	3638	3431	3431	he	430	“ Fifteen , an ’ it please you , sir . ”
+3639	3703	3209	3209	he	236	“ The Lady Elizabeth , my sister , is fourteen , and the Lady Jane Grey , my cousin , is of mine own age , and comely and gracious withal ; but my sister the Lady Mary , with her gloomy mien and -- Look you : do thy sisters forbid their servants to smile , lest the sin destroy their souls ? ”
+3704	3721	3722	3724	The little prince	430	“ They ? Oh , dost think , sir , that _ they _ have servants ? ”
+3735	3756	3209	3209	he	236	“ And prithee , why not ? Who helpeth them undress at night ? Who attireth them when they rise ? ”
+3757	3778	3209	3209	he	236	“ None , sir . Would’st have them take off their garment , and sleep without -- like the beasts ? ”
+3779	3788	3209	3209	he	236	“ Their garment ! Have they but one ? ”
+3789	3811	3209	3209	he	236	“ Ah , good your worship , what would they do with more ? Truly they have not two bodies each . ”
+3812	3883	3209	3209	he	236	“ It is a quaint and marvellous thought ! Thy pardon , I had not meant to laugh . But thy good Nan and thy Bet shall have raiment and lackeys enow , and that soon , too : my cofferer shall look to it . No , thank me not ; ’ tis nothing . Thou speakest well ; thou hast an easy grace in it . Art learned ? ”
+3884	3915	3209	3209	he	236	“ I know not if I am or not , sir . The good priest that is called Father Andrew taught me , of his kindness , from his books . ”
+3916	3922	3209	3209	he	236	“ Know’st thou the Latin ? ”
+3923	3932	3209	3209	he	236	“ But scantly , sir , I doubt . ”
+3933	3995	3209	3209	he	236	“ Learn it , lad : ’ tis hard only at first . The Greek is harder ; but neither these nor any tongues else , I think , are hard to the Lady Elizabeth and my cousin . Thou should’st hear those damsels at it ! But tell me of thy Offal Court . Hast thou a pleasant life there ? ”
+3996	4079	3209	3209	he	236	“ In truth , yes , so please you , sir , save when one is hungry . There be Punch - and - Judy shows , and monkeys -- oh such antic creatures ! and so bravely dressed!--and there be plays wherein they that play do shout and fight till all are slain , and ’ tis so fine to see , and costeth but a farthing -- albeit ’ tis main hard to get the farthing , please your worship . ”
+4080	4085	3209	3209	he	236	“ Tell me more . ”
+4086	4112	3209	3209	he	236	“ We lads of Offal Court do strive against each other with the cudgel , like to the fashion of the ‘ prentices , sometimes . ”
+4121	4134	3209	3209	he	236	“ Marry , that would not I mislike . Tell me more . ”
+4135	4152	3209	3209	he	236	“ We strive in races , sir , to see who of us shall be fleetest . ”
+4153	4163	3209	3209	he	236	“ That would I like also . Speak on . ”
+4164	4202	3209	3209	he	236	“ In summer , sir , we wade and swim in the canals and in the river , and each doth duck his neighbour , and splatter him with water , and dive and shout and tumble and-- ”
+4203	4222	3209	3209	he	236	“ ‘ Twould be worth my father ’s kingdom but to enjoy it once ! Prithee go on . ”
+4223	4284	3209	3209	he	236	“ We dance and sing about the Maypole in Cheapside ; we play in the sand , each covering his neighbour up ; and times we make mud pastry -- oh the lovely mud , it hath not its like for delightfulness in all the world!--we do fairly wallow in the mud , sir , saving your worship ’s presence . ”
+4285	4341	3209	3209	he	236	“ Oh , prithee , say no more , ’ tis glorious ! If that I could but clothe me in raiment like to thine , and strip my feet , and revel in the mud once , just once , with none to rebuke me or forbid , meseemeth I could forego the crown ! ”
+4342	4362	3209	3209	he	236	“ And if that I could clothe me once , sweet sir , as thou art clad -- just once-- ”
+4363	4419	3209	3209	he	236	“ Oho , would’st like it ? Then so shall it be . Doff thy rags , and don these splendours , lad ! It is a brief happiness , but will be not less keen for that . We will have it while we may , and change again before any come to molest . ”
+4508	4516	4504	4506	the puzzled princeling	440	“ What dost thou make of this ? ”
+4517	4544	4504	4506	the puzzled princeling	440	“ Ah , good your worship , require me not to answer . It is not meet that one of my degree should utter the thing . ”
+4545	4649	4504	4506	the puzzled princeling	440	“ Then will _ I _ utter it . Thou hast the same hair , the same eyes , the same voice and manner , the same form and stature , the same face and countenance that I bear . Fared we forth naked , there is none could say which was you , and which the Prince of Wales . And , now that I am clothed as thou wert clothed , it seemeth I should be able the more nearly to feel as thou didst when the brute soldier -- Hark ye , is not this a bruise upon your hand ? ”
+4650	4672	4504	4506	the puzzled princeling	440	“ Yes ; but it is a slight thing , and your worship knoweth that the poor man - at - arms-- ”
+4673	4685	4687	4689	the little prince	430	“ Peace ! It was a shameful thing and a cruel ! ”
+4696	4715	4687	4689	the little prince	430	“ If the King -- Stir not a step till I come again ! It is a command ! ”
+4783	4790	4771	4771	he	430	“ Open ! Unbar the gates ! ”
+4836	4854	4816	4817	the soldier	415	“ Take that , thou beggar ’s spawn , for what thou got’st me from his Highness ! ”
+4878	4902	4903	4904	The soldier	415	“ I am the Prince of Wales , my person is sacred ; and thou shalt hang for laying thy hand upon me ! ”
+4916	4923	4903	4904	The soldier	415	“ I salute your gracious Highness . ”
+4925	4932	4903	4904	The soldier	415	angrily--“Be off , thou crazy rubbish ! ”
+4957	4971	4934	4936	the jeering crowd	452	“ Way for his Royal Highness ! Way for the Prince of Wales ! ”
+5210	5296	5205	5205	He	236	“ It is the ancient Grey Friars ’ Church , which the king my father hath taken from the monks and given for a home for ever for poor and forsaken children , and new - named it Christ ’s Church . Right gladly will they serve the son of him who hath done so generously by them -- and the more that that son is himself as poor and as forlorn as any that be sheltered here this day , or ever shall be . ”
+5490	5508	5482	5483	the prince	236	“ Good lads , say to your master that Edward Prince of Wales desireth speech with him . ”
+5522	5534	5518	5520	one rude fellow	476	“ Marry , art thou his grace ’s messenger , beggar ? ”
+5569	5588	5566	5567	one boy	478	“ Didst mark that ? He fancied he had a sword -- belike he is the prince himself . ”
+5603	5628	5595	5596	Poor Edward	101	“ I am the prince ; and it ill beseemeth you that feed upon the king my father ’s bounty to use me so . ”
+5650	5691	5639	5644	The youth who had first spoken	479	“ Ho , swine , slaves , pensioners of his grace ’s princely father , where be your manners ? Down on your marrow bones , all of ye , and do reverence to his kingly port and royal rags ! ”
+5724	5740	5711	5712	The prince	236	“ Take thou that , till the morrow come and I build thee a gibbet ! ”
+5772	5804	5718	5718	his	236	“ Hale him forth ! To the horse - pond , to the horse - pond ! Where be the dogs ? Ho , there , Lion ! ho , Fangs ! ”
+5937	5998	5931	5931	He	236	“ Offal Court -- that is the name ; if I can but find it before my strength is wholly spent and I drop , then am I saved -- for his people will take me to the palace and prove that I am none of theirs , but the true prince , and I shall have mine own again . ”
+6021	6097	6018	6018	he	236	“ When I am king , they shall not have bread and shelter only , but also teachings out of books ; for a full belly is little worth where the mind is starved , and the heart . I will keep this diligently in my remembrance , that this day ’s lesson be not lost upon me , and my people suffer thereby ; for learning softeneth the heart and breedeth gentleness and charity . ”
+6172	6223	6164	6167	a great drunken ruffian	493	“ Out to this time of night again , and hast not brought a farthing home , I warrant me ! If it be so , an ’ I do not break all the bones in thy lean body , then am I not John Canty , but some other . ”
+6239	6267	6164	6167	a great drunken ruffian	493	“ Oh , art _ his _ father , truly ? Sweet heaven grant it be so -- then wilt thou fetch him away and restore me ! ”
+6268	6298	6164	6167	a great drunken ruffian	493	“ _ His _ father ? I know not what thou mean’st ; I but know I am _ thy _ father , as thou shalt soon have cause to-- ”
+6299	6372	6373	6374	The man	495	“ Oh , jest not , palter not , delay not!--I am worn , I am wounded , I can bear no more . Take me to the king my father , and he will make thee rich beyond thy wildest dreams . Believe me , man , believe me!--I speak no lie , but only the truth!--put forth thy hand and save me ! I am indeed the Prince of Wales ! ”
+6390	6399	6401	6401	him	496	“ Gone stark mad as any Tom o ’ Bedlam!”--then
+6415	6446	6401	6401	him	496	“ But mad or no mad , I and thy Gammer Canty will soon find where the soft places in thy bones lie , or I ’m no true man ! ”
+6873	6899	6871	6871	He	90	“ Oh , they mock at me ! They will go and tell . Oh ! why came I here to cast away my life ? ”
+6932	6938	6928	6930	a silken page	518	“ The Lady Jane Grey . ”
+6966	6976	6956	6956	she	519	“ Oh , what aileth thee , my lord ? ”
+6992	7054	6986	6986	he	90	“ Ah , be merciful , thou ! In sooth I am no lord , but only poor Tom Canty of Offal Court in the city . Prithee let me see the prince , and he will of his grace restore to me my rags , and let me hence unhurt . Oh , be thou merciful , and save me ! ”
+7091	7104	7088	7088	She	521	“ O my lord , on thy knees?--and to _ me _ ! ”
+7123	7142	7113	7113	Tom	90	“ There is no help , there is no hope . Now will they come and take me . ”
+7195	7208	7170	7170	menial	523	“ The prince hath gone mad , the prince hath gone mad ! ”
+7261	7301	7249	7251	a splendid official	535	“ IN THE NAME OF THE KING ! Let none list to this false and foolish matter , upon pain of death , nor discuss the same , nor carry it abroad . In the name of the King ! ”
+7327	7337	7338	7339	Poor Tom	90	“ The prince ! See , the prince comes ! ”
+7565	7603	7561	7561	he	545	“ How now , my lord Edward , my prince ? Hast been minded to cozen me , the good King thy father , who loveth thee , and kindly useth thee , with a sorry jest ? ”
+7670	7683	7668	7668	he	90	“ Thou the _ King _ ? Then am I undone indeed ! ”
+7721	7743	7744	7744	He	90	“ Alack , I had believed the rumour disproportioned to the truth ; but I fear me ’ tis not so . ”
+7757	7770	7744	7744	He	90	“ Come to thy father , child : thou art not well . ”
+7836	7867	7834	7834	he	294	“ Dost not know thy father , child ? Break not mine old heart ; say thou know’st me . Thou _ dost _ know me , dost thou not ? ”
+7868	7883	7834	7834	he	294	“ Yea : thou art my dread lord the King , whom God preserve ! ”
+7884	7947	7834	7834	he	294	“ True , true -- that is well -- be comforted , tremble not so ; there is none here would hurt thee ; there is none here but loves thee . Thou art better now ; thy ill dream passeth -- is’t not so ? Thou wilt not miscall thyself again , as they say thou didst a little while agone ? ”
+7948	8026	7834	7834	he	294	“ I pray thee of thy grace believe me , I did but speak the truth , most dread lord ; for I am the meanest among thy subjects , being a pauper born , and ’ tis by a sore mischance and accident I am here , albeit I was therein nothing blameful . I am but young to die , and thou canst save me with one little word . Oh speak it , sir ! ”
+8027	8051	7834	7834	he	294	“ Die ? Talk not so , sweet prince -- peace , peace , to thy troubled heart -- thou shalt not die ! ”
+8061	8080	8085	8085	he	90	“ God requite thy mercy , O my King , and save thee long to bless thy land ! ”
+8100	8117	8085	8085	he	90	“ Thou heard’st it ! I am not to die : the King hath said it ! ”
+8152	8158	8136	8136	He	90	“ I may go now ? ”
+8159	8180	8181	8181	Tom	90	“ Go ? Surely , if thou desirest . But why not tarry yet a little ? Whither would’st go ? ”
+8189	8259	8181	8181	Tom	90	“ Peradventure I mistook ; but I did think me free , and so was I moved to seek again the kennel where I was born and bred to misery , yet which harboureth my mother and my sisters , and so is home to me ; whereas these pomps and splendours whereunto I am not used -- oh , please you , sir , to let me go ! ”
+8290	8323	8280	8280	he	294	“ Perchance he is but mad upon this one strain , and hath his wits unmarred as toucheth other matter . God send it may be so ! We will make trial . ”
+8355	8385	8386	8387	The physician	561	“ ‘ Twas not according to his schooling and ability , but showeth that his mind is but diseased , not stricken fatally . How say you , sir ? ”
+8394	8410	8411	8412	The King	294	“ It jumpeth with my own conviction , sire , that thou hast divined aright . ”
+8433	8445	8446	8446	He	294	“ Now mark ye all : we will try him further . ”
+8474	8488	8489	8490	The King	294	“ I have no knowledge of this tongue , so please your majesty . ”
+8512	8578	8505	8505	he	294	“ Trouble me not -- it is nothing but a scurvy faintness . Raise me ! There , ‘ tis sufficient . Come hither , child ; there , rest thy poor troubled head upon thy father ’s heart , and be at peace . Thou’lt soon be well : ’ tis but a passing fantasy . Fear thou not ; thou’lt soon be well . ”
+8603	8664	8601	8601	He	294	“ List ye all ! This my son is mad ; but it is not permanent . Over - study hath done this , and somewhat too much of confinement . Away with his books and teachers ! see ye to it . Pleasure him with sports , beguile him in wholesome ways , so that his health come again . ”
+8677	8828	8665	8665	He	294	“ He is mad ; but he is my son , and England ’s heir ; and , mad or sane , still shall he reign ! And hear ye further , and proclaim it : whoso speaketh of this his distemper worketh against the peace and order of these realms , and shall to the gallows ! . . . Give me to drink -- I burn : this sorrow sappeth my strength . . . . There , take away the cup . . . . Support me . There , that is well . Mad , is he ? Were he a thousand times mad , yet is he Prince of Wales , and I the King will confirm it . This very morrow shall he be installed in his princely dignity in due and ancient form . Take instant order for it , my lord Hertford . ”
+8841	8867	8829	8832	One of the nobles	566	“ The King ’s majesty knoweth that the Hereditary Great Marshal of England lieth attainted in the Tower . It were not meet that one attainted-- ”
+8868	8956	8665	8665	He	294	“ Peace ! Insult not mine ears with his hated name . Is this man to live for ever ? Am I to be baulked of my will ? Is the prince to tarry uninstalled , because , forsooth , the realm lacketh an Earl Marshal free of treasonable taint to invest him with his honours ? No , by the splendour of God ! Warn my Parliament to bring me Norfolk ’s doom before the sun rise again , else shall they answer for it grievously ! ”
+8963	8971	8978	8978	his	107	“ The King ’s will is law ; ”
+8997	9019	8995	8995	he	107	“ Kiss me , my prince . There . . . what fearest thou ? Am I not thy loving father ? ”
+9020	9059	8995	8995	he	107	“ Thou art good to me that am unworthy , O mighty and gracious lord : that in truth I know . But -- but -- it grieveth me to think of him that is to die , and-- ”
+9060	9141	8995	8995	he	107	“ Ah , ’ tis like thee , ’ tis like thee ! I know thy heart is still the same , even though thy mind hath suffered hurt , for thou wert ever of a gentle spirit . But this duke standeth between thee and thine honours : I will have another in his stead that shall bring no taint to his great office . Comfort thee , my prince : trouble not thy poor head with this matter . ”
+9142	9167	8995	8995	he	107	“ But is it not I that speed him hence , my liege ? How long might he not live , but for me ? ”
+9168	9228	8995	8995	he	107	“ Take no thought of him , my prince : he is not worthy . Kiss me once again , and go to thy trifles and amusements ; for my malady distresseth me . I am aweary , and would rest . Go with thine uncle Hertford and thy people , and come again when my body is refreshed . ”
+9275	9283	9284	9284	His	90	“ The prince , the prince comes ! ”
+9482	9502	9474	9477	the Earl of Hertford	108	“ Prithee , insist not , my lord ; it is not meet that they sit in thy presence . ”
+9519	9557	9517	9517	he	109	“ I come upon the King ’s errand , concerning a matter which requireth privacy . Will it please your royal highness to dismiss all that attend you here , save my lord the Earl of Hertford ? ”
+9602	9891	9892	9895	The Lord St. John	109	“ His majesty commandeth , that for due and weighty reasons of state , the prince ’s grace shall hide his infirmity in all ways that be within his power , till it be passed and he be as he was before . To wit , that he shall deny to none that he is the true prince , and heir to England ’s greatness ; that he shall uphold his princely dignity , and shall receive , without word or sign of protest , that reverence and observance which unto it do appertain of right and ancient usage ; that he shall cease to speak to any of that lowly birth and life his malady hath conjured out of the unwholesome imaginings of o’er - wrought fancy ; that he shall strive with diligence to bring unto his memory again those faces which he was wo nt to know -- and where he faileth he shall hold his peace , neither betraying by semblance of surprise or other sign that he hath forgot ; that upon occasions of state , whensoever any matter shall perplex him as to the thing he should do or the utterance he should make , he shall show nought of unrest to the curious that look on , but take advice in that matter of the Lord Hertford , or my humble self , which are commanded of the King to be upon this service and close at call , till this commandment be dissolved . Thus saith the King ’s majesty , who sendeth greeting to your royal highness , and prayeth that God will of His mercy quickly heal you and have you now and ever in His holy keeping . ”
+9905	9943	9944	9945	Lord Hertford	107	“ The King hath said it . None may palter with the King ’s command , or fit it to his ease , where it doth chafe , with deft evasions . The King shall be obeyed . ”
+9947	9989	9990	9990	Tom	90	“ Touching the King ’s majesty ’s ordainment concerning books and such like serious matters , it may peradventure please your highness to ease your time with lightsome entertainment , lest you go wearied to the banquet and suffer harm thereby . ”
+10017	10088	10014	10015	His lordship	580	“ Thy memory still wrongeth thee , and thou hast shown surprise -- but suffer it not to trouble thee , for ’ tis a matter that will not bide , but depart with thy mending malady . My Lord of Hertford speaketh of the city ’s banquet which the King ’s majesty did promise , some two months flown , your highness should attend . Thou recallest it now ? ”
+10089	10101	10103	10103	Tom	90	“ It grieves me to confess it had indeed escaped me , ”
+10156	10193	10150	10150	he	90	“ I pray ye , ladies , seem not to observe his humours , nor show surprise when his memory doth lapse -- it will grieve you to note how it doth stick at every trifle . ”
+10204	10276	10277	10277	Tom	90	“ Please you , sir , keep diligently in mind his majesty ’s desire . Remember all thou canst--_seem _ to remember all else . Let them not perceive that thou art much changed from thy wo nt , for thou knowest how tenderly thy old play - fellows bear thee in their hearts and how ’ twould grieve them . Art willing , sir , that I remain?--and thine uncle ? ”
+10406	10423	10424	10424	Tom	90	“ Hast paid thy duty to the Queen ’s majesty to - day , my lord ? ”
+10469	10498	10499	10499	Tom	90	“ He hath indeed , madam , and she did greatly hearten him , as touching his majesty ’s condition ; is it not so , your highness ? ”
+10537	10593	10533	10535	her little ladyship	591	“ ‘ Tis a pity , ’ tis a pity ! Thou wert proceeding bravely . But bide thy time in patience : it will not be for long . Thou’lt yet be graced with learning like thy father , and make thy tongue master of as many languages as his , good my prince . ”
+10594	10598	10600	10600	Tom	90	“ My father ! ”
+10609	10642	10643	10643	He	90	“ I trow he can not speak his own so that any but the swine that kennel in the styes may tell his meaning ; and as for learning of any sort soever-- ”
+10670	10693	10659	10659	He	90	“ Ah , my malady persecuteth me again , and my mind wandereth . I meant the King ’s grace no irreverence . ”
+10694	10701	10703	10704	the Princess	593	“ We know it , sir , ”
+10723	10743	10703	10704	the Princess	593	“ trouble not thyself as to that . The fault is none of thine , but thy distemper ’s . ”
+10744	10753	10755	10755	Tom	90	“ Thou’rt a gentle comforter , sweet lady , ”
+10759	10778	10755	10755	Tom	90	“ and my heart moveth me to thank thee for’t , an ’ I may be so bold . ”
+11174	11188	11189	11189	Tom	90	“ Have we leave of the prince ’s grace my brother to go ? ”
+11191	11247	11189	11189	Tom	90	“ Indeed your ladyships can have whatsoever of me they will , for the asking ; yet would I rather give them any other thing that in my poor power lieth , than leave to take the light and blessing of their presence hence . Give ye good den , and God be with ye ! ”
+11256	11287	11249	11249	he	90	“ ‘ Tis not for nought I have dwelt but among princes in my reading , and taught my tongue some slight trick of their broidered and gracious speech withal ! ”
+11303	11322	11295	11295	Tom	90	“ May it please your lordships to grant me leave to go into some corner and rest me ? ”
+11326	11365	11366	11366	He	90	“ So please your highness , it is for you to command , it is for us to obey . That thou should’st rest is indeed a needful thing , since thou must journey to the city presently . ”
+11514	11531	11501	11501	he	614	“ Beshrew me , but I marvel they do not require to breathe for me also ! ”
+11636	11644	11632	11634	Lord St. John	109	“ Plainly , what dost thou think ? ”
+11645	11684	11632	11634	Lord St. John	109	“ Plainly , then , this . The King is near his end ; my nephew is mad -- mad will mount the throne , and mad remain . God protect England , since she will need it ! ”
+11685	11711	11712	11713	The speaker	622	“ Verily it promiseth so , indeed . But . . . have you no misgivings as to . . . as to . . . ”
+11749	11766	11730	11731	Lord Hertford	107	“ Speak on -- there is none to hear but me . Misgivings as to what ? ”
+11767	11927	11730	11731	Lord Hertford	107	“ I am full loth to word the thing that is in my mind , and thou so near to him in blood , my lord . But craving pardon if I do offend , seemeth it not strange that madness could so change his port and manner?--not but that his port and speech are princely still , but that they _ differ _ , in one unweighty trifle or another , from what his custom was aforetime . Seemeth it not strange that madness should filch from his memory his father ’s very lineaments ; the customs and observances that are his due from such as be about him ; and , leaving him his Latin , strip him of his Greek and French ? My lord , be not offended , but ease my mind of its disquiet and receive my grateful thanks . It haunteth me , his saying he was not the prince , and so-- ”
+11928	11957	11958	11959	St. John	109	“ Peace , my lord , thou utterest treason ! Hast forgot the King ’s command ? Remember I am party to thy crime if I but listen . ”
+11966	12015	11958	11959	St. John	109	“ I was in fault , I do confess it . Betray me not , grant me this grace out of thy courtesy , and I will neither think nor speak of this thing more . Deal not hardly with me , sir , else am I ruined . ”
+12016	12222	11958	11959	St. John	109	“ I am content , my lord . So thou offend not again , here or in the ears of others , it shall be as though thou hadst not spoken . But thou need’st not have misgivings . He is my sister ’s son ; are not his voice , his face , his form , familiar to me from his cradle ? Madness can do all the odd conflicting things thou seest in him , and more . Dost not recall how that the old Baron Marley , being mad , forgot the favour of his own countenance that he had known for sixty years , and held it was another ’s ; nay , even claimed he was the son of Mary Magdalene , and that his head was made of Spanish glass ; and , sooth to say , he suffered none to touch it , lest by mischance some heedless hand might shiver it ? Give thy misgivings easement , good my lord . This is the very prince -- I know him well -- and soon will be thy king ; it may advantage thee to bear this in mind , and more dwell upon it than the other . ”
+12316	12385	12387	12387	he	107	“ Tush , he _ must _ be the prince ! Will any be in all the land maintain there can be two , not of one blood and birth , so marvellously twinned ? And even were it so , ’ twere yet a stranger miracle that chance should cast the one into the other ’s place . Nay , ’ tis folly , folly , folly ! ”
+12389	12471	12387	12387	he	107	“ Now were he impostor and called himself prince , look you _ that _ would be natural ; that would be reasonable . But lived ever an impostor yet , who , being called prince by the king , prince by the court , prince by all , _ denied _ his dignity and pleaded against his exaltation ? _ No _ ! By the soul of St. Swithin , no ! This is the true prince , gone mad ! ”
+12987	13002	12961	12961	He	90	“ Prithee , take it away , lest in mine unheedfulness it be soiled . ”
+13245	13283	13240	13240	Tom	90	“ I crave your indulgence : my nose itcheth cruelly . What is the custom and usage in this emergence ? Prithee , speed , for ’ tis but a little time that I can bear it . ”
+13519	13541	13509	13509	he	90	“ Nay , it likes me not , my lord : it hath a pretty flavour , but it wanteth strength . ”
+13901	13928	13899	13899	himself	105	“ Troublous dreams , troublous dreams ! Mine end is now at hand : so say these warnings , and my failing pulses do confirm it . ”
+13943	13956	13940	13940	he	105	“ Yet will not I die till _ He _ go before . ”
+13981	13988	13990	13991	the King	294	“ Admit him , admit him ! ”
+14008	14066	13994	13996	The Lord Chancellor	682	“ I have given order , and , according to the King ’s command , the peers of the realm , in their robes , do now stand at the bar of the House , where , having confirmed the Duke of Norfolk ’s doom , they humbly wait his majesty ’s further pleasure in the matter . ”
+14080	14110	14111	14111	His	294	“ Lift me up ! In mine own person will I go before my Parliament , and with mine own hand will I seal the warrant that rids me of-- ”
+14146	14244	14143	14143	he	294	“ Alack , how have I longed for this sweet hour ! and lo , too late it cometh , and I am robbed of this so coveted chance . But speed ye , speed ye ! let others do this happy office sith ’ tis denied to me . I put my Great Seal in commission : choose thou the lords that shall compose it , and get ye to your work . Speed ye , man ! Before the sun shall rise and set again , bring me his head that I may see it . ”
+14245	14282	14143	14143	he	294	“ According to the King ’s command , so shall it be . Will’t please your majesty to order that the Seal be now restored to me , so that I may forth upon the business ? ”
+14283	14294	14143	14143	he	294	“ The Seal ? Who keepeth the Seal but thou ? ”
+14295	14334	14143	14143	he	294	“ Please your majesty , you did take it from me two days since , saying it should no more do its office till your own royal hand should use it upon the Duke of Norfolk ’s warrant . ”
+14335	14387	14388	14389	The King	294	“ Why , so in sooth I did : I do remember . . . . What did I with it ? ... I am very feeble . . . . So oft these days doth my memory play the traitor with me . . . . ’ tis strange , strange-- ”
+14429	14471	14480	14481	the King	294	“ Sire , if that I may be so bold , here be several that do remember with me how that you gave the Great Seal into the hands of his highness the Prince of Wales to keep against the day that-- ”
+14472	14478	14480	14481	the King	294	“ True , most true ! ”
+14483	14492	14493	14494	Lord Hertford	107	“ Fetch it ! Go : time flieth ! ”
+14520	14605	14609	14610	the King	294	“ It grieveth me , my lord the King , to bear so heavy and unwelcome tidings ; but it is the will of God that the prince ’s affliction abideth still , and he can not recall to mind that he received the Seal . So came I quickly to report , thinking it were waste of precious time , and little worth withal , that any should attempt to search the long array of chambers and saloons that belong unto his royal high-- ”
+14633	14685	14622	14623	his majesty	3254	“ Trouble him no more , poor child . The hand of God lieth heavy upon him , and my heart goeth out in loving compassion for him , and sorrow that I may not bear his burden on mine old trouble - weighted shoulders , and so bring him peace . ”
+14729	14769	14770	14772	The trembling Chancellor	696	“ What , thou here yet ! By the glory of God , an ’ thou gettest not about that traitor ’s business , thy mitre shall have holiday the morrow for lack of a head to grace withal ! ”
+14774	14791	14770	14772	The trembling Chancellor	696	“ Good your Majesty , I cry you mercy ! I but waited for the Seal . ”
+14792	14855	14856	14858	The poor Chancellor	697	“ Man , hast lost thy wits ? The small Seal which aforetime I was wo nt to take with me abroad lieth in my treasury . And , since the Great Seal hath flown away , shall not it suffice ? Hast lost thy wits ? Begone ! And hark ye -- come no more till thou do bring his head . ”
+15785	15800	15747	15747	He	761	“ Way for the high and mighty the Lord Edward , Prince of Wales ! ”
+16130	16142	16143	16143	His	93	“ Thou’lt meddle , wilt thou ? Then have thy reward . ”
+16304	16356	16298	16299	John Canty	93	“ Tarry ! There ’s fine mummeries here . Mar them not till thou’st enjoyed them : then let thy hand be heavy as thou wilt . Stand forth , lad . Now say thy foolery again , an thou’st not forgot it . Name thy name . Who art thou ? ”
+16385	16425	16371	16371	he	236	“ ‘ Tis but ill - breeding in such as thou to command me to speak . I tell thee now , as I told thee before , I am Edward , Prince of Wales , and none other . ”
+16516	16525	16504	16504	They	797	“ Oh , poor Tom , poor lad ! ”
+16557	16605	16555	16555	she	273	“ Oh , my poor boy ! Thy foolish reading hath wrought its woeful work at last , and ta’en thy wit away . Ah ! why did’st thou cleave to it when I so warned thee ‘ gainst it ? Thou’st broke thy mother ’s heart . ”
+16616	16656	16606	16607	The Prince	236	“ Thy son is well , and hath not lost his wits , good dame . Comfort thee : let me to the palace where he is , and straightway will the King my father restore him to thee . ”
+16657	16719	16720	16721	The Prince	236	“ The King thy father ! Oh , my child ! unsay these words that be freighted with death for thee , and ruin for all that be near to thee . Shake of this gruesome dream . Call back thy poor wandering memory . Look upon me . Am not I thy mother that bore thee , and loveth thee ? ”
+16728	16750	16720	16721	The Prince	236	“ God knoweth I am loth to grieve thy heart ; but truly have I never looked upon thy face before . ”
+16782	16789	16791	16791	Canty	90	“ Let the show go on ! ”
+16793	16825	16791	16791	Canty	90	“ What , Nan!--what , Bet ! mannerless wenches ! will ye stand in the Prince ’s presence ? Upon your knees , ye pauper scum , and do him reverence ! ”
+16848	16872	16846	16846	Nan	92	“ An thou wilt but let him to bed , father , rest and sleep will heal his madness : prithee , do . ”
+16873	16878	16880	16880	Bet	110	“ Do , father , ”
+16882	16915	16880	16880	Bet	110	“ he is more worn than is his wo nt . To - morrow will he be himself again , and will beg with diligence , and come not empty home again . ”
+16940	16988	16989	16990	The Prince	236	“ The morrow must we pay two pennies to him that owns this hole ; two pennies , mark ye -- all this money for a half - year ’s rent , else out of this we go . Show what thou’st gathered with thy lazy begging . ”
+16992	17012	16989	16990	The Prince	236	“ Offend me not with thy sordid matters . I tell thee again I am the King ’s son . ”
+17087	17107	17078	17079	The Prince	236	“ Thou shalt not suffer for me , madam . Let these swine do their will upon me alone . ”
+17154	17157	17159	17159	Canty	125	“ Now , ”
+17161	17175	17159	17159	Canty	125	“ to bed , all of ye . The entertainment has tired me . ”
+17769	17883	17767	17767	herself	280	“ Had I but seen him _ then _ , I should have known ! Since that day , when he was little , that the powder burst in his face , he hath never been startled of a sudden out of his dreams or out of his thinkings , but he hath cast his hand before his eyes , even as he did that day ; and not as others would do it , with the palm inward , but always with the palm turned outward -- I have seen it a hundred times , and it hath never varied nor ever failed . Yes , I shall soon know , now ! ”
+18038	18041	18042	18042	she	280	“ No , ”
+18045	18078	18042	18042	she	280	“ his _ hands _ are not mad ; they could not unlearn so old a habit in so brief a time . Oh , this is a heavy day for me ! ”
+18165	18192	18152	18152	she	280	“ But I can not give him up -- oh no , I can not , I cannot -- he _ must _ be my boy ! ”
+18268	18272	18266	18266	he	236	“ Sir William ! ”
+18276	18346	18266	18266	he	236	“ Ho , Sir William Herbert ! Hie thee hither , and list to the strangest dream that ever . . . Sir William ! dost hear ? Man , I did think me changed to a pauper , and . . . Ho there ! Guards ! Sir William ! What ! is there no groom of the chamber in waiting ? Alack ! it shall go hard with-- ”
+18347	18352	18266	18266	he	236	“ What aileth thee ? ”
+18359	18365	18266	18266	he	236	“ Who art thou calling ? ”
+18366	18375	18266	18266	he	236	“ Sir William Herbert . Who art thou ? ”
+18376	18433	18266	18266	he	236	“ I ? Who should I be , but thy sister Nan ? Oh , Tom , I had forgot ! Thou’rt mad yet -- poor lad , thou’rt mad yet : would I had never woke to know it again ! But prithee master thy tongue , lest we be all beaten till we die ! ”
+18468	18478	18455	18455	he	236	“ Alas ! it was no dream , then ! ”
+18593	18601	18586	18587	John Canty	93	“ Who knocketh ? What wilt thou ? ”
+18605	18617	18586	18587	John Canty	93	“ Know’st thou who it was thou laid thy cudgel on ? ”
+18618	18628	18586	18587	John Canty	93	“ No . Neither know I , nor care . ”
+18629	18669	18586	18587	John Canty	93	“ Belike thou’lt change thy note eftsoons . An thou would save thy neck , nothing but flight may stead thee . The man is this moment delivering up the ghost . ’ Tis the priest , Father Andrew ! ”
+18670	18677	18679	18679	Canty	93	“ God - a - mercy ! ”
+18690	18706	18681	18681	He	93	“ Up with ye all and fly -- or bide where ye are and perish ! ”
+18749	18792	18793	18793	He	93	“ Mind thy tongue , thou mad fool , and speak not our name . I will choose me a new name , speedily , to throw the law ’s dogs off the scent . Mind thy tongue , I tell thee ! ”
+18803	18855	18793	18793	He	93	“ If it so chance that we be separated , let each make for London Bridge ; whoso findeth himself as far as the last linen - draper ’s shop on the bridge , let him tarry there till the others be come , then will we flee into Southwark together . ”
+19097	19124	19086	19086	he	871	“ Nay , whither so fast , friend ? Dost canker thy soul with sordid business when all that be leal men and true make holiday ? ”
+19125	19137	19139	19139	Canty	93	“ Mine affairs are mine own , they concern thee not , ”
+19143	19153	19139	19139	Canty	93	“ take away thy hand and let me pass . ”
+19154	19181	19183	19184	the waterman	873	“ Sith that is thy humour , thou’lt _ not _ pass , till thou’st drunk to the Prince of Wales , I tell thee that , ”
+19191	19206	19183	19184	the waterman	873	“ Give me the cup , then , and make speed , make speed ! ”
+19218	19248	19215	19215	They	874	“ The loving - cup , the loving - cup ! make the sour knave drink the loving - cup , else will we feed him to the fishes . ”
+20503	20561	20501	20501	he	941	“ I tell ye again , you pack of unmannerly curs , I am the Prince of Wales ! And all forlorn and friendless as I be , with none to give me word of grace or help me in my need , yet will not I be driven from my ground , but will maintain it ! ”
+20562	20644	20645	20646	The speaker	622	“ Though thou be prince or no prince , ’ tis all one , thou be’st a gallant lad , and not friendless neither ! Here stand I by thy side to prove it ; and mind I tell thee thou might’st have a worser friend than Miles Hendon and yet not tire thy legs with seeking . Rest thy small jaw , my child ; I talk the language of these base kennel - rats like to a very native . ”
+20767	20775	20764	20764	Some	372	“ ‘ Tis another prince in disguise ! ”
+20776	20789	20764	20764	Some	372	“ ‘ Ware thy tongue , friend : belike he is dangerous ! ”
+20790	20801	20764	20764	Some	372	“ Marry , he looketh it -- mark his eye ! ”
+20802	20819	20764	20764	Some	372	“ Pluck the lad from him -- to the horse - pond wi ’ the cub ! ”
+20872	20883	20885	20886	the mob	458	“ Kill the dog ! Kill him ! Kill him ! ”
+20962	20970	20975	20975	horsemen	956	“ Way for the King ’s messenger ! ”
+21095	21101	21102	21104	The great assemblage	967	“ The King is dead ! ”
+21155	21161	21162	21163	Poor Tom	90	“ Long live the King ! ”
+21216	21262	21203	21203	He	90	“ Answer me truly , on thy faith and honour ! Uttered I here a command , the which none but a king might hold privilege and prerogative to utter , would such commandment be obeyed , and none rise up to say me nay ? ”
+21263	21293	21294	21294	Tom	90	“ None , my liege , in all these realms . In thy person bides the majesty of England . Thou art the king -- thy word is law . ”
+21308	21356	21294	21294	Tom	90	“ Then shall the king ’s law be law of mercy , from this day , and never more be law of blood ! Up from thy knees and away ! To the Tower , and say the King decrees the Duke of Norfolk shall not die ! ”
+21389	21405	21294	21294	Tom	90	“ The reign of blood is ended ! Long live Edward , King of England ! ”
+21493	21498	21456	21457	the multitude	960	once--“The King is dead ! ”
+21599	21607	21582	21582	God	87	“ Long live King Edward the Sixth ! ”
+21626	21629	21630	21630	he	983	“ Ah , ”
+21633	21644	21630	21630	he	983	“ how grand and strange it seems--_I am King _ ! ”
+22295	22333	22334	22335	John Canty	93	“ So , thou’rt come at last ! Thou’lt not escape again , I warrant thee ; and if pounding thy bones to a pudding can teach thee somewhat , thou’lt not keep us waiting another time , mayhap,”--and
+22353	22374	22345	22346	Miles Hendon	128	“ Not too fast , friend . Thou art needlessly rough , methinks . What is the lad to thee ? ”
+22375	22397	22406	22408	the little King	1042	“ If it be any business of thine to make and meddle in others ’ affairs , he is my son . ”
+22398	22404	22406	22408	the little King	1042	“ ‘ Tis a lie ! ”
+22412	22473	22406	22408	the little King	1042	“ Boldly said , and I believe thee , whether thy small headpiece be sound or cracked , my boy . But whether this scurvy ruffian be thy father or no , ’ tis all one , he shall not have thee to beat thee and abuse , according to his threat , so thou prefer to bide with me . ”
+22474	22500	22406	22408	the little King	1042	“ I do , I do -- I know him not , I loathe him , and will die before I will go with him . ”
+22501	22515	22406	22408	the little King	1042	“ Then ’ tis settled , and there is nought more to say . ”
+22516	22525	22527	22528	John Canty	93	“ We will see , as to that ! ”
+22539	22544	22406	22408	the little King	1042	“ by force shall he-- ”
+22545	22565	22567	22567	Hendon	128	“ If thou do but touch him , thou animated offal , I will spit thee like a goose ! ”
+22585	22590	22592	22592	Hendon	128	“ Now mark ye , ”
+22594	22697	22592	22592	Hendon	128	“ I took this lad under my protection when a mob of such as thou would have mishandled him , mayhap killed him ; dost imagine I will desert him now to a worser fate?--for whether thou art his father or no -- and sooth to say , I think it is a lie -- a decent swift death were better for such a lad than life in such brute hands as thine . So go thy ways , and set quick about it , for I like not much bandying of words , being not over - patient in my nature . ”
+22831	22841	22828	22828	He	1042	“ Prithee call me when the table is spread , ”
+22863	23080	23081	23081	He	1050	“ By the mass , the little beggar takes to one ’s quarters and usurps one ’s bed with as natural and easy a grace as if he owned them -- with never a by - your - leave or so - please - it - you , or anything of the sort . In his diseased ravings he called himself the Prince of Wales , and bravely doth he keep up the character . Poor little friendless rat , doubtless his mind has been disordered with ill - usage . Well , I will be his friend ; I have saved him , and it draweth me strongly to him ; already I love the bold - tongued little rascal . How soldier - like he faced the smutty rabble and flung back his high defiance ! And what a comely , sweet and gentle face he hath , now that sleep hath conjured away its troubles and its griefs . I will teach him ; I will cure his malady ; yea , I will be his elder brother , and care for him and watch over him ; and whoso would shame him or do him hurt may order his shroud , for though I be burnt for it he shall need it ! ”
+23124	23176	23177	23177	He	128	“ See , now , how like a man it was to let him lie here uncovered and fill his body with deadly rheums . Now what shall I do ? ’ twill wake him to take him up and put him within the bed , and he sorely needeth sleep . ”
+23200	23218	23189	23189	his	128	“ I am used to nipping air and scant apparel , ’ tis little I shall mind the cold!”--then
+23237	23398	23399	23400	A servant	1055	“ His injured mind persuades him he is Prince of Wales ; ’ twill be odd to have a Prince of Wales still with us , now that he that _ was _ the prince is prince no more , but king -- for this poor mind is set upon the one fantasy , and will not reason out that now it should cast by the prince and call itself the king . . . If my father liveth still , after these seven years that I have heard nought from home in my foreign dungeon , he will welcome the poor lad and give him generous shelter for my sake ; so will my good elder brother , Arthur ; my other brother , Hugh -- but I will crack his crown an _ he _ interfere , the fox - hearted , ill - conditioned animal ! Yes , thither will we fare -- and straightway , too . ”
+23482	23495	23472	23472	he	1057	“ Alack , it was but a dream , woe is me ! ”
+23524	23554	23556	23556	he	1057	“ Thou art good to me , yes , thou art very good to me . Take it and put it on -- I shall not need it more . ”
+23579	23617	23573	23573	Hendon	128	“ We ’ll have a right hearty sup and bite , now , for everything is savoury and smoking hot , and that and thy nap together will make thee a little man again , never fear ! ”
+23658	23663	23652	23652	Hendon	128	“ What ’s amiss ? ”
+23664	23673	23652	23652	Hendon	128	“ Good sir , I would wash me . ”
+23674	23708	23652	23652	Hendon	128	“ Oh , is that all ? Ask no permission of Miles Hendon for aught thou cravest . Make thyself perfectly free here , and welcome , with all that are his belongings . ”
+23740	23748	23720	23720	he	520	“ Bless us , what is it ? ”
+23749	23762	23763	23763	Hendon	128	“ Prithee pour the water , and make not so many words ! ”
+23776	23787	23774	23774	himself	128	“ By all the saints , but this is admirable ! ”
+23813	23819	23825	23825	He	128	“ Come -- the towel ! ”
+23906	23918	23901	23902	the boy	520	“ Forbear ! Wouldst sit in the presence of the King ? ”
+23932	23999	23927	23927	He	128	“ Lo , the poor thing ’s madness is up with the time ! It hath changed with the great change that is come to the realm , and now in fancy is he _ king _ ! Good lack , I must humour the conceit , too -- there is no other way -- faith , he would order me to the Tower , else ! ”
+24063	24077	24062	24062	He	294	said--“I think thou callest thyself Miles Hendon , if I heard thee aright ? ”
+24078	24083	24084	24084	Miles	128	“ Yes , Sire , ”
+24092	24155	24090	24090	himself	128	“ If I _ must _ humour the poor lad ’s madness , I must ‘ Sire ’ him , I must ‘ Majesty ’ him , I must not go by halves , I must stick at nothing that belongeth to the part I play , else shall I play it ill and work evil to this charitable and kindly cause . ”
+24169	24195	24156	24157	The King	294	said--“I would know thee -- tell me thy story . Thou hast a gallant way with thee , and a noble -- art nobly born ? ”
+24196	24239	24062	24062	He	294	“ We are of the tail of the nobility , good your Majesty . My father is a baronet -- one of the smaller lords by knight service { 2}--Sir Richard Hendon of Hendon Hall , by Monk ’s Holm in Kent . ”
+24240	24256	24062	24062	He	294	“ The name has escaped my memory . Go on -- tell me thy story . ”
+24257	24695	24062	24062	He	294	“ ‘ Tis not much , your Majesty , yet perchance it may beguile a short half - hour for want of a better . My father , Sir Richard , is very rich , and of a most generous nature . My mother died whilst I was yet a boy . I have two brothers : Arthur , my elder , with a soul like to his father ’s ; and Hugh , younger than I , a mean spirit , covetous , treacherous , vicious , underhanded -- a reptile . Such was he from the cradle ; such was he ten years past , when I last saw him -- a ripe rascal at nineteen , I being twenty then , and Arthur twenty - two . There is none other of us but the Lady Edith , my cousin -- she was sixteen then -- beautiful , gentle , good , the daughter of an earl , the last of her race , heiress of a great fortune and a lapsed title . My father was her guardian . I loved her and she loved me ; but she was betrothed to Arthur from the cradle , and Sir Richard would not suffer the contract to be broken . Arthur loved another maid , and bade us be of good cheer and hold fast to the hope that delay and luck together would some day give success to our several causes . Hugh loved the Lady Edith ’s fortune , though in truth he said it was herself he loved -- but then ’ twas his way , alway , to say the one thing and mean the other . But he lost his arts upon the girl ; he could deceive my father , but none else . My father loved him best of us all , and trusted and believed him ; for he was the youngest child , and others hated him -- these qualities being in all ages sufficient to win a parent ’s dearest love ; and he had a smooth persuasive tongue , with an admirable gift of lying -- and these be qualities which do mightily assist a blind affection to cozen itself . I was wild -- in troth I might go yet farther and say _ very _ wild , though ‘ twas a wildness of an innocent sort , since it hurt none but me , brought shame to none , nor loss , nor had in it any taint of crime or baseness , or what might not beseem mine honourable degree . “
+24829	24977	24794	24794	my	0	“ Three years of banishment from home and England might make a soldier and a man of me , my father said , and teach me some degree of wisdom . I fought out my long probation in the continental wars , tasting sumptuously of hard knocks , privation , and adventure ; but in my last battle I was taken captive , and during the seven years that have waxed and waned since then , a foreign dungeon hath harboured me . Through wit and courage I won to the free air at last , and fled hither straight ; and am but just arrived , right poor in purse and raiment , and poorer still in knowledge of what these dull seven years have wrought at Hendon Hall , its people and belongings . So please you , sir , my meagre tale is told . ”
+24978	24985	24987	24989	the little King	1042	“ Thou hast been shamefully abused ! ”
+24996	25015	24987	24989	the little King	1042	“ But I will right thee -- by the cross will I ! The King hath said it . ”
+25057	25214	25215	25216	The King	294	“ Lo , what an imagination he hath ! Verily , this is no common mind ; else , crazed or sane , it could not weave so straight and gaudy a tale as this out of the airy nothings wherewith it hath wrought this curious romaunt . Poor ruined little head , it shall not lack friend or shelter whilst I bide with the living . He shall never leave my side ; he shall be my pet , my little comrade . And he shall be cured!--ay , made whole and sound -- then will he make himself a name -- and proud shall I be to say , ‘ Yes , he is mine -- I took him , a homeless little ragamuffin , but I saw what was in him , and I said his name would be heard some day -- behold him , observe him -- was I right ? ’ ”
+25225	25269	25215	25216	The King	294	“ Thou didst save me injury and shame , perchance my life , and so my crown . Such service demandeth rich reward . Name thy desire , and so it be within the compass of my royal power , it is thine . ”
+25367	25434	25365	25365	himself	128	“ Yes , that is the thing to do -- by any other means it were impossible to get at it -- and certes , this hour ’s experience has taught me ’ twould be most wearing and inconvenient to continue it as it is . Yes , I will propose it ; ’ twas a happy accident that I did not throw the chance away . ”
+25443	25901	25436	25436	he	128	“ My poor service went not beyond the limit of a subject ’s simple duty , and therefore hath no merit ; but since your Majesty is pleased to hold it worthy some reward , I take heart of grace to make petition to this effect . Near four hundred years ago , as your grace knoweth , there being ill blood betwixt John , King of England , and the King of France , it was decreed that two champions should fight together in the lists , and so settle the dispute by what is called the arbitrament of God . These two kings , and the Spanish king , being assembled to witness and judge the conflict , the French champion appeared ; but so redoubtable was he , that our English knights refused to measure weapons with him . So the matter , which was a weighty one , was like to go against the English monarch by default . Now in the Tower lay the Lord de Courcy , the mightiest arm in England , stripped of his honours and possessions , and wasting with long captivity . Appeal was made to him ; he gave assent , and came forth arrayed for battle ; but no sooner did the Frenchman glimpse his huge frame and hear his famous name but he fled away , and the French king ’s cause was lost . King John restored De Courcy ’s titles and possessions , and said , ‘ Name thy wish and thou shalt have it , though it cost me half my kingdom ; ’ whereat De Courcy , kneeling , as I do now , made answer , ‘ This , then , I ask , my liege ; that I and my successors may have and hold the privilege of remaining covered in the presence of the kings of England , henceforth while the throne shall last . ’ The boon was granted , as your Majesty knoweth ; and there hath been no time , these four hundred years , that that line has failed of an heir ; and so , even unto this day , the head of that ancient house still weareth his hat or helm before the King ’s Majesty , without let or hindrance , and this none other may do . { 3 } Invoking this precedent in aid of my prayer , I beseech the King to grant to me but this one grace and privilege -- to my more than sufficient reward -- and none other , to wit : that I and my heirs , for ever , may _ sit _ in the presence of the Majesty of England ! ”
+25902	25911	25913	25914	the King	294	“ Rise , Sir Miles Hendon , Knight , ”
+25924	25950	25951	25951	His	294	sword--“rise , and seat thyself . Thy petition is granted . Whilst England remains , and the crown continues , the privilege shall not lapse . ”
+25971	26018	25959	25959	Hendon	128	“ ‘ Twas a brave thought , and hath wrought me a mighty deliverance ; my legs are grievously wearied . An I had not thought of that , I must have had to stand for weeks , till my poor lad ’s wits are cured . ”
+26027	26119	26023	26023	he	128	“ And so I am become a knight of the Kingdom of Dreams and Shadows ! A most odd and strange position , truly , for one so matter - of - fact as I. I will not laugh -- no , God forbid , for this thing which is so substanceless to me is _ real _ to him . And to me , also , in one way , it is not a falsity , for it reflects with truth the sweet and generous spirit that is in him . ”
+26124	26172	26023	26023	he	128	“ Ah , what if he should call me by my fine title before folk!--there’d be a merry contrast betwixt my glory and my raiment ! But no matter , let him call me what he will , so it please him ; I shall be content . ”
+26195	26200	26192	26193	The King	294	“ Remove these rags . ”--meaning
+26231	26251	26227	26227	himself	128	“ He hath taken my bed again , as before -- marry , what shall _ I _ do ? ”
+26270	26282	26266	26266	He	1042	“ Thou wilt sleep athwart the door , and guard it . ”
+26299	26311	26313	26313	Hendon	128	“ Dear heart , he should have been born a king ! ”
+26317	26326	26313	26313	Hendon	128	“ he playeth the part to a marvel . ”
+26341	26365	26328	26328	he	1042	“ I have lodged worse for seven years ; ’ twould be but ill gratitude to Him above to find fault with this . ”
+26422	26432	26434	26434	Hendon	128	“ ‘ Tis done , now , my liege , ”
+26436	26473	26434	26434	Hendon	128	“ I have a bit of business outside , but will presently return ; sleep thou again -- thou needest it . There -- let me cover thy head also -- thou’lt be warm the sooner . ”
+26555	26585	26541	26541	He	1042	“ A longer purse would have got a better sort , but when one has not the long purse one must be content with what a short one may do-- “
+26601	26769	26772	26772	he	1042	“ He stirred , methinks -- I must sing in a less thunderous key ; ’ tis not good to mar his sleep , with this journey before him , and he so wearied out , poor chap . . . This garment--‘tis well enough -- a stitch here and another one there will set it aright . This other is better , albeit a stitch or two will not come amiss in it , likewise . . . _ These _ be very good and sound , and will keep his small feet warm and dry -- an odd new thing to him , belike , since he has doubtless been used to foot it bare , winters and summers the same . . . Would thread were bread , seeing one getteth a year ’s sufficiency for a farthing , and such a brave big needle without cost , for mere love . Now shall I have the demon ’s own time to thread it ! ”
+26894	26942	26891	26891	his	1042	“ The inn is paid -- the breakfast that is to come , included -- and there is wherewithal left to buy a couple of donkeys and meet our little costs for the two or three days betwixt this and the plenty that awaits us at Hendon Hall-- “
+26949	27010	26891	26891	his	1042	“ Body o ’ me ! I have driven the needle under my nail ! . . . It matters little--‘tis not a novelty -- yet ’ tis not a convenience , neither . . . . We shall be merry there , little one , never doubt it ! Thy troubles will vanish there , and likewise thy sad distemper-- “
+27022	27027	26891	26891	his	1042	“ These be noble large stitches!”--holding
+27034	27059	26891	26891	his	1042	admiringly--“they have a grandeur and a majesty that do cause these small stingy ones of the tailor - man to look mightily paltry and plebeian-- “
+27074	27164	27165	27165	He	309	“ Marry , ’ tis done -- a goodly piece of work , too , and wrought with expedition . Now will I wake him , apparel him , pour for him , feed him , and then will we hie us to the mart by the Tabard Inn in Southwark and -- be pleased to rise , my liege!--he answereth not -- what ho , my liege!--of a truth must I profane his sacred person with a touch , sith his slumber is deaf to speech . What ! ”
+27225	27239	27218	27219	a servant	1055	“ Explain , thou limb of Satan , or thy time is come ! ”
+27273	27279	27285	27286	the man	495	“ Where is the boy ? ”
+27292	27402	27285	27286	the man	495	“ You were hardly gone from the place , your worship , when a youth came running and said it was your worship ’s will that the boy come to you straight , at the bridge - end on the Southwark side . I brought him hither ; and when he woke the lad and gave his message , the lad did grumble some little for being disturbed ‘ so early , ’ as he called it , but straightway trussed on his rags and went with the youth , only saying it had been better manners that your worship came yourself , not sent a stranger -- and so-- ”
+27403	27466	27560	27561	the servant	1114	“ And so thou’rt a fool!--a fool and easily cozened -- hang all thy breed ! Yet mayhap no hurt is done . Possibly no harm is meant the boy . I will go fetch him . Make the table ready . Stay ! the coverings of the bed were disposed as if one lay beneath them -- happened that by accident ? ”
+27467	27491	27560	27561	the servant	1114	“ I know not , good your worship . I saw the youth meddle with them -- he that came for the boy . ”
+27492	27518	27285	27286	the man	495	“ Thousand deaths ! ‘ Twas done to deceive me--‘tis plain ’ twas done to gain time . Hark ye ! Was that youth alone ? ”
+27519	27526	27560	27561	the servant	1114	“ All alone , your worship . ”
+27527	27531	27560	27561	the servant	1114	“ Art sure ? ”
+27532	27538	27285	27286	the man	495	“ Sure , your worship . ”
+27539	27553	27560	27561	the servant	1114	“ Collect thy scattered wits -- bethink thee -- take time , man . ”
+27563	27609	27560	27561	the servant	1114	“ When he came , none came with him ; but now I remember me that as the two stepped into the throng of the Bridge , a ruffian - looking man plunged out from some near place ; and just as he was joining them-- ”
+27610	27617	27619	27621	the impatient Hendon	128	“ What _ then_?--out with it ! ”
+27625	27694	27619	27621	the impatient Hendon	128	“ Just then the crowd lapped them up and closed them in , and I saw no more , being called by my master , who was in a rage because a joint that the scrivener had ordered was forgot , though I take all the saints to witness that to blame _ me _ for that miscarriage were like holding the unborn babe to judgment for sins com-- ”
+27695	27727	27560	27561	the servant	1114	“ Out of my sight , idiot ! Thy prating drives me mad ! Hold ! Whither art flying ? Canst not bide still an instant ? Went they toward Southwark ? ”
+27728	27757	27619	27621	the impatient Hendon	128	“ Even so , your worship -- for , as I said before , as to that detestable joint , the babe unborn is no whit more blameless than-- ”
+27758	27776	27777	27778	The servitor	1115	“ Art here _ yet _ ! And prating still ! Vanish , lest I throttle thee ! ”
+27802	27903	27905	27905	he	1117	“ ‘ Tis that scurvy villain that claimed he was his son . I have lost thee , my poor little mad master -- it is a bitter thought -- and I had come to love thee so ! No ! by book and bell , _ not _ lost ! Not lost , for I will ransack the land till I find thee again . Poor child , yonder is his breakfast -- and mine , but I have no hunger now ; so , let the rats have it -- speed , speed ! that is the word ! ”
+27935	27971	27917	27917	he	1117	one--“He grumbled , but he _ went_--he went , yes , because he thought Miles Hendon asked it , sweet lad -- he would ne’er have done it for another , I know it well . ”
+28046	28136	28037	28037	he	90	“ I see it all , I see it all ! Now God be thanked , I am indeed awake at last ! Come , joy ! vanish , sorrow ! Ho , Nan ! Bet ! kick off your straw and hie ye hither to my side , till I do pour into your unbelieving ears the wildest madcap dream that ever the spirits of night did conjure up to astonish the soul of man withal ! . . . Ho , Nan , I say ! Bet ! ”
+28149	28157	28037	28037	he	90	“ Wilt deign to deliver thy commands ? ”
+28158	28182	28037	28037	he	90	“ Commands ? . . . O , woe is me , I know thy voice ! Speak thou -- who am I ? ”
+28183	28213	28214	28214	Tom	90	“ Thou ? In sooth , yesternight wert thou the Prince of Wales ; to - day art thou my most gracious liege , Edward , King of England . ”
+28224	28246	28214	28214	Tom	90	“ Alack , it was no dream ! Go to thy rest , sweet sir -- leave me to my sorrows . ”
+28308	28314	28315	28315	He	90	“ Dig by that stump . ”
+28342	28398	28339	28340	the dwarf	1122	“ I know thee . Thou art a good lad , and a deserving ; thy distresses shall end , for the day of thy reward is come . Dig here every seventh day , and thou shalt find always the same treasure , twelve bright new pennies . Tell none -- keep the secret . ”
+28418	28492	28405	28405	Tom	90	“ Every night will I give my father a penny ; he will think I begged it , it will glad his heart , and I shall no more be beaten . One penny every week the good priest that teacheth me shall have ; mother , Nan , and Bet the other four . We be done with hunger and rags , now , done with fears and frets and savage usage . ”
+28527	28553	28554	28558	The happy and astonished mother	1126	“ They are for thee!--all of them , every one!--for thee and Nan and Bet -- and honestly come by , not begged nor stolen ! ”
+28566	28579	28562	28562	her	1126	“ It waxeth late -- may it please your Majesty to rise ? ”
+29018	29024	28996	28996	he	90	“ See , my lord ! ”
+29053	29059	29060	29061	The Admiral	1159	“ See , my lord ! ”
+29082	29088	29060	29061	The Admiral	1159	“ See , my lord ! ”
+29166	29169	29154	29167	the First Lord of the Buckhounds,--accompanied always with that amazed and frightened “ See	3671	“ See ! see!”--till
+29204	29228	29230	29230	he	90	“ Body of my life , a tag gone from a truss - point!--to the Tower with the Head Keeper of the King ’s Hose!”--after
+29616	29629	29609	29609	he	90	“ What day did he say the burial hath been appointed for ? ”
+29630	29641	29609	29609	he	90	“ The sixteenth of the coming month , my liege . ”
+29642	29653	29657	29657	he	90	“ ‘ Tis a strange folly . Will he keep ? ”
+29747	29778	29743	29743	Hertford	107	“ Your Majesty will signify consent . They come to testify their royal masters ’ sense of the heavy calamity which hath visited your Grace and the realm of England . ”
+29885	29976	29878	29878	Tom	90	“ We be going to the dogs , ’ tis plain . ‘ Tis meet and necessary that we take a smaller house and set the servants at large , sith they be of no value but to make delay , and trouble one with offices that harass the spirit and shame the soul , they misbecoming any but a doll , that hath nor brains nor hands to help itself withal . I remember me of a small house that standeth over against the fish - market , by Billingsgate-- ”
+30377	30418	30375	30375	himself	146	“ In what have I offended , that the good God should take me away from the fields and the free air and the sunshine , to shut me up here and make me a king and afflict me so ? ”
+30660	30673	30658	30658	he	146	“ Rise , lad . Who art thou . What wouldst have ? ”
+30696	30715	30694	30694	He	520	“ Of a surety thou must remember me , my lord . I am thy whipping - boy . ”
+30716	30721	30694	30694	He	520	“ My _ whipping_-boy ? ”
+30722	30736	30694	30694	He	520	“ The same , your Grace . I am Humphrey -- Humphrey Marlow . ”
+30893	30911	30880	30880	he	146	“ Now I seem to remember thee somewhat -- but my wit is clogged and dim with suffering-- ”
+30912	30919	30921	30924	the whipping - boy	1252	“ Alack , my poor master ! ”
+30934	30978	30932	30932	himself	1252	“ In truth ’ tis as they said -- his mind is gone -- alas , poor soul ! But misfortune catch me , how am I forgetting ! They said one must not seem to observe that aught is wrong with him . ”
+30979	30993	30995	30995	Tom	146	“ ‘ Tis strange how my memory doth wanton with me these days , ”
+30997	31057	30995	30995	Tom	146	“ But mind it not -- I mend apace -- a little clue doth often serve to bring me back again the things and names which had escaped me . ( And not they , only , forsooth , but e’en such as I ne’er heard before -- as this lad shall see . ) Give thy business speech . ”
+31058	31104	30880	30880	he	146	“ ‘ Tis matter of small weight , my liege , yet will I touch upon it , an ’ it please your Grace . Two days gone by , when your Majesty faulted thrice in your Greek -- in the morning lessons,--dost remember it ? ”
+31105	31160	30995	30995	Tom	146	“ Y - e - s -- methinks I do . ( It is not much of a lie -- an ’ I had meddled with the Greek at all , I had not faulted simply thrice , but forty times . ) Yes , I do recall it , now -- go on . ”
+31161	31189	30995	30995	Tom	146	“ The master , being wroth with what he termed such slovenly and doltish work , did promise that he would soundly whip me for it -- and-- ”
+31190	31196	31198	31198	Tom	146	“ Whip _ thee _ ! ”
+31208	31221	31198	31198	Tom	146	“ Why should he whip _ thee _ for faults of mine ? ”
+31222	31242	30995	30995	Tom	146	“ Ah , your Grace forgetteth again . He always scourgeth me when thou dost fail in thy lessons . ”
+31243	31273	30995	30995	Tom	146	“ True , true -- I had forgot . Thou teachest me in private -- then if I fail , he argueth that thy office was lamely done , and-- ”
+31274	31300	31198	31198	Tom	146	“ Oh , my liege , what words are these ? I , the humblest of thy servants , presume to teach _ thee _ ? ”
+31301	31330	30995	30995	Tom	146	“ Then where is thy blame ? What riddle is this ? Am I in truth gone mad , or is it thou ? Explain -- speak out . ”
+31331	31387	30995	30995	Tom	146	“ But , good your Majesty , there ’s nought that needeth simplifying.--None may visit the sacred person of the Prince of Wales with blows ; wherefore , when he faulteth , ’ tis I that take them ; and meet it is and right , for that it is mine office and my livelihood . ”
+31402	31462	31391	31391	Tom	146	“ Lo , it is a wonderful thing,--a most strange and curious trade ; I marvel they have not hired a boy to take my combings and my dressings for me -- would heaven they would!--an ’ they will do this thing , I will take my lashings in mine own person , giving God thanks for the change . ”
+31467	31482	31464	31464	he	146	“ And hast thou been beaten , poor friend , according to the promise ? ”
+31483	31542	31400	31400	himself	146	“ No , good your Majesty , my punishment was appointed for this day , and peradventure it may be annulled , as unbefitting the season of mourning that is come upon us ; I know not , and so have made bold to come hither and remind your Grace about your gracious promise to intercede in my behalf-- ”
+31543	31554	31391	31391	Tom	146	“ With the master ? To save thee thy whipping ? ”
+31555	31562	31464	31464	he	146	“ Ah , thou dost remember ! ”
+31563	31589	31400	31400	himself	146	“ My memory mendeth , thou seest . Set thy mind at ease -- thy back shall go unscathed -- I will see to it . ”
+31590	31599	31601	31602	the boy	520	“ Oh , thanks , my good lord ! ”
+31610	31620	31601	31602	the boy	520	“ Mayhap I have ventured far enow ; and yet-- ”
+31636	31642	31626	31626	Tom	146	“ in the granting mood . ”
+31643	31726	31626	31626	Tom	146	“ Then will I speak it out , for it lieth near my heart . Sith thou art no more Prince of Wales but King , thou canst order matters as thou wilt , with none to say thee nay ; wherefore it is not in reason that thou wilt longer vex thyself with dreary studies , but wilt burn thy books and turn thy mind to things less irksome . Then am I ruined , and mine orphan sisters with me ! ”
+31727	31733	31819	31819	he	146	“ Ruined ? Prithee how ? ”
+31734	31777	31778	31778	Tom	146	“ My back is my bread , O my gracious liege ! if it go idle , I starve . An ’ thou cease from study mine office is gone thou’lt need no whipping - boy . Do not turn me away ! ”
+31796	31817	31819	31819	he	146	“ Discomfort thyself no further , lad . Thine office shall be permanent in thee and thy line for ever . ”
+31838	31892	31819	31819	he	146	“ Rise , Humphrey Marlow , Hereditary Grand Whipping - Boy to the Royal House of England ! Banish sorrow -- I will betake me to my books again , and study so ill that they must in justice treble thy wage , so mightily shall the business of thine office be augmented . ”
+31898	31937	31938	31938	Tom	146	“ Thanks , O most noble master , this princely lavishness doth far surpass my most distempered dreams of fortune . Now shall I be happy all my days , and all the house of Marlow after me . ”
+32408	32475	32398	32398	he	3168	“ Now am I persuaded that if your Majesty will but tax your memory yet a little further , it will resolve the puzzle of the Great Seal -- a loss which was of moment yesterday , although of none to - day , since its term of service ended with our late lord ’s life . May it please your Grace to make the trial ? ”
+32504	32513	32498	32498	he	146	“ What was it like , my lord ? ”
+32525	32542	32543	32543	he	1266	“ Alack , his wits are flown again!--it was ill wisdom to lead him on to strain them”--then
+33247	33257	33258	33258	he	90	“ I would I knew what ’ tis about ! ”
+33271	33277	33280	33281	the Earl	1266	“ Thou art the King ! ”
+33287	33297	33280	33281	the Earl	1266	“ Have I your Grace ’s leave to act ? ”
+33298	33309	33311	33311	Tom	90	“ O blithely , yes ! O gladly , yes ! ”
+33324	33343	33311	33311	Tom	90	“ In truth , being a king is not all dreariness -- it hath its compensations and conveniences . ”
+33362	33385	33390	33401	a long rank of the royal guards , cased in flashing steel	1302	“ Let the mob be halted , and inquiry made concerning the occasion of its movement . By the King ’s command ! ”
+33573	33578	33567	33567	he	90	“ Bring them here ! ”
+33676	33732	33671	33671	He	90	“ Truly it is like what I was used to feel when I read the old priest ’s tales , and did imagine mine own self a prince , giving law and command to all , saying ‘ Do this , do that , ’ whilst none durst offer let or hindrance to my will . ”
+33940	33961	33963	33963	Tom	90	“ Methinks I have seen this man ere now . . . but the when or the where fail me . ”--Such
+34011	34130	34006	34006	He	90	“ Now is the matter clear ; this is the stranger that plucked Giles Witt out of the Thames , and saved his life , that windy , bitter , first day of the New Year -- a brave good deed -- pity he hath been doing baser ones and got himself in this sad case . . . I have not forgot the day , neither the hour ; by reason that an hour after , upon the stroke of eleven , I did get a hiding by the hand of Gammer Canty which was of so goodly and admired severity that all that went before or followed after it were but fondlings and caresses by comparison . ”
+34160	34171	34152	34152	himself	90	“ Good sir , what is this man ’s offence ? ”
+34178	34195	34172	34173	The officer	1341	“ So please your Majesty , he hath taken the life of a subject by poison . ”
+34222	34230	34231	34231	he	90	“ The thing was proven upon him ? ”
+34234	34240	34241	34241	Tom	90	“ Most clearly , sire . ”
+34246	34284	34241	34241	Tom	90	“ Take him away -- he hath earned his death . ‘ Tis a pity , for he was a brave heart -- na -- na , I mean he hath the _ look _ of it ! ”
+34316	34419	34420	34420	Tom	90	“ O my lord the King , an ’ thou canst pity the lost , have pity upon me ! I am innocent -- neither hath that wherewith I am charged been more than but lamely proved -- yet I speak not of that ; the judgment is gone forth against me and may not suffer alteration ; yet in mine extremity I beg a boon , for my doom is more than I can bear . A grace , a grace , my lord the King ! in thy royal compassion grant my prayer -- give commandment that I be hanged ! ”
+34434	34453	34420	34420	Tom	90	“ Odds my life , a strange _ boon _ ! Was it not the fate intended thee ? ”
+34454	34474	34420	34420	Tom	90	“ O good my liege , not so ! It is ordered that I be _ boiled alive _ ! ”
+34500	34525	34526	34527	The prisoner	1342	“ Have thy wish , poor soul ! an ’ thou had poisoned a hundred men thou shouldst not suffer so miserable a death . ”
+34544	34566	34567	34567	Tom	90	“ If ever thou shouldst know misfortune -- which God forefend!--may thy goodness to me this day be remembered and requited ! ”
+34577	34595	34567	34567	Tom	90	“ My lord , is it believable that there was warrant for this man ’s ferocious doom ? ”
+34596	34648	34567	34567	Tom	90	“ It is the law , your Grace -- for poisoners . In Germany coiners be boiled to death in _ oil_--not cast in of a sudden , but by a rope let down into the oil by degrees , and slowly ; first the feet , then the legs , then-- ”
+34649	34664	34666	34666	Tom	90	“ O prithee no more , my lord , I can not bear it ! ”
+34680	34708	34666	34666	Tom	90	“ I beseech your good lordship that order be taken to change this law -- oh , let no more poor creatures be visited with its tortures . ”
+34743	34767	34741	34741	He	1266	“ These your Grace ’s noble words have sealed its doom . History will remember it to the honour of your royal house . ”
+34790	34819	34788	34788	he	90	“ Good sir , I would look into this matter further . The man has said his deed was but lamely proved . Tell me what thou knowest . ”
+34820	34913	34741	34741	He	1266	“ If the King ’s grace please , it did appear upon the trial that this man entered into a house in the hamlet of Islington where one lay sick -- three witnesses say it was at ten of the clock in the morning , and two say it was some minutes later -- the sick man being alone at the time , and sleeping -- and presently the man came forth again and went his way . The sick man died within the hour , being torn with spasms and retchings . ”
+34914	34926	34788	34788	he	90	“ Did any see the poison given ? Was poison found ? ”
+34927	34935	34788	34788	he	90	“ Marry , no , my liege . ”
+34936	34949	34788	34788	he	90	“ Then how doth one know there was poison given at all ? ”
+34950	34968	34788	34788	he	90	“ Please your Majesty , the doctors testified that none die with such symptoms but by poison . ”
+34987	35011	34979	34979	Tom	90	“ The doctor knoweth his trade -- belike they were right . The matter hath an ill - look for this poor man . ”
+35012	35120	34979	34979	Tom	90	“ Yet was not this all , your Majesty ; there is more and worse . Many testified that a witch , since gone from the village , none know whither , did foretell , and speak it privately in their ears , that the sick man _ would die by poison_--and more , that a stranger would give it -- a stranger with brown hair and clothed in a worn and common garb ; and surely this prisoner doth answer woundily to the bill . Please your Majesty to give the circumstance that solemn weight which is its due , seeing it was _ foretold _ . ”
+35164	35176	35156	35156	he	90	“ If thou canst say aught in thy behalf , speak . ”
+35177	35274	35156	35156	he	90	“ Nought that will avail , my King . I am innocent , yet can not I make it appear . I have no friends , else might I show that I was not in Islington that day ; so also might I show that at that hour they name I was above a league away , seeing I was at Wapping Old Stairs ; yea more , my King , for I could show , that whilst they say I was _ taking _ life , I was _ saving _ it . A drowning boy-- ”
+35275	35288	35156	35156	he	90	“ Peace ! Sheriff , name the day the deed was done ! ”
+35289	35311	35156	35156	he	90	“ At ten in the morning , or some minutes later , the first day of the New Year , most illustrious-- ”
+35312	35326	35156	35156	he	90	“ Let the prisoner go free -- it is the King ’s will ! ”
+35346	35365	35335	35335	he	1355	“ It enrageth me that a man should be hanged upon such idle , hare - brained evidence ! ”
+35442	35455	35517	35517	Tom	90	“ This is no mad king -- he hath his wits sound . ”
+35456	35479	35517	35517	Tom	90	“ How sanely he put his questions -- how like his former natural self was this abrupt imperious disposal of the matter ! ”
+35480	35509	35517	35517	Tom	90	“ God be thanked , his infirmity is spent ! This is no weakling , but a king . He hath borne himself like to his own father . ”
+35607	35616	35617	35617	he	90	“ What is it that these have done ? ”
+35623	35668	35669	35669	Tom	90	“ Please your Majesty , a black crime is charged upon them , and clearly proven ; wherefore the judges have decreed , according to the law , that they be hanged . They sold themselves to the devil -- such is their crime . ”
+35707	35714	35705	35705	he	90	“ Where was this done?--and when ? ”
+35715	35730	35731	35731	Tom	90	“ On a midnight in December , in a ruined church , your Majesty . ”
+35735	35741	35731	35731	Tom	90	“ Who was there present ? ”
+35742	35756	35705	35705	he	90	“ Only these two , your grace -- and _ that other _ . ”
+35757	35762	35705	35705	he	90	“ Have these confessed ? ”
+35763	35776	35731	35731	Tom	90	“ Nay , not so , sire -- they do deny it . ”
+35777	35786	35705	35705	he	90	“ Then prithee , how was it known ? ”
+35787	35878	35705	35705	he	90	“ Certain witness did see them wending thither , good your Majesty ; this bred the suspicion , and dire effects have since confirmed and justified it . In particular , it is in evidence that through the wicked power so obtained , they did invoke and bring about a storm that wasted all the region round about . Above forty witnesses have proved the storm ; and sooth one might have had a thousand , for all had reason to remember it , sith all had suffered by it . ”
+35879	35887	35731	35731	Tom	90	“ Certes this is a serious matter . ”
+35904	35913	35731	35731	Tom	90	“ Suffered the woman also by the storm ? ”
+35948	35977	35942	35942	he	1361	“ Indeed did she , your Majesty , and most righteously , as all aver . Her habitation was swept away , and herself and child left shelterless . ”
+35978	36039	36040	36042	The elderly heads	1365	“ Methinks the power to do herself so ill a turn was dearly bought . She had been cheated , had she paid but a farthing for it ; that she paid her soul , and her child ’s , argueth that she is mad ; if she is mad she knoweth not what she doth , therefore sinneth not . ”
+36057	36102	36053	36054	one individual	1366	“ An ’ the King be mad himself , according to report , then is it a madness of a sort that would improve the sanity of some I wot of , if by the gentle providence of God they could but catch it . ”
+36103	36110	36112	36112	Tom	90	“ What age hath the child ? ”
+36114	36122	36112	36112	Tom	90	“ Nine years , please your Majesty . ”
+36123	36142	36144	36144	Tom	90	“ By the law of England may a child enter into covenant and sell itself , my lord ? ”
+36152	36233	36148	36150	a learned judge	1367	“ The law doth not permit a child to make or meddle in any weighty matter , good my liege , holding that its callow wit unfitteth it to cope with the riper wit and evil schemings of them that are its elders . The _ Devil _ may buy a child , if he so choose , and the child agree thereto , but not an Englishman -- in this latter case the contract would be null and void . ”
+36234	36260	36262	36262	Tom	90	“ It seemeth a rude unchristian thing , and ill contrived , that English law denieth privileges to Englishmen to waste them on the devil ! ”
+36351	36360	36349	36349	he	90	“ How wrought they to bring the storm ? ”
+36361	36372	36386	36386	He	90	“ _ By pulling off their stockings _ , sire . ”
+36390	36402	36386	36386	He	90	“ It is wonderful ! Hath it always this dread effect ? ”
+36403	36432	36433	36433	Tom	90	“ Always , my liege -- at least if the woman desire it , and utter the needful words , either in her mind or with her tongue . ”
+36444	36455	36433	36433	Tom	90	“ Exert thy power -- I would see a storm ! ”
+36517	36542	36513	36513	he	90	“ Never fear -- thou shalt be blameless . More -- thou shalt go free -- none shall touch thee . Exert thy power . ”
+36543	36562	36513	36513	he	90	“ Oh , my lord the King , I have it not -- I have been falsely accused . ”
+36563	36641	36642	36643	The woman	802	“ Thy fears stay thee . Be of good heart , thou shalt suffer no harm . Make a storm -- it mattereth not how small a one -- I require nought great or harmful , but indeed prefer the opposite -- do this and thy life is spared -- thou shalt go out free , with thy child , bearing the King ’s pardon , and safe from hurt or malice from any in the realm . ”
+36712	36828	36710	36710	he	90	“ I think the woman hath said true . An ’ _ my _ mother were in her place and gifted with the devil ’s functions , she had not stayed a moment to call her storms and lay the whole land in ruins , if the saving of my forfeit life were the price she got ! It is argument that other mothers are made in like mould . Thou art free , goodwife -- thou and thy child -- for I do think thee innocent . _ Now _ thou’st nought to fear , being pardoned -- pull off thy stockings!--an ’ thou canst make me a storm , thou shalt be rich ! ”
+36912	36957	36907	36907	Tom	90	“ There , good soul , trouble thyself no further , thy power is departed out of thee . Go thy way in peace ; and if it return to thee at any time , forget me not , but fetch me a storm . ”
+37174	37328	37169	37171	the ancient chronicler	1393	“ A gentleman enters the room bearing a rod , and along with him another bearing a tablecloth , which , after they have both kneeled three times with the utmost veneration , he spreads upon the table , and after kneeling again they both retire ; then come two others , one with the rod again , the other with a salt - cellar , a plate , and bread ; when they have kneeled as the others had done , and placed what was brought upon the table , they too retire with the same ceremonies performed by the first ; at last come two nobles , richly clothed , one bearing a tasting - knife , who , after prostrating themselves three times in the most graceful manner , approach and rub the table with bread and salt , with as much awe as if the King had been present . ”
+37357	37372	37169	37171	the ancient chronicler	1393	“ Place for the King ! Way for the King ’s most excellent majesty ! ”
+37403	37409	37169	37171	the ancient chronicler	1393	“ Way for the King ! ”
+37435	37570	37431	37432	the chronicler	1396	“ First come Gentlemen , Barons , Earls , Knights of the Garter , all richly dressed and bareheaded ; next comes the Chancellor , between two , one of which carries the royal sceptre , the other the Sword of State in a red scabbard , studded with golden fleurs - de - lis , the point upwards ; next comes the King himself -- whom , upon his appearing , twelve trumpets and many drums salute with a great burst of welcome , whilst all in the galleries rise in their places , crying ‘ God save the King ! ’ After him come nobles attached to his person , and on his right and left march his guard of honour , his fifty Gentlemen Pensioners , with gilt battle - axes . ”
+37687	37696	37680	37680	his	90	“ I thank ye , my good people . ”
+37784	37798	37779	37783	the Yeomen of the Guard	1401	entered,--“the tallest and mightiest men in England , they being carefully selected in this regard”--but
+37807	37893	37894	37894	Tom	90	“ The Yeomen of the Guard entered , bareheaded , clothed in scarlet , with golden roses upon their backs ; and these went and came , bringing in each turn a course of dishes , served in plate . These dishes were received by a gentleman in the same order they were brought , and placed upon the table , while the taster gave to each guard a mouthful to eat of the particular dish he had brought , for fear of any poison . ”
+38564	38585	38561	38562	The youth	3622	“ Thou’lt tarry here , and thy friend lying wounded in the wood yonder ? So be it , then . ”
+38597	38649	38594	38594	He	294	“ Wounded ? And who hath dared to do it ? But that is apart ; lead on , lead on ! Faster , sirrah ! Art shod with lead ? Wounded , is he ? Now though the doer of it be a duke ’s son he shall rue it ! ”
+38799	38804	38785	38786	The King	294	“ Where is he ? ”
+38867	38878	38861	38862	The King	294	“ Who art thou ? What is thy business here ? ”
+38879	38884	38886	38887	the man	495	“ Leave thy foolery , ”
+38889	38912	38886	38887	the man	495	“ and quiet thyself . My disguise is none so good that thou canst pretend thou knowest not thy father through it . ”
+38913	38953	38954	38955	John Canty	93	“ Thou art not my father . I know thee not . I am the King . If thou hast hid my servant , find him for me , or thou shalt sup sorrow for what thou hast done . ”
+38964	39109	39110	39111	The King	294	“ It is plain thou art mad , and I am loath to punish thee ; but if thou provoke me , I must . Thy prating doth no harm here , where there are no ears that need to mind thy follies ; yet it is well to practise thy tongue to wary speech , that it may do no hurt when our quarters change . I have done a murder , and may not tarry at home -- neither shalt thou , seeing I need thy service . My name is changed , for wise reasons ; it is Hobbs -- John Hobbs ; thine is Jack -- charge thy memory accordingly . Now , then , speak . Where is thy mother ? Where are thy sisters ? They came not to the place appointed -- knowest thou whither they went ? ”
+39114	39134	39135	39138	The youth near by	1453	“ Trouble me not with these riddles . My mother is dead ; my sisters are in the palace . ”
+39170	39210	39211	39211	Hobbs	154	“ Peace , Hugo , vex him not ; his mind is astray , and thy ways fret him . Sit thee down , Jack , and quiet thyself ; thou shalt have a morsel to eat , anon . ”
+39796	39816	39791	39792	A general	1492	“ A song ! a song from the Bat and Dick and Dot - and - go - One ! ”
+40178	40238	40239	40239	He	154	“ London is better than the country , and safer , these late years , the laws be so bitter and so diligently enforced . An ’ I had not had that accident , I had stayed there . I had resolved to stay , and never more venture country - wards -- but the accident has ended that . ”
+40258	40305	40249	40255	The ‘ ruffler , ’ or chief	1513	“ Five and twenty sturdy budges , bulks , files , clapperdogeons and maunders , counting the dells and doxies and other morts . { 7 } Most are here , the rest are wandering eastward , along the winter lay . We follow at dawn . ”
+40306	40325	40239	40239	He	154	“ I do not see the Wen among the honest folk about me . Where may he be ? ”
+40326	40356	40239	40239	He	154	“ Poor lad , his diet is brimstone , now , and over hot for a delicate taste . He was killed in a brawl , somewhere about midsummer . ”
+40357	40374	40249	40255	The ‘ ruffler , ’ or chief	1513	“ I sorrow to hear that ; the Wen was a capable man , and brave . ”
+40375	40423	40239	40239	He	154	“ That was he , truly . Black Bess , his dell , is of us yet , but absent on the eastward tramp ; a fine lass , of nice ways and orderly conduct , none ever seeing her drunk above four days in the seven . ”
+40424	40469	40239	40239	He	154	“ She was ever strict -- I remember it well -- a goodly wench and worthy all commendation . Her mother was more free and less particular ; a troublesome and ugly - tempered beldame , but furnished with a wit above the common . ”
+40470	40605	40606	40607	The Ruffler	1514	“ We lost her through it . Her gift of palmistry and other sorts of fortune - telling begot for her at last a witch ’s name and fame . The law roasted her to death at a slow fire . It did touch me to a sort of tenderness to see the gallant way she met her lot -- cursing and reviling all the crowd that gaped and gazed around her , whilst the flames licked upward toward her face and catched her thin locks and crackled about her old gray head -- cursing them ! why an ’ thou should’st live a thousand years thoud’st never hear so masterful a cursing . Alack , her art died with her . There be base and weakling imitations left , but no true blasphemy . ”
+40696	40706	40708	40708	Hobbs	154	“ Have any others of our friends fared hardly ? ”
+40710	40864	40708	40708	Hobbs	154	“ Some -- yes . Particularly new comers -- such as small husbandmen turned shiftless and hungry upon the world because their farms were taken from them to be changed to sheep ranges . They begged , and were whipped at the cart ’s tail , naked from the girdle up , till the blood ran ; then set in the stocks to be pelted ; they begged again , were whipped again , and deprived of an ear ; they begged a third time -- poor devils , what else could they do?--and were branded on the cheek with a red - hot iron , then sold for slaves ; they ran away , were hunted down , and hanged . ‘ Tis a brief tale , and quickly told . Others of us have fared less hardly . Stand forth , Yokel , Burns , and Hodge -- show your adornments ! ”
+40929	41335	40926	40927	the third	1522	“ I am Yokel , once a farmer and prosperous , with loving wife and kids -- now am I somewhat different in estate and calling ; and the wife and kids are gone ; mayhap they are in heaven , mayhap in -- in the other place -- but the kindly God be thanked , they bide no more in _ England _ ! My good old blameless mother strove to earn bread by nursing the sick ; one of these died , the doctors knew not how , so my mother was burnt for a witch , whilst my babes looked on and wailed . English law!--up , all , with your cups!--now all together and with a cheer!--drink to the merciful English law that delivered _ her _ from the English hell ! Thank you , mates , one and all . I begged , from house to house -- I and the wife -- bearing with us the hungry kids -- but it was crime to be hungry in England -- so they stripped us and lashed us through three towns . Drink ye all again to the merciful English law!--for its lash drank deep of my Mary ’s blood and its blessed deliverance came quick . She lies there , in the potter ’s field , safe from all harms . And the kids -- well , whilst the law lashed me from town to town , they starved . Drink , lads -- only a drop -- a drop to the poor kids , that never did any creature harm . I begged again -- begged , for a crust , and got the stocks and lost an ear -- see , here bides the stump ; I begged again , and here is the stump of the other to keep me minded of it . And still I begged again , and was sold for a slave -- here on my cheek under this stain , if I washed it off , ye might see the red S the branding - iron left there ! A _ slave _ ! Do you understand that word ? An English _ slave_!--that is he that stands before ye . I have run from my master , and when I am found -- the heavy curse of heaven fall on the law of the land that hath commanded it!--I shall hang ! ”
+41347	41362	41363	41363	All	654	“ Thou shalt _ not_!--and this day the end of that law is come ! ”
+41396	41413	41414	41415	The boy	520	“ Who is it ? _ What _ is it ? Who art thou , manikin ? ”
+41434	41443	41414	41415	The boy	520	“ I am Edward , King of England . ”
+41473	41490	41491	41491	He	294	“ Ye mannerless vagrants , is this your recognition of the royal boon I have promised ? ”
+41536	41567	41470	41470	He	294	“ Mates , he is my son , a dreamer , a fool , and stark mad -- mind him not -- he thinketh he _ is _ the King . ”
+41568	41576	41578	41578	Edward	87	“ I _ am _ the King , ”
+41584	41609	41578	41578	Edward	87	“ as thou shalt know to thy cost , in good time . Thou hast confessed a murder -- thou shalt swing for it . ”
+41610	41626	41470	41470	He	294	“ _ Thou’lt _ betray me?--_thou _ ? An ’ I get my hands upon thee-- ”
+41627	41632	41634	41636	the burley Ruffler	1527	“ Tut - tut ! ”
+41658	41685	41687	41687	he	1527	“ hast respect for neither Kings _ nor _ Rufflers ? An ’ thou insult my presence so again , I ’ll hang thee up myself . ”
+41693	41802	41687	41687	he	1527	“ Thou must make no threats against thy mates , lad ; and thou must guard thy tongue from saying evil of them elsewhere . _ Be king _ , if it please thy mad humour , but be not harmful in it . Sink the title thou hast uttered--‘tis treason ; we be bad men in some few trifling ways , but none among us is so base as to be traitor to his King ; we be loving and loyal hearts , in that regard . Note if I speak truth . Now -- all together : ‘ Long live Edward , King of England ! ’ ”
+41803	41812	41687	41687	he	1527	“ LONG LIVE EDWARD , KING OF ENGLAND ! ”
+41857	41866	41846	41846	he	87	“ I thank you , my good people . ”
+41900	41928	41887	41888	the Ruffler	1514	“ Drop it , boy , ’ tis not wise , nor well . Humour thy fancy , if thou must , but choose some other title . ”
+41935	41947	41929	41930	A tinker	1480	“ Foo - foo the First , King of the Mooncalves ! ”
+41969	41983	41887	41888	the Ruffler	1514	“ Long live Foo - foo the First , King of the Mooncalves ! ”
+41997	42006	41887	41888	the Ruffler	1514	“ Hale him forth , and crown him ! ”
+42007	42011	41887	41888	the Ruffler	1514	“ Robe him ! ”
+42012	42016	41887	41888	the Ruffler	1514	“ Sceptre him ! ”
+42017	42021	41887	41888	the Ruffler	1514	“ Throne him ! ”
+42107	42117	42095	42095	they	1536	“ Be gracious to us , O sweet King ! ”
+42118	42130	42095	42095	they	1536	“ Trample not upon thy beseeching worms , O noble Majesty ! ”
+42131	42144	42095	42095	they	1536	“ Pity thy slaves , and comfort them with a royal kick ! ”
+42145	42162	42095	42095	they	1536	“ Cheer us and warm us with thy gracious rays , O flaming sun of sovereignty ! ”
+42163	42184	42095	42095	they	1536	“ Sanctify the ground with the touch of thy foot , that we may eat the dirt and be ennobled ! ”
+42185	42215	42095	42095	they	1536	“ Deign to spit upon us , O Sire , that our children ’s children may tell of thy princely condescension , and be proud and happy for ever ! ”
+42353	42390	42349	42349	his	1541	“ Had I offered them a deep wrong they could not be more cruel -- yet have I proffered nought but to do them a kindness -- and it is thus they use me for it ! ”
+42878	42896	42875	42875	he	156	“ I see nought to steal ; it is a paltry place . Wherefore we will beg . ”
+42897	42920	42875	42875	he	156	“ _ We _ , forsooth ! Follow thy trade -- it befits thee . But _ I _ will not beg . ”
+42921	42926	42928	42928	Hugo	156	“ Thou’lt not beg ! ”
+42936	42945	42928	42928	Hugo	156	“ Prithee , since when hast thou reformed ? ”
+42946	42952	42875	42875	he	156	“ What dost thou mean ? ”
+42953	42968	42875	42875	he	156	“ Mean ? Hast thou not begged the streets of London all thy life ? ”
+42969	42975	42928	42928	Hugo	156	“ I ? Thou idiot ! ”
+42976	43017	43019	43019	Hugo	156	“ Spare thy compliments -- thy stock will last the longer . Thy father says thou hast begged all thy days . Mayhap he lied . Peradventure you will even make so bold as to _ say _ he lied , ”
+43021	43035	43019	43019	Hugo	156	“ Him _ you _ call my father ? Yes , he lied . ”
+43036	43076	42875	42875	he	156	“ Come , play not thy merry game of madman so far , mate ; use it for thy amusement , not thy hurt . An ’ I tell him this , he will scorch thee finely for it . ”
+43077	43088	42875	42875	he	156	“ Save thyself the trouble . I will tell him . ”
+43089	43217	43218	43219	The King	294	“ I like thy spirit , I do in truth ; but I do not admire thy judgment . Bone - rackings and bastings be plenty enow in this life , without going out of one ’s way to invite them . But a truce to these matters ; _ I _ believe your father . I doubt not he can lie ; I doubt not he _ doth _ lie , upon occasion , for the best of us do that ; but there is no occasion here . A wise man does not waste so good a commodity as lying for nought . But come ; sith it is thy humour to give over begging , wherewithal shall we busy ourselves ? With robbing kitchens ? ”
+43223	43234	43235	43235	Hugo	156	“ Have done with this folly -- you weary me ! ”
+43240	43292	43293	43294	The King	294	“ Now harkee , mate ; you will not beg , you will not rob ; so be it . But I will tell you what you _ will _ do . You will play decoy whilst _ I _ beg . Refuse , an ’ you think you may venture ! ”
+43306	43451	43302	43302	Hugo	156	“ Peace ! Here comes one with a kindly face . Now will I fall down in a fit . When the stranger runs to me , set you up a wail , and fall upon your knees , seeming to weep ; then cry out as all the devils of misery were in your belly , and say , ‘ Oh , sir , it is my poor afflicted brother , and we be friendless ; o ’ God ’s name cast through your merciful eyes one pitiful look upon a sick , forsaken , and most miserable wretch ; bestow one little penny out of thy riches upon one smitten of God and ready to perish!’--and mind you , keep you _ on _ wailing , and abate not till we bilk him of his penny , else shall you rue it . ”
+43506	43514	43516	43518	the benevolent stranger	1581	“ O , dear , O dear ! ”
+43520	43541	43516	43518	the benevolent stranger	1581	“ O poor soul , poor soul , how he doth suffer ! There -- let me help thee up . ”
+43542	43615	43516	43518	the benevolent stranger	1581	“ O noble sir , forbear , and God love you for a princely gentleman -- but it giveth me cruel pain to touch me when I am taken so . My brother there will tell your worship how I am racked with anguish when these fits be upon me . A penny , dear sir , a penny , to buy a little food ; then leave me to my sorrows . ”
+43616	43627	43628	43628	he	1582	“ A penny ! thou shalt have three , thou hapless creature,”--and
+43641	43672	43628	43628	he	1582	“ There , poor lad , take them and most welcome . Now come hither , my boy , and help me carry thy stricken brother to yon house , where-- ”
+43673	43680	43682	43683	the King	294	“ I am not his brother , ”
+43687	43694	43682	43683	the King	294	“ What ! not his brother ? ”
+43695	43701	43703	43703	Hugo	156	“ Oh , hear him ! ”
+43711	43727	43708	43708	his	156	“ He denies his own brother -- and he with one foot in the grave ! ”
+43728	43768	43682	43683	the King	294	“ Boy , thou art indeed hard of heart , if this is thy brother . For shame!--and he scarce able to move hand or foot . If he is not thy brother , who is he , then ? ”
+43769	43810	43708	43708	his	156	“ A beggar and a thief ! He has got your money and has picked your pocket likewise . An ’ thou would’st do a healing miracle , lay thy staff over his shoulders and trust Providence for the rest . ”
+45826	45910	45819	45820	The boy	520	“ Poor fool , why so fearful ? I am as forlorn as thou . ‘ Twould be a sham in me to hurt the helpless , who am myself so helpless . Moreover , I owe you thanks for a good omen ; for when a king has fallen so low that the very rats do make a bed of him , it surely meaneth that his fortunes be upon the turn , since it is plain he can no lower go . ”
+46009	46016	46017	46018	The other	1645	“ He hath a comely face . ”
+46020	46025	46017	46018	The other	1645	“ And pretty hair . ”
+46026	46033	46017	46018	The other	1645	“ But is ill clothed enow . ”
+46034	46041	46042	46042	They	1644	“ And how starved he looketh . ”
+46137	46144	46124	46126	one of them	681	“ Who art thou , boy ? ”
+46145	46151	46124	46126	one of them	681	“ I am the King , ”
+46185	46194	46224	46224	one	3093	“ The _ King _ ? What King ? ”
+46195	46201	46202	46203	The children	290	“ The King of England . ”
+46226	46243	46224	46224	one	3093	“ Didst hear him , Margery?--he said he is the King . Can that be true ? ”
+46244	46311	46224	46224	one	3093	“ How can it be else but true , Prissy ? Would he say a lie ? For look you , Prissy , an ’ it were not true , it _ would _ be a lie . It surely would be . Now think on’t . For all things that be not true , be lies -- thou canst make nought else out of it . ”
+46357	46370	46341	46341	She	168	“ If thou art truly the King , then I believe thee . ”
+46371	46378	46341	46341	She	168	“ I am truly the King . ”
+46543	46597	46541	46541	himself	294	“ When I am come to mine own again , I will always honour little children , remembering how that these trusted me and believed in me in my time of trouble ; whilst they that were older , and thought themselves wiser , mocked at me and held me for a liar . ”
+47098	47113	47092	47093	the woman	802	“ Of a truth I was right -- he hath holpen in a kitchen ! ”
+47138	47214	47132	47133	the goodwife	1683	“ Good lack ! how can he know so many dishes , and so fine ones withal ? For these belong only upon the tables of the rich and great . Ah , now I see ! ragged outcast as he is , he must have served in the palace before his reason went astray ; yes , he must have helped in the very kitchen of the King himself ! I will test him . ”
+47270	47323	47267	47268	The King	294	“ Another English king had a commission like to this , in a bygone time -- it is nothing against my dignity to undertake an office which the great Alfred stooped to assume . But I will try to better serve my trust than he ; for he let the cakes burn . ”
+47718	47741	47713	47713	he	294	“ Alfred the Great watched the cakes ; doubtless he would have washed the dishes too -- therefore will I essay it . ”
+48699	48704	48706	48707	the King	294	“ A holy hermit ! ”
+48711	48718	48706	48707	the King	294	“ now am I indeed fortunate . ”
+48734	48750	48751	48752	The King	294	“ Enter!--but leave sin behind , for the ground whereon thou shalt stand is holy ! ”
+48773	48778	48758	48759	The hermit	1722	“ Who art thou ? ”
+48779	48785	48758	48759	The hermit	1722	“ I am the King , ”
+48794	48799	48801	48802	the hermit	1722	“ Welcome , King ! ”
+48819	48824	48825	48825	he	1722	“ Welcome , welcome , ”
+48859	48934	48935	48936	The King	294	“ Welcome ! Many have sought sanctuary here , but they were not worthy , and were turned away . But a King who casts his crown away , and despises the vain splendours of his office , and clothes his body in rags , to devote his life to holiness and the mortification of the flesh -- he is worthy , he is welcome!--here shall he abide all his days till death come . ”
+48977	49125	49126	49134	The old man , still pacing back and forth	1747	“ And thou shalt be at peace here . None shall find out thy refuge to disquiet thee with supplications to return to that empty and foolish life which God hath moved thee to abandon . Thou shalt pray here ; thou shalt study the Book ; thou shalt meditate upon the follies and delusions of this world , and upon the sublimities of the world to come ; thou shalt feed upon crusts and herbs , and scourge thy body with whips , daily , to the purifying of thy soul . Thou shalt wear a hair shirt next thy skin ; thou shalt drink water only ; and thou shalt be at peace ; yes , wholly at peace ; for whoso comes to seek thee shall go his way again , baffled ; he shall not find thee , he shall not molest thee . ”
+49192	49203	49185	49185	he	1722	“ ‘ Sh ! I will tell you a secret ! ”
+49266	49272	49255	49255	his	1722	“ I am an archangel ! ”
+49283	49305	49281	49281	himself	294	“ Would God I were with the outlaws again ; for lo , now am I the prisoner of a madman ! ”
+49327	49499	49500	49500	He	1754	“ I see you feel my atmosphere ! There ’s awe in your face ! None may be in this atmosphere and not be thus affected ; for it is the very atmosphere of heaven . I go thither and return , in the twinkling of an eye . I was made an archangel on this very spot , it is five years ago , by angels sent from heaven to confer that awful dignity . Their presence filled this place with an intolerable brightness . And they knelt to me , King ! yes , they knelt to me ! for I was greater than they . I have walked in the courts of heaven , and held speech with the patriarchs . Touch my hand -- be not afraid -- touch it . There -- now thou hast touched a hand which has been clasped by Abraham and Isaac and Jacob ! For I have walked in the golden courts ; I have seen the Deity face to face ! ”
+49528	49617	49516	49516	he	1754	“ Yes , I am an archangel ; _ a mere archangel!_--I that might have been pope ! It is verily true . I was told it from heaven in a dream , twenty years ago ; ah , yes , I was to be pope!--and I _ should _ have been pope , for Heaven had said it -- but the King dissolved my religious house , and I , poor obscure unfriended monk , was cast homeless upon the world , robbed of my mighty destiny ! ”
+49651	49667	49619	49619	he	1754	“ Wherefore I am nought but an archangel -- I that should have been pope ! ”
+49949	49954	49935	49935	he	520	“ Thou art King ? ”
+49955	49958	49935	49935	he	520	“ Yes , ”
+49966	49970	49935	49935	he	520	“ What King ? ”
+49971	49975	49935	49935	he	520	“ Of England . ”
+49976	49985	49935	49935	he	520	“ Of England ? Then Henry is gone ! ”
+49986	49998	49935	49935	he	520	“ Alack , it is so . I am his son . ”
+50039	50056	50021	50021	He	520	“ Dost know it was he that turned us out into the world houseless and homeless ? ”
+50081	50088	50062	50064	The old man	1756	“ He sleeps -- sleeps soundly ; ”
+50118	50126	50128	50128	he	1722	“ So -- his heart is happy ; ”
+50309	50314	50315	50315	he	1722	“ It grows sharper , ”
+50318	50325	50315	50315	he	1722	“ yes , it grows sharper . ”
+50354	50437	50440	50440	he	1722	“ His father wrought us evil , he destroyed us -- and is gone down into the eternal fires ! Yes , down into the eternal fires ! He escaped us -- but it was God ’s will , yes it was God ’s will , we must not repine . But he hath not escaped the fires ! No , he hath not escaped the fires , the consuming , unpitying , remorseless fires -- and _ they _ are everlasting ! ”
+50464	50488	50489	50490	The King	294	“ It was his father that did it all . I am but an archangel ; but for him I should be pope ! ”
+50588	50612	50576	50576	he	1722	“ It is long past midnight ; it is not best that he should cry out , lest by accident someone be passing . ”
+50965	50976	50955	50955	he	1756	“ Son of Henry the Eighth , hast thou prayed ? ”
+51013	51025	51000	51001	the hermit	1722	“ Then pray again . Pray the prayer for the dying ! ”
+51101	51120	51121	51122	The boy	520	“ The moments are precious , they are few and precious -- pray the prayer for the dying ! ”
+51193	51244	51191	51191	his	1722	“ I may not indulge this ecstasy longer ! The night is already gone . It seems but a moment -- only a moment ; would it had endured a year ! Seed of the Church ’s spoiler , close thy perishing eyes , an ’ thou fearest to look upon-- ”
+51354	51374	51396	51397	Miles Hendon	128	“ Hullo - o - o ! Open ! And despatch , in the name of all the devils ! ”
+51441	51456	51426	51427	the King	294	“ Homage and greeting , reverend sir ! Where is the boy--_my _ boy ? ”
+51457	51463	51426	51427	the King	294	“ What boy , friend ? ”
+51464	51559	51426	51427	the King	294	“ What boy ! Lie me no lies , sir priest , play me no deceptions!--I am not in the humour for it . Near to this place I caught the scoundrels who I judged did steal him from me , and I made them confess ; they said he was at large again , and they had tracked him to your door . They showed me his very footprints . Now palter no more ; for look you , holy sir , an ’ thou produce him not -- Where is the boy ? ”
+51560	51609	51426	51427	the King	294	“ O good sir , peradventure you mean the ragged regal vagrant that tarried here the night . If such as you take an interest in such as he , know , then , that I have sent him of an errand . He will be back anon . ”
+51610	51636	51426	51427	the King	294	“ How soon ? How soon ? Come , waste not the time -- cannot I overtake him ? How soon will he be back ? ”
+51637	51648	51426	51427	the King	294	“ Thou need’st not stir ; he will return quickly . ”
+51649	51722	51426	51427	the King	294	“ So be it , then . I will try to wait . But stop!--_you _ sent him of an errand?--you ! Verily this is a lie -- he would not go . He would pull thy old beard , an ’ thou didst offer him such an insolence . Thou hast lied , friend ; thou hast surely lied ! He would not go for thee , nor for any man . ”
+51723	51739	51426	51427	the King	294	“ For any _ man_--no ; haply not . But I am not a man . ”
+51740	51757	51426	51427	the King	294	“ _ What _ ! Now o ’ God ’s name what art thou , then ? ”
+51758	51775	51426	51427	the King	294	“ It is a secret -- mark thou reveal it not . I am an archangel ! ”
+51791	51848	51426	51427	the King	294	“ This doth well and truly account for his complaisance ! Right well I knew he would budge nor hand nor foot in the menial service of any mortal ; but , lord , even a king must obey when an archangel gives the word o ’ command ! Let me--‘sh ! What noise was that ? ”
+51954	51963	51950	51951	the hermit	1722	“ Noise ? I heard only the wind . ”
+51964	52009	51950	51951	the hermit	1722	“ Mayhap it was . Yes , doubtless that was it . I have been hearing it faintly all the -- there it is again ! It is not the wind ! What an odd sound ! Come , we will hunt it out ! ”
+52057	52080	52054	52055	the hermit	1722	“ Ah , it came from without -- I think from the copse yonder . Come , I will lead the way . ”
+52144	52182	52142	52142	Hendon	128	“ I will not wait longer . I _ can not _ wait longer . He has lost his way in this thick wood . Which direction took he ? Quick -- point it out to me . ”
+52183	52195	52142	52142	Hendon	128	“ He -- but wait ; I will go with thee . ”
+52196	52295	52142	52142	Hendon	128	“ Good -- good ! Why , truly thou art better than thy looks . Marry I do not think there ’s not another archangel with so right a heart as thine . Wilt ride ? Wilt take the wee donkey that ’s for my boy , or wilt thou fork thy holy legs over this ill - conditioned slave of a mule that I have provided for myself?--and had been cheated in too , had he cost but the indifferent sum of a month ’s usury on a brass farthing let to a tinker out of work . ”
+52296	52320	52142	52142	Hendon	128	“ No -- ride thy mule , and lead thine ass ; I am surer on mine own feet , and will walk . ”
+52321	52350	52142	52142	Hendon	128	“ Then prithee mind the little beast for me while I take my life in my hands and make what success I may toward mounting the big one . ”
+52437	52448	52449	52449	he	1823	“ My only friend is deceived and got rid of , ”
+52452	52458	52459	52459	He	1823	“ the hermit will return and-- ”
+52540	52544	52536	52536	He	1823	“ Thank God ! ”
+54268	54304	54263	54263	he	156	“ Breath o ’ my life , an ’ I can but put _ that _ upon him , ’ tis good - den and God keep thee , King of the Game - Cocks ! ”
+54339	54347	54352	54353	the prey	1912	“ Tarry here till I come again , ”
+54469	54493	54456	54456	Hugo	156	“ Now speed ye after me with the rest , and cry ‘ Stop thief ! ’ but mind ye lead them astray ! ”
+54682	54702	54703	54704	The crowd	416	“ Unhand me , thou foolish creature ; it was not I that bereaved thee of thy paltry goods . ”
+54784	54827	54828	54829	The blacksmith	1932	“ Marry , good souls , let us proceed gently , not with ill blood and uncharitable words . This is matter for the law ’s consideration , not private and unofficial handling . Loose thy hold from the boy , goodwife . ”
+54886	54911	54869	54870	The King	294	“ Thou hast lagged sorely , but thou comest in good season , now , Sir Miles ; carve me this rabble to rags ! ”
+54936	54971	54973	54973	he	128	“ Softly , softly , my prince , wag thy tongue warily -- nay , suffer it not to wag at all . Trust in me -- all shall go well in the end . ”
+54978	55086	54973	54973	he	128	“ _ Sir _ Miles ! Bless me , I had totally forgot I was a knight ! Lord , how marvellous a thing it is , the grip his memory doth take upon his quaint and crazy fancies ! . . . An empty and foolish title is mine , and yet it is something to have deserved it ; for I think it is more honour to be held worthy to be a spectre - knight in his Kingdom of Dreams and Shadows , than to be held base enough to be an earl in some of the _ real _ kingdoms of this world . ”
+55114	55142	55112	55112	Hendon	128	“ Gently , good friend , withhold your hand -- he shall go peaceably ; I am responsible for that . Lead on , we will follow . ”
+55184	55261	55176	55176	Hendon	128	“ Reflect , Sire -- your laws are the wholesome breath of your own royalty ; shall their source resist them , yet require the branches to respect them ? Apparently one of these laws has been broken ; when the King is on his throne again , can it ever grieve him to remember that when he was seemingly a private person he loyally sank the king in the citizen and submitted to its authority ? ”
+55262	55303	55176	55176	Hendon	128	“ Thou art right ; say no more ; thou shalt see that whatsoever the King of England requires a subject to suffer , under the law , he will himself suffer while he holdeth the station of a subject . ”
+55422	55433	55434	55435	The woman	802	“ What dost thou hold this property to be worth ? ”
+55439	55461	55462	55463	The justice	1964	“ Three shillings and eightpence , your worship -- I could not abate a penny and set forth the value honestly . ”
+55479	55488	55462	55463	The justice	1964	“ Clear the court and close the doors . ”
+55554	55622	55539	55540	The judge	1959	“ ‘ Tis a poor ignorant lad , and mayhap was driven hard by hunger , for these be grievous times for the unfortunate ; mark you , he hath not an evil face -- but when hunger driveth -- Good woman ! dost know that when one steals a thing above the value of thirteenpence ha’penny the law saith he shall _ hang _ for it ? ”
+55661	55712	55648	55648	She	802	“ Oh , good lack , what have I done ! God - a - mercy , I would not hang the poor thing for the whole world ! Ah , save me from this , your worship -- what shall I do , what _ can _ I do ? ”
+55723	55743	55713	55714	The justice	1964	“ Doubtless it is allowable to revise the value , since it is not yet writ upon the record . ”
+55744	55769	55770	55771	Miles Hendon	128	“ Then in God ’s name call the pig eightpence , and heaven bless the day that freed my conscience of this awesome thing ! ”
+55877	55901	55870	55870	He	128	“ It is a fat pig , and promises good eating ; I will buy it of thee ; here is the eightpence . ”
+55902	55948	55870	55870	He	128	“ Eightpence , indeed ! Thou’lt do no such thing . It cost me three shillings and eightpence , good honest coin of the last reign , that old Harry that ’s just dead ne’er touched or tampered with . A fig for thy eightpence ! ”
+55949	55995	55870	55870	He	128	“ Stands the wind in that quarter ? Thou wast under oath , and so swore falsely when thou saidst the value was but eightpence . Come straightway back with me before his worship , and answer for the crime!--and then the lad will hang . ”
+55996	56025	56026	56027	The woman	802	“ There , there , dear heart , say no more , I am content . Give me the eightpence , and hold thy peace about the matter . ”
+56187	56202	56203	56203	Hendon	128	“ Idiot , dost imagine I will enter a common jail _ alive _ ? ”
+56211	56272	56203	56203	Hendon	128	“ _ Will _ you trust in me ? Peace ! and forbear to worsen our chances with dangerous speech . What God wills , will happen ; thou canst not hurry it , thou canst not alter it ; therefore wait , and be patient--‘twill be time enow to rail or rejoice when what is to happen has happened . ”
+56436	56459	56424	56424	his	128	“ Bide a moment , good sir , there is none in hearing , and I would say a word to thee . ”
+56460	56478	56424	56424	his	128	“ My duty forbids it , sir ; prithee hinder me not , the night comes on . ”
+56479	56510	56424	56424	his	128	“ Stay , nevertheless , for the matter concerns thee nearly . Turn thy back a moment and seem not to see : _ let this poor lad escape _ . ”
+56511	56522	56424	56424	his	128	“ This to me , sir ! I arrest thee in-- ”
+56523	56539	56540	56540	he	128	“ Nay , be not too hasty . See thou be careful and commit no foolish error,”--then
+56555	56570	56540	56540	he	128	ear--“the pig thou hast purchased for eightpence may cost thee thy neck , man ! ”
+56613	56650	56652	56652	he	128	“ I have a liking to thee , friend , and would not willingly see thee come to harm . Observe , I heard it all -- every word . I will prove it to thee . ”
+56676	56704	56652	56652	he	128	“ There -- have I set it forth correctly ? Should not I be able to set it forth correctly before the judge , if occasion required ? ”
+56727	56751	56719	56719	he	495	“ ‘ Tis making a mighty matter , indeed , out of a jest ; I but plagued the woman for mine amusement . ”
+56752	56762	56763	56764	The man	495	“ Kept you the woman ’s pig for amusement ? ”
+56767	56783	56763	56764	The man	495	“ Nought else , good sir -- I tell thee ’ twas but a jest . ”
+56784	56792	56794	56794	Hendon	128	“ I do begin to believe thee , ”
+56810	56840	56794	56794	Hendon	128	“ but tarry thou here a moment whilst I run and ask his worship -- for nathless , he being a man experienced in law , in jests , in-- ”
+56865	56953	56849	56850	the constable	1966	“ Hold , hold , good sir -- prithee wait a little -- the judge ! Why , man , he hath no more sympathy with a jest than hath a dead corpse!--come , and we will speak further . Ods body ! I seem to be in evil case -- and all for an innocent and thoughtless pleasantry . I am a man of family ; and my wife and little ones -- List to reason , good your worship : what wouldst thou of me ? ”
+56954	56975	56977	56977	Hendon	128	“ Only that thou be blind and dumb and paralytic whilst one may count a hundred thousand -- counting slowly , ”
+56999	57005	57007	57008	the constable	1966	“ It is my destruction ! ”
+57011	57088	57089	57089	Hendon	128	“ Ah , be reasonable , good sir ; only look at this matter , on all its sides , and see how mere a jest it is -- how manifestly and how plainly it is so . And even if one granted it were not a jest , it is a fault so small that e’en the grimmest penalty it could call forth would be but a rebuke and warning from the judge ’s lips . ”
+57100	57116	57089	57089	Hendon	128	“ This jest of thine hath a name , in law,--wot you what it is ? ”
+57117	57148	57089	57089	Hendon	128	“ I knew it not ! Peradventure I have been unwise . I never dreamed it had a name -- ah , sweet heaven , I thought it was original . ”
+57149	57174	57089	57089	Hendon	128	“ Yes , it hath a name . In the law this crime is called Non compos mentis lex talionis sic transit gloria mundi . ”
+57175	57181	57089	57089	Hendon	128	“ Ah , my God ! ”
+57182	57189	57089	57089	Hendon	128	“ And the penalty is death ! ”
+57190	57199	57089	57089	Hendon	128	“ God be merciful to me a sinner ! ”
+57200	57283	57089	57089	Hendon	128	“ By advantage taken of one in fault , in dire peril , and at thy mercy , thou hast seized goods worth above thirteenpence ha’penny , paying but a trifle for the same ; and this , in the eye of the law , is constructive barratry , misprision of treason , malfeasance in office , ad hominem expurgatis in statu quo -- and the penalty is death by the halter , without ransom , commutation , or benefit of clergy . ”
+57284	57324	57089	57089	Hendon	128	“ Bear me up , bear me up , sweet sir , my legs do fail me ! Be thou merciful -- spare me this doom , and I will turn my back and see nought that shall happen . ”
+57325	57340	57089	57089	Hendon	128	“ Good ! now thou’rt wise and reasonable . And thou’lt restore the pig ? ”
+57341	57415	57089	57089	Hendon	128	“ I will , I will indeed -- nor ever touch another , though heaven send it and an archangel fetch it . Go -- I am blind for thy sake -- I see nothing . I will say thou didst break in and wrest the prisoner from my hands by force . It is but a crazy , ancient door -- I will batter it down myself betwixt midnight and the morning . ”
+57416	57456	57089	57089	Hendon	128	“ Do it , good soul , no harm will come of it ; the judge hath a loving charity for this poor lad , and will shed no tears and break no jailer ’s bones for his escape . ”
+57902	57918	57920	57920	Hendon	128	“ And old Sanctum Sanctorum _ was _ truly sorry your highness came not back , ”
+57922	57930	57920	57920	Hendon	128	“ I saw it in his face . ”
+57931	57941	57943	57944	the King	294	“ Marry I will never doubt _ that _ ! ”
+58157	58248	58149	58149	he	2056	“ There is the village , my Prince , and there is the Hall close by ! You may see the towers from here ; and that wood there -- that is my father ’s park . Ah , _ now _ thou’lt know what state and grandeur be ! A house with seventy rooms -- think of that!--and seven and twenty servants ! A brave lodging for such as we , is it not so ? Come , let us speed -- my impatience will not brook further delay . ”
+58282	58300	58268	58269	The travellers	2060	“ Here is the church -- covered with the same ivy -- none gone , none added . ”
+58301	58318	58268	58269	The travellers	2060	“ Yonder is the inn , the old Red Lion,--and yonder is the market - place . ”
+58319	58364	58268	58269	The travellers	2060	“ Here is the Maypole , and here the pump -- nothing is altered ; nothing but the people , at any rate ; ten years make a change in people ; some of these I seem to know , but none know me . ”
+58435	58444	58446	58446	Miles	128	“ Welcome to Hendon Hall , my King ! ”
+58448	58557	58446	58446	Miles	128	“ Ah , ’ tis a great day ! My father and my brother , and the Lady Edith will be so mad with joy that they will have eyes and tongue for none but me in the first transports of the meeting , and so thou’lt seem but coldly welcomed -- but mind it not ; ’ twill soon seem otherwise ; for when I say thou art my ward , and tell them how costly is my love for thee , thou’lt see them take thee to their breasts for Miles Hendon ’s sake , and make their house and hearts thy home for ever after ! ”
+58630	58636	58637	58637	he	128	“ Embrace me , Hugh , ”
+58640	58679	58637	58637	he	128	“ and say thou’rt glad I am come again ! and call our father , for home is not home till I shall touch his hand , and see his face , and hear his voice once more ! ”
+58748	58786	58741	58741	he	132	“ Thy wits seem touched , poor stranger ; doubtless thou hast suffered privations and rude buffetings at the world ’s hands ; thy looks and dress betoken it . Whom dost thou take me to be ? ”
+58787	58808	58810	58810	Miles	128	“ Take thee ? Prithee for whom else than whom thou art ? I take thee to be Hugh Hendon , ”
+58823	58833	58814	58815	The other	1645	“ And whom dost thou imagine thyself to be ? ”
+58834	58856	58814	58815	The other	1645	“ Imagination hath nought to do with it ! Dost thou pretend thou knowest me not for thy brother Miles Hendon ? ”
+58871	58954	58869	58869	he	177	“ What ! thou art not jesting ? can the dead come to life ? God be praised if it be so ! Our poor lost boy restored to our arms after all these cruel years ! Ah , it seems too good to be true , it _ is _ too good to be true -- I charge thee , have pity , do not trifle with me ! Quick -- come to the light -- let me scan thee well ! ”
+59026	59124	59022	59022	his	177	“ Go on , brother , go on , and fear not ; thou’lt find nor limb nor feature that can not bide the test . Scour and scan me to thy content , my good old Hugh -- I am indeed thy old Miles , thy same old Miles , thy lost brother , is’t not so ? Ah , ’ tis a great day -- I _ said _ ’ twas a great day ! Give me thy hand , give me thy cheek -- lord , I am like to die of very joy ! ”
+59156	59172	59173	59173	Miles	128	“ Ah , God of his mercy give me strength to bear this grievous disappointment ! ”
+59193	59205	59206	59206	Hugh	177	“ _ What _ disappointment ? Am I not thy brother ? ”
+59214	59249	59206	59206	Hugh	177	“ I pray heaven it may prove so , and that other eyes may find the resemblances that are hid from mine . Alack , I fear me the letter spoke but too truly . ”
+59250	59254	59206	59206	Hugh	177	“ What letter ? ”
+59255	59278	59206	59206	Hugh	177	“ One that came from over sea , some six or seven years ago . It said my brother died in battle . ”
+59279	59294	59206	59206	Hugh	177	“ It was a lie ! Call thy father -- he will know me . ”
+59295	59303	59206	59206	Hugh	177	“ One may not call the dead . ”
+59304	59307	59308	59308	Miles	128	“ Dead ? ”
+59319	59358	59315	59315	his	128	“ My father dead!--oh , this is heavy news . Half my new joy is withered now . Prithee let me see my brother Arthur -- he will know me ; he will know me and console me . ”
+59359	59367	59206	59206	Hugh	177	“ He , also , is dead . ”
+59368	59404	59206	59206	Hugh	177	“ God be merciful to me , a stricken man ! Gone,--both gone -- the worthy taken and the worthless spared , in me ! Ah ! I crave your mercy!--do not say the Lady Edith-- ”
+59405	59414	59315	59315	his	128	“ Is dead ? No , she lives . ”
+59415	59490	59206	59206	Hugh	177	“ Then , God be praised , my joy is whole again ! Speed thee , brother -- let her come to me ! An ’ _ she _ say I am not myself -- but she will not ; no , no , _ she _ will know me , I were a fool to doubt it . Bring her -- bring the old servants ; they , too , will know me . ”
+59491	59509	59513	59513	Hugh	177	“ All are gone but five -- Peter , Halsey , David , Bernard , and Margaret . ”
+59532	59553	59554	59554	He	128	“ The five arch - villains have survived the two - and - twenty leal and honest--‘tis an odd thing . ”
+59600	59630	59577	59578	his Majesty	3254	“ Mind not thy mischance , good man ; there be others in the world whose identity is denied , and whose claims are derided . Thou hast company . ”
+59631	59637	59639	59639	Hendon	128	“ Ah , my King , ”
+59644	59758	59639	59639	Hendon	128	“ do not thou condemn me -- wait , and thou shalt see . I am no impostor -- she will say it ; you shall hear it from the sweetest lips in England . I an impostor ? Why , I know this old hall , these pictures of my ancestors , and all these things that are about us , as a child knoweth its own nursery . Here was I born and bred , my lord ; I speak the truth ; I would not deceive thee ; and should none else believe , I pray thee do not _ thou _ doubt me -- I could not bear it . ”
+59759	59766	59768	59769	the King	294	“ I do not doubt thee , ”
+59778	59787	59789	59789	Hendon	128	“ I thank thee out of my heart ! ”
+59809	59817	59800	59801	The King	87	“ Dost thou doubt _ me _ ? ”
+59897	59905	59890	59891	Miles Hendon	128	“ Oh , my Edith , my darling-- ”
+59919	59929	59907	59907	Hugh	177	“ Look upon him . Do you know him ? ”
+60020	60026	60008	60008	she	802	“ I know him not ! ”
+60069	60080	60081	60081	They	2086	“ You have observed him . Do you know him ? ”
+60090	60116	60087	60088	the master	3699	“ The servants know you not , sir . I fear there is some mistake . You have seen that my wife knew you not . ”
+60117	60123	60087	60088	the master	3699	“ Thy _ wife _ ! ”
+60142	60195	60196	60196	Hugh	177	“ Oh , thou fox - hearted slave , I see it all ! Thou’st writ the lying letter thyself , and my stolen bride and goods are its fruit . There -- now get thee gone , lest I shame mine honourable soldiership with the slaying of so pitiful a mannikin ! ”
+60232	60245	60228	60230	one of them	681	“ He is armed , Sir Hugh , and we are weaponless . ”
+60246	60264	60228	60230	one of them	681	“ Armed ! What of it , and ye so many ? Upon him , I say ! ”
+60278	60299	60266	60266	Miles	128	“ Ye know me of old -- I have not changed ; come on , an ’ it like you . ”
+60314	60339	60341	60341	Hugh	132	“ Then go , ye paltry cowards , and arm yourselves and guard the doors , whilst I send one to fetch the watch ! ”
+60354	60371	60343	60343	He	132	“ You ’ll find it to your advantage to offend not with useless endeavours at escape . ”
+60372	60409	60343	60343	He	132	“ Escape ? Spare thyself discomfort , an ’ that is all that troubles thee . For Miles Hendon is master of Hendon Hall and all its belongings . He will remain -- doubt it not . ”
+60428	60443	60415	60416	The King	294	“ ‘ Tis strange -- most strange . I can not account for it . ”
+60444	60474	60343	60343	He	132	“ No , it is not strange , my liege . I know him , and this conduct is but natural . He was a rascal from his birth . ”
+60475	60489	60343	60343	He	132	“ Oh , I spake not of _ him _ , Sir Miles . ”
+60490	60506	60415	60416	The King	294	“ Not of him ? Then of what ? What is it that is strange ? ”
+60507	60515	60343	60343	He	132	“ That the King is not missed . ”
+60516	60528	60343	60343	He	132	“ How ? Which ? I doubt I do not understand . ”
+60529	60585	60415	60416	The King	294	“ Indeed ? Doth it not strike you as being passing strange that the land is not filled with couriers and proclamations describing my person and making search for me ? Is it no matter for commotion and distress that the Head of the State is gone ; that I am vanished away and lost ? ”
+60586	60597	60343	60343	He	132	“ Most true , my King , I had forgot . ”
+60607	60619	60605	60605	himself	128	“ Poor ruined mind -- still busy with its pathetic dream . ”
+60620	60695	60415	60416	The King	294	“ But I have a plan that shall right us both -- I will write a paper , in three tongues -- Latin , Greek and English -- and thou shalt haste away with it to London in the morning . Give it to none but my uncle , the Lord Hertford ; when he shall see it , he will know and say I wrote it . Then he will send for me . ”
+60696	60733	60734	60735	The King	294	“ Might it not be best , my Prince , that we wait here until I prove myself and make my rights secure to my domains ? I should be so much the better able then to-- ”
+60739	60769	60772	60772	he	294	“ Peace ! What are thy paltry domains , thy trivial interests , contrasted with matters which concern the weal of a nation and the integrity of a throne ? ”
+60789	60821	60772	60772	he	294	“ Obey , and have no fear ; I will right thee , I will make thee whole -- yes , more than whole . I shall remember , and requite . ”
+60847	60958	60836	60836	Hendon	128	“ An ’ it were dark , I should think it _ was _ a king that spoke ; there ’s no denying it , when the humour ’s upon on him he doth thunder and lighten like your true King ; now where got he that trick ? See him scribble and scratch away contentedly at his meaningless pot - hooks , fancying them to be Latin and Greek -- and except my wit shall serve me with a lucky device for diverting him from his purpose , I shall be forced to pretend to post away to - morrow on this wild errand he hath invented for me . ”
+61010	61017	61018	61018	he	128	“ How marvellous strange she acted , ”
+61021	61276	61018	61018	he	128	“ I think she knew me -- and I think she did _ not _ know me . These opinions do conflict , I perceive it plainly ; I can not reconcile them , neither can I , by argument , dismiss either of the two , or even persuade one to outweigh the other . The matter standeth simply thus : she _ must _ have known my face , my figure , my voice , for how could it be otherwise ? Yet she _ _ said _ _ she knew me not , and that is proof perfect , for she can not lie . But stop -- I think I begin to see . Peradventure he hath influenced her , commanded her , compelled her to lie . That is the solution . The riddle is unriddled . She seemed dead with fear -- yes , she was under his compulsion . I will seek her ; I will find her ; now that he is away , she will speak her true mind . She will remember the old times when we were little playfellows together , and this will soften her heart , and she will no more betray me , but will confess me . There is no treacherous blood in her -- no , she was always honest and true . She has loved me , in those old days -- this is my security ; for whom one has loved , one can not betray . ”
+61434	61502	61503	61503	She	137	“ Sir , I have come to warn you . The mad can not be persuaded out of their delusions , perchance ; but doubtless they may be persuaded to avoid perils . I think this dream of yours hath the seeming of honest truth to you , and therefore is not criminal -- but do not tarry here with it ; for here it is dangerous . ”
+61518	61546	61503	61503	She	137	“ It is the more dangerous for that you _ are _ much like what our lost lad must have grown to be if he had lived . ”
+61547	61559	61674	61674	She	2099	“ Heavens , madam , but I _ am _ he ! ”
+61560	61673	61674	61674	She	2099	“ I truly think you think it , sir . I question not your honesty in that ; I but warn you , that is all . My husband is master in this region ; his power hath hardly any limit ; the people prosper or starve , as he wills . If you resembled not the man whom you profess to be , my husband might bid you pleasure yourself with your dream in peace ; but trust me , I know him well ; I know what he will do ; he will say to all that you are but a mad impostor , and straightway all will echo him . ”
+61688	61753	61674	61674	She	2099	“ If you _ were _ Miles Hendon , and he knew it and all the region knew it -- consider what I am saying , weigh it well -- you would stand in the same peril , your punishment would be no less sure ; he would deny you and denounce you , and none would be bold enough to give you countenance . ”
+61754	61761	61763	61763	Miles	128	“ Most truly I believe it , ”
+61767	61815	61763	61763	Miles	128	“ The power that can command one life - long friend to betray and disown another , and be obeyed , may well look to be obeyed in quarters where bread and life are on the stake and no cobweb ties of loyalty and honour are concerned . ”
+61847	62002	61830	61830	she	2082	“ I have warned you -- I must still warn you -- to go hence . This man will destroy you , else . He is a tyrant who knows no pity . I , who am his fettered slave , know this . Poor Miles , and Arthur , and my dear guardian , Sir Richard , are free of him , and at rest : better that you were with them than that you bide here in the clutches of this miscreant . Your pretensions are a menace to his title and possessions ; you have assaulted him in his own house : you are ruined if you stay . Go -- do not hesitate . If you lack money , take this purse , I beg of you , and bribe the servants to let you pass . Oh , be warned , poor soul , and escape while you may . ”
+62019	62025	62026	62026	he	128	“ Grant me one thing , ”
+62029	62058	62026	62026	he	128	“ Let your eyes rest upon mine , so that I may see if they be steady . There -- now answer me . Am I Miles Hendon ? ”
+62059	62067	61830	61830	she	2082	“ No . I know you not . ”
+62068	62072	62026	62026	he	128	“ Swear it ! ”
+62080	62084	61830	61830	she	2082	“ I swear . ”
+62085	62092	61830	61830	she	2082	“ Oh , this passes belief ! ”
+62093	62110	61830	61830	she	2082	“ Fly ! Why will you waste the precious time ? Fly , and save yourself . ”
+62663	62686	62651	62652	The jailer	2121	“ The villain is in this room -- cast thy old eyes about and see if thou canst say which is he . ”
+62713	62775	62708	62708	He	128	“ This is Blake Andrews , a servant all his life in my father ’s family -- a good honest soul , with a right heart in his breast . That is , formerly . But none are true now ; all are liars . This man will know me -- and will deny me , too , like the rest . ”
+62794	62813	62776	62778	The old man	1756	“ I see none here but paltry knaves , scum o ’ the streets . Which is he ? ”
+62818	62821	62822	62822	he	2121	“ Here , ”
+62825	62837	62822	62822	he	2121	“ scan this big animal , and grant me an opinion . ”
+62858	62872	62854	62854	his	1756	“ Marry , _ this _ is no Hendon -- nor ever was ! ”
+62873	62897	62898	62899	The jailer	2121	“ Right ! Thy old eyes are sound yet . An ’ I were Sir Hugh , I would take the shabby carle and-- ”
+62935	62970	62929	62931	The old man	1756	“ Let him bless God an ’ he fare no worse . An ’ _ I _ had the handling o ’ the villain he should roast , or I am no true man ! ”
+62981	63004	63006	63006	he	2121	“ Give him a piece of thy mind , old man -- they all do it . Thou’lt find it good diversion . ”
+63025	63119	63016	63018	The old man	1756	“ God be thanked , thou’rt come again , my master ! I believed thou wert dead these seven years , and lo , here thou art alive ! I knew thee the moment I saw thee ; and main hard work it was to keep a stony countenance and seem to see none here but tuppenny knaves and rubbish o ’ the streets . I am old and poor , Sir Miles ; but say the word and I will go forth and proclaim the truth though I be strangled for it . ”
+63120	63123	63125	63125	Hendon	128	“ No , ”
+63127	63166	63125	63125	Hendon	128	“ thou shalt not . It would ruin thee , and yet help but little in my cause . But I thank thee , for thou hast given me back somewhat of my lost faith in my kind . ”
+63580	63614	63615	63615	His	294	“ There is rumour that the King is mad . But in charity forbear to say _ I _ mentioned it , for ’ tis death to speak of it , they say . ”
+63624	63657	63615	63616	His Majesty	3254	“ The King is _ not _ mad , good man -- and thou’lt find it to thy advantage to busy thyself with matters that nearer concern thee than this seditious prattle . ”
+63658	63665	63667	63667	Andrews	185	“ What doth the lad mean ? ”
+63700	63734	63687	63687	he	128	“ The late King is to be buried at Windsor in a day or two -- the 16th of the month -- and the new King will be crowned at Westminster the 20th . ”
+63735	63744	63746	63747	his Majesty	3254	“ Methinks they must needs find him first , ”
+63754	63767	63746	63747	his Majesty	3254	“ but they will look to that -- and so also shall I. ”
+63768	63773	63775	63777	the old man	1756	“ In the name of-- ”
+63798	63831	63791	63791	He	128	“ Sir Hugh goeth to the coronation -- and with grand hopes . He confidently looketh to come back a peer , for he is high in favour with the Lord Protector . ”
+63832	63837	63839	63840	his Majesty	3254	“ What Lord Protector ? ”
+63842	63850	63839	63840	his Majesty	3254	“ His Grace the Duke of Somerset . ”
+63851	63857	63791	63791	He	128	“ What Duke of Somerset ? ”
+63858	63872	63873	63874	The King	294	“ Marry , there is but one -- Seymour , Earl of Hertford . ”
+63877	63891	63791	63791	He	128	“ Since when is _ he _ a duke , and Lord Protector ? ”
+63892	63900	63791	63791	He	128	“ Since the last day of January . ”
+63901	63909	63791	63791	He	128	“ And prithee who made him so ? ”
+63910	63923	63924	63925	His Majesty	3254	“ Himself and the Great Council -- with help of the King . ”
+63929	63935	63936	63936	he	3254	“ The _ King _ ! ”
+63939	63948	63936	63936	he	3254	“ _ What _ king , good sir ? ”
+63949	64086	63924	63925	His Majesty	3254	“ What king , indeed ! ( God - a - mercy , what aileth the boy ? ) Sith we have but one , ’ tis not difficult to answer -- his most sacred Majesty King Edward the Sixth -- whom God preserve ! Yea , and a dear and gracious little urchin is he , too ; and whether he be mad or no -- and they say he mendeth daily -- his praises are on all men ’s lips ; and all bless him , likewise , and offer prayers that he may be spared to reign long in England ; for he began humanely with saving the old Duke of Norfolk ’s life , and now is he bent on destroying the cruellest of the laws that harry and oppress the people . ”
+64370	64406	64365	64365	he	2169	“ Is that a crime to be shut up for in a prison ? Now I grieve , for I shall lose ye -- they will not keep ye long for such a little thing . ”
+64425	64457	64421	64421	He	2169	“ You do not speak ; be good to me , and tell me -- there will be no other punishment ? Prithee tell me there is no fear of that . ”
+64475	64508	64509	64510	The women	2186	“ Will they scourge thee ? No , no , they would not be so cruel ! Say they would not . Come , they _ will _ not , will they ? ”
+64536	64553	64525	64527	one of them	681	“ Oh , thou’lt break our hearts , thou gentle spirit!--God will help us to bear our-- ”
+64554	64560	64561	64562	the King	294	“ It is a confession ! ”
+64566	64622	64561	64562	the King	294	“ Then they _ will _ scourge thee , the stony - hearted wretches ! But oh , thou must not weep , I can not bear it . Keep up thy courage -- I shall come to my own in time to save thee from this bitter thing , and I will do it ! ”
+64636	64641	64642	64642	he	294	“ They are saved ! ”
+64652	64662	64642	64642	he	294	“ but woe is me!--for they were my comforters . ”
+64938	65074	64930	64930	He	294	“ Alack , they are not gone free , as I had thought . To think that such as these should know the lash!--in England ! Ay , there ’s the shame of it -- not in Heathennesse , Christian England ! They will be scourged ; and I , whom they have comforted and kindly entreated , must look on and see the great wrong done ; it is strange , so strange , that I , the very source of power in this broad realm , am helpless to protect them . But let these miscreants look well to themselves , for there is a day coming when I will require of them a heavy reckoning for this work . For every blow they strike now , they shall feel a hundred then . ”
+65494	65548	65491	65491	He	294	“ That which I have seen , in that one little moment , will never go out from my memory , but will abide there ; and I shall see it all the days , and dream of it all the nights , till I die . Would God I had been blind ! ”
+65563	65632	65555	65555	He	128	“ His disorder mendeth ; he hath changed , and groweth gentler . If he had followed his wo nt , he would have stormed at these varlets , and said he was King , and commanded that the women be turned loose unscathed . Soon his delusion will pass away and be forgotten , and his poor mind will be whole again . God speed the day ! ”
+65915	65919	65921	65921	Hendon	128	“ Poor child , ”
+65923	65953	65921	65921	Hendon	128	“ these woeful tales have brought his malady upon him again ; alack , but for this evil hap , he would have been well in a little time . ”
+66073	66079	66080	66080	he	2261	“ These be honourable scars , ”
+66112	66185	66110	66110	He	294	“ None believe in me -- neither wilt thou . But no matter -- within the compass of a month thou shalt be free ; and more , the laws that have dishonoured thee , and shamed the English name , shall be swept from the statute books . The world is made wrong ; kings should go to school to their own laws , at times , and so learn mercy . ”
+66579	66595	66565	66565	He	87	“ For shame ! This is my servant -- set him free ! I am the-- ”
+66596	66601	66603	66603	Hendon	128	“ Oh , peace ! ”
+66609	66624	66603	66603	Hendon	128	“ thou’lt destroy thyself . Mind him not , officer , he is mad . ”
+66625	66663	66664	66664	He	87	“ Give thyself no trouble as to the matter of minding him , good man , I have small mind to mind him ; but as to teaching him somewhat , to that I am well inclined . ”
+66672	66690	66664	66664	He	87	“ Give the little fool a taste or two of the lash , to mend his manners . ”
+66691	66701	66703	66704	Sir Hugh	132	“ Half a dozen will better serve his turn , ”
+66848	66854	66856	66856	he	128	“ Let the child go , ”
+66858	66884	66856	66856	he	128	“ ye heartless dogs , do ye not see how young and frail he is ? Let him go -- I will take his lashes . ”
+66885	66897	66899	66900	Sir Hugh	132	“ Marry , a good thought -- and thanks for it , ”
+66910	66935	66902	66902	his	132	“ Let the little beggar go , and give this fellow a dozen in his place -- an honest dozen , well laid on . ”
+66958	66990	66949	66950	Sir Hugh	132	“ Yes , speak up , do , and free thy mind -- only , mark ye , that for each word you utter he shall get six strokes the more . ”
+67028	67035	67036	67036	he	1755	“ Ah , brave good heart , ”
+67041	67066	67067	67067	he	1755	“ this loyal deed shall never perish out of my memory . I will not forget it -- and neither shall _ they _ ! ”
+67110	67163	67105	67105	he	1755	“ Who saves his prince from wounds and possible death -- and this he did for me -- performs high service ; but it is little -- it is nothing -- oh , less than nothing!--when ’ tis weighed against the act of him who saves his prince from _ shame _ ! ”
+67280	67316	67317	67317	He	294	“ Kings can not ennoble thee , thou good , great soul , for One who is higher than kings hath done that for thee ; but a king can confirm thy nobility to men . ”
+67338	67346	67317	67317	He	294	“ Edward of England dubs thee Earl ! ”
+67435	67547	67430	67430	He	128	“ Now am I finely tinselled , indeed ! The spectre - knight of the Kingdom of Dreams and Shadows is become a spectre - earl -- a dizzy flight for a callow wing ! An ’ this go on , I shall presently be hung like a very maypole with fantastic gauds and make - believe honours . But I shall value them , all valueless as they are , for the love that doth bestow them . Better these poor mock dignities of mine , that come unasked , from a clean hand and a right spirit , than real ones bought by servility from grudging and interested power . ”
+68181	68198	68174	68174	Hendon	128	“ I had forgotten to inquire whither we are bound . Thy commands , my liege ! ”
+68199	68203	68204	68204	Hendon	128	“ To London ! ”
+68802	68808	68809	68809	He	90	“ Way for the King ! ”
+70069	70075	70076	70076	he	294	“ God save his Grace , ”
+70081	70087	70076	70076	he	294	“ God save you all ! ”
+70091	70100	70076	70076	he	294	“ he thanked them with all his heart . ”
+70445	70452	70454	70454	Tom	90	“ A largess ! a largess ! ”
+70900	70915	70917	70918	Tom Canty	90	“ And all these wonders and these marvels are to welcome me -- me ! ”
+71071	71079	71068	71068	she	287	“ O my child , my darling ! ”
+71129	71138	71096	71102	an officer of the King ’s Guard	2486	“ I do not know you , woman ! ”
+71296	71306	71293	71293	He	90	“ Would God I were free of my captivity ! ”
+71377	71382	71354	71355	the King	294	“ Largess , largess ! ”
+71391	71398	71354	71355	the King	294	“ Long live Edward of England ! ”
+71475	71484	71509	71509	they	2504	“ I do not know you , woman ! ”
+71665	71729	71647	71647	He	2359	“ My liege , it is an ill time for dreaming . The people observe thy downcast head , thy clouded mien , and they take it for an omen . Be advised : unveil the sun of royalty , and let it shine upon these boding vapours , and disperse them . Lift up thy face , and smile upon the people . ”
+71860	71880	71858	71858	He	2510	“ O dread sovereign ! shake off these fatal humours ; the eyes of the world are upon thee . ”
+71888	71904	71882	71882	he	2510	“ Perdition catch that crazy pauper ! ’ twas she that hath disturbed your Highness . ”
+71922	71928	71905	71907	The gorgeous figure	2516	“ She was my mother ! ”
+71929	71933	71935	71936	the Protector	2412	“ My God ! ”
+71947	71961	71938	71938	he	2412	“ the omen was pregnant with prophecy . He is gone mad again ! ”
+73458	73478	73437	73437	his	90	“ I forbid you to set the crown of England upon that forfeited head . I am the King ! ”
+73517	73530	73496	73497	Tom Canty	90	“ Loose him and forbear ! He _ is _ the King ! ”
+73606	73623	73597	73597	himself	186	“ Mind not his Majesty , his malady is upon him again -- seize the vagabond ! ”
+73641	73655	73636	73636	his	2603	“ On your peril ! Touch him not , he is the King ! ”
+73766	73802	73760	73760	his	520	“ Oh , my lord the King , let poor Tom Canty be first to swear fealty to thee , and say , ‘ Put on thy crown and enter into thine own again ! ’ ”
+73871	73877	73890	73890	he	2359	“ What a strange resemblance ! ”
+73896	73910	73890	73890	he	2359	“ By your favour , sir , I desire to ask certain questions which-- ”
+73911	73920	73921	73922	The Duke	2510	“ I will answer them , my lord . ”
+74020	74043	74016	74016	his	2359	“ It is true it is most wonderful -- but it is no more than our lord the King likewise can do . ”
+74071	74079	74081	74082	the Protector	2412	“ These are not _ proofs _ , ”
+74139	74170	74171	74171	He	2359	“ It is perilous to the State and to us all , to entertain so fateful a riddle as this ; it could divide the nation and undermine the throne . ”
+74175	74186	74187	74187	His	2359	“ Sir Thomas , arrest this -- No , hold ! ”
+74200	74244	74192	74192	he	2359	“ Where lieth the Great Seal ? Answer me this truly , and the riddle is unriddled ; for only he that was Prince of Wales _ can _ so answer ! On so trivial a thing hang a throne and a dynasty ! ”
+74419	74430	74446	74446	he	2642	“ There is nought in this riddle that is difficult . ”
+74465	74587	74446	74446	he	2642	“ My Lord St. John , go you to my private cabinet in the palace -- for none knoweth the place better than you -- and , close down to the floor , in the left corner remotest from the door that opens from the ante - chamber , you shall find in the wall a brazen nail - head ; press upon it and a little jewel - closet will fly open which not even you do know of -- no , nor any soul else in all the world but me and the trusty artisan that did contrive it for me . The first thing that falleth under your eye will be the Great Seal -- fetch it hither . ”
+74677	74693	74668	74669	Tom Canty	90	“ Why dost thou hesitate ? Hast not heard the King ’s command ? Go ! ”
+75004	75013	74983	74983	He	109	“ Sire , the Seal is not there ! ”
+75087	75111	75081	75083	The Lord Protector	2359	“ Cast the beggar into the street , and scourge him through the town -- the paltry knave is worth no more consideration ! ”
+75129	75139	75122	75123	Tom Canty	90	“ Back ! Whoso touches him perils his life ! ”
+75157	75226	75150	75150	He	186	“ Searched you well?--but it boots not to ask that . It doth seem passing strange . Little things , trifles , slip out of one ’s ken , and one does not think it matter for surprise ; but how so bulky a thing as the Seal of England can vanish away and no man be able to get track of it again -- a massy golden disk-- ”
+75238	75318	75150	75150	He	186	“ Hold , that is enough ! Was it round?--and thick?--and had it letters and devices graved upon it?--yes ? Oh , _ now _ I know what this Great Seal is that there ’s been such worry and pother about . An ’ ye had described it to me , ye could have had it three weeks ago . Right well I know where it lies ; but it was not I that put it there -- first . ”
+75319	75327	75329	75331	the Lord Protector	2359	“ Who , then , my liege ? ”
+75333	75414	75227	75228	Tom Canty	90	“ He that stands there -- the rightful King of England . And he shall tell you himself where it lies -- then you will believe he knew it of his own knowledge . Bethink thee , my King -- spur thy memory -- it was the last , the very _ last _ thing thou didst that day before thou didst rush forth from the palace , clothed in my rags , to punish the soldier that insulted me . ”
+75546	75566	75567	75567	He	520	“ I call the scene back -- all of it -- but the Seal hath no place in it . ”
+75580	75619	75567	75567	He	520	“ My lords and gentlemen , if ye will rob your rightful sovereign of his own for lack of this evidence which he is not able to furnish , I may not stay ye , being powerless . But-- ”
+75620	75632	75634	75635	Tom Canty	90	“ Oh , folly , oh , madness , my King ! ”
+75641	75785	75634	75635	Tom Canty	90	“ wait!--think ! Do not give up!--the cause is not lost ! Nor _ shall _ be , neither ! List to what I say -- follow every word -- I am going to bring that morning back again , every hap just as it happened . We talked -- I told you of my sisters , Nan and Bet -- ah , yes , you remember that ; and about mine old grandam -- and the rough games of the lads of Offal Court -- yes , you remember these things also ; very well , follow me still , you shall recall everything . You gave me food and drink , and did with princely courtesy send away the servants , so that my low breeding might not shame me before them -- ah , yes , this also you remember . ”
+75859	75994	76009	76011	the ragged claimant	2679	“ For a jest , my prince , we did exchange garments . Then we stood before a mirror ; and so alike were we that both said it seemed as if there had been no change made -- yes , you remember that . Then you noticed that the soldier had hurt my hand -- look ! here it is , I can not yet even write with it , the fingers are so stiff . At this your Highness sprang up , vowing vengeance upon that soldier , and ran towards the door -- you passed a table -- that thing you call the Seal lay on that table -- you snatched it up and looked eagerly about , as if for a place to hide it -- your eye caught sight of-- ”
+75995	76007	76009	76011	the ragged claimant	2679	“ There , ’ tis sufficient!--and the good God be thanked ! ”
+76018	76046	76009	76011	the ragged claimant	2679	“ Go , my good St. John -- in an arm - piece of the Milanese armour that hangs on the wall , thou’lt find the Seal ! ”
+76047	76055	76057	76058	Tom Canty	90	“ Right , my King ! right ! ”
+76060	76101	76057	76058	Tom Canty	90	“ _ Now _ the sceptre of England is thine own ; and it were better for him that would dispute it that he had been born dumb ! Go , my Lord St. John , give thy feet wings ! ”
+76232	76239	76209	76210	St. John	109	“ Long live the true King ! ”
+76316	76343	76312	76313	Tom Canty	90	“ Now , O my King , take these regal garments back , and give poor Tom , thy servant , his shreds and remnants again . ”
+76349	76362	76344	76346	The Lord Protector	2359	“ Let the small varlet be stripped and flung into the Tower . ”
+76373	76436	76364	76366	the new King	4381	“ I will not have it so . But for him I had not got my crown again -- none shall lay a hand upon him to harm him . And as for thee , my good uncle , my Lord Protector , this conduct of thine is not grateful toward this poor lad , for I hear he hath made thee a duke”--the
+76438	76485	76490	76490	his	2695	blushed--“yet he was not a king ; wherefore what is thy fine title worth now ? To - morrow you shall sue to me , _ through him _ , for its confirmation , else no duke , but a simple earl , shalt thou remain . ”
+76514	76538	76506	76507	The King	294	kindly--“My poor boy , how was it that you could remember where I hid the Seal when I could not remember it myself ? ”
+76539	76556	76506	76507	The King	294	“ Ah , my King , that was easy , since I used it divers days . ”
+76557	76569	76506	76507	The King	294	“ Used it -- yet could not explain where it was ? ”
+76570	76592	76506	76507	The King	294	“ I did not know it was _ that _ they wanted . They did not describe it , your Majesty . ”
+76593	76600	76506	76507	The King	294	“ Then how used you it ? ”
+76622	76633	76635	76636	the King	294	“ Speak up , good lad , and fear nothing , ”
+76638	76648	76635	76636	the King	294	“ How used you the Great Seal of England ? ”
+76663	76669	76670	76671	Poor child	3366	“ To crack nuts with ! ”
+77518	77525	77513	77513	he	128	“ The new King is crowned , ”
+77765	77831	77763	77763	himself	2753	“ An ’ that is not the very vagabond his Majesty is in such a worry about , then am I an ass -- though belike I was that before . He answereth the description to a rag -- that God should make two such would be to cheapen miracles by wasteful repetition . I would I could contrive an excuse to speak with him . ”
+77880	77895	77874	77874	he	128	“ You have just come out from the palace ; do you belong there ? ”
+77896	77902	77874	77874	he	128	“ Yes , your worship . ”
+77903	77910	77911	77912	The boy	520	“ Know you Sir Humphrey Marlow ? ”
+77920	77928	77911	77912	The boy	520	“ Lord ! mine old departed father ! ”
+77934	77941	77930	77930	he	520	“ Right well , your worship . ”
+77942	77949	77874	77874	he	128	“ Good -- is he within ? ”
+77950	77953	77955	77956	the boy	520	“ Yes , ”
+77964	77969	77955	77956	the boy	520	“ within his grave . ”
+77970	77995	77874	77874	he	128	“ Might I crave your favour to carry my name to him , and say I beg to say a word in his ear ? ”
+77996	78008	77874	77874	he	128	“ I will despatch the business right willingly , fair sir . ”
+78009	78036	78037	78038	The boy	520	“ Then say Miles Hendon , son of Sir Richard , is here without -- I shall be greatly bounden to you , my good lad . ”
+78042	78051	78052	78052	he	520	“ The King did not name him so , ”
+78057	78088	78052	78052	he	520	“ but it mattereth not , this is his twin brother , and can give his Majesty news of t’other Sir - Odds - and - Ends , I warrant . ”
+78095	78113	78090	78090	he	520	“ Step in there a moment , good sir , and wait till I bring you word . ”
+78230	78241	78244	78244	Miles	128	“ God of his mercy grant that they find somewhat , ”
+78246	78263	78244	78244	Miles	128	“ I have searched enow , and failed , yet is my need greater than theirs . ”
+78326	78334	78336	78337	the officer	1341	“ Another new claimant of the Crown ! ”
+78339	78376	78377	78377	He	1341	“ Verily they breed like rabbits , to - day . Seize the rascal , men , and see ye keep him fast whilst I convey this precious paper within and send it to the King . ”
+78391	78401	78403	78403	Hendon	128	“ Now is my evil luck ended at last , ”
+78405	78442	78403	78403	Hendon	128	“ for I shall dangle at a rope ’s end for a certainty , by reason of that bit of writing . And what will become of my poor lad!--ah , only the good God knoweth . ”
+78499	78509	78477	78478	The officer	1341	“ Please you , sir , to follow me . ”
+78517	78547	78515	78515	himself	128	“ An ’ I were not travelling to death and judgment , and so must needs economise in sin , I would throttle this knave for his mock courtesy . ”
+78854	78870	78871	78871	He	128	“ Lo , the Lord of the Kingdom of Dreams and Shadows on his throne ! ”
+78901	78917	78884	78884	his	128	“ But these are _ real_--verily these are _ real_--surely it is not a dream . ”
+78928	78970	78921	78922	the King	294	“ _ Is _ it a dream . . . or _ is _ he the veritable Sovereign of England , and not the friendless poor Tom o ’ Bedlam I took him for -- who shall solve me this riddle ? ”
+79025	79041	78980	78980	he	128	“ Up , thou mannerless clown ! would’st sit in the presence of the King ? ”
+79058	79068	79069	79070	The throng	2807	“ Touch him not , it is his right ! ”
+79080	79241	79076	79077	The King	294	“ Learn ye all , ladies , lords , and gentlemen , that this is my trusty and well - beloved servant , Miles Hendon , who interposed his good sword and saved his prince from bodily harm and possible death -- and for this he is a knight , by the King ’s voice . Also learn , that for a higher service , in that he saved his sovereign stripes and shame , taking these upon himself , he is a peer of England , Earl of Kent , and shall have gold and lands meet for the dignity . More -- the privilege which he hath just exercised is his by royal grant ; for we have ordained that the chiefs of his line shall have and hold the right to sit in the presence of the Majesty of England henceforth , age after age , so long as the crown shall endure . Molest him not . ”
+79333	79425	79318	79318	He	2815	“ Oh , body o ’ me ! _ this _ my pauper ! This my lunatic ! This is he whom _ I _ would show what grandeur was , in my house of seventy rooms and seven - and - twenty servants ! This is he who had never known aught but rags for raiment , kicks for comfort , and offal for diet ! This is he whom _ I _ adopted and would make respectable ! Would God I had a bag to hide my head in ! ”
+79499	79525	79484	79485	the King	294	“ Strip this robber of his false show and stolen estates , and put him under lock and key till I have need of him . ”
+79583	79825	79826	79831	The proud and happy Tom Canty	90	“ I have learned the story of these past few weeks , and am well pleased with thee . Thou hast governed the realm with right royal gentleness and mercy . Thou hast found thy mother and thy sisters again ? Good ; they shall be cared for -- and thy father shall hang , if thou desire it and the law consent . Know , all ye that hear my voice , that from this day , they that abide in the shelter of Christ ’s Hospital and share the King ’s bounty shall have their minds and hearts fed , as well as their baser parts ; and this boy shall dwell there , and hold the chief place in its honourable body of governors , during life . And for that he hath been a king , it is meet that other than common observance shall be his due ; wherefore note this his dress of state , for by it he shall be known , and none shall copy it ; and wheresoever he shall come , it shall remind the people that he hath been royal , in his time , and none shall deny him his due of reverence or fail to give him salutation . He hath the throne ’s protection , he hath the crown ’s support , he shall be known and called by the honourable title of the King ’s Ward . ”
+79962	79964	79959	79959	she	2825	“ Take it!”--she
+80731	80741	80743	80743	they	244	“ Doff thy hat , it is the King ’s Ward!”--and
+80858	80880	80850	80850	his	2308	“ What dost _ thou _ know of suffering and oppression ? I and my people know , but not thou . ”
+82873	82877	82879	82879	he	219	“ Lord God , ”
+82881	82907	82879	82879	he	219	“ I yield Thee most hearty thanks that Thou hast given me life thus long to finish this work to the glory of Thy name ! ”
